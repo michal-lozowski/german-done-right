@@ -2,8 +2,13 @@
 fetch('questions.txt')
     .then(response => response.text())
     .then(questionsText => {
+        // Replace line breaks with <br> tags
+        questionsText = questionsText.replace(/\n/g, '<br>');
+
         // Split the questions into an array
         const questions = questionsText.split('_');
+
+    
 
         // Read the answers from the answers.txt file
         fetch('answers.txt')
