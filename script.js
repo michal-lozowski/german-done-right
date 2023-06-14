@@ -1,5 +1,6 @@
 let questions = [];
 let answers = [];
+let exerciseHTML = [];
 
 // Read the questions from the questions.txt file
 fetch('questions.txt')
