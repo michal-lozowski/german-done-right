@@ -6,7 +6,7 @@ fetch('questions.txt')
         questionsText = questionsText.replace(/\n/g, '<br>');
 
         // Split the questions into an array
-        const questions = questionsText;
+        const questions = questionsText.split('_');
 });
     
 
@@ -23,7 +23,7 @@ function generateExerciseHTML() {
   var exerciseHTML = "";
   
   for (var i = 0; i < questions.length; i++) {
-    exerciseHTML += questions[i].replace("_", `<input id="input-${i}" class="gap-input" data-index="${i}" type="text">`);
+    exerciseHTML += questions[i](`<input id="input-${i}" class="gap-input" data-index="${i}" type="text">`);
   }
   
   document.getElementById("exercise-container").innerHTML = exerciseHTML;
