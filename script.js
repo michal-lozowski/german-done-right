@@ -18,14 +18,6 @@ fetch('answers.txt')
         const answers = answersText.split(',');
 });
 
-// Sample data
-var questions = [
-  "The capital of France is",
-  "The largest planet in our solar system is",
-  "The chemical symbol for water is"
-];
-var answers = ["Paris", "Jupiter", "H2O"];
-
 // Function to generate the HTML for fill in the gaps exercise
 function generateExerciseHTML() {
   var exerciseHTML = "";
