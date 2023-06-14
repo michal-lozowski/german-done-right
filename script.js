@@ -6,7 +6,7 @@ fetch('questions.txt')
         questionsText = questionsText.replace(/\n/g, '<br>');
 
         // Split the questions into an array
-        const questions = questionsText.split('_');
+        const questions = questionsText;
 });
     
 
