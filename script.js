@@ -8,7 +8,6 @@ fetch('questions.txt')
         // Split the questions into an array
         const questions = questionsText.split('_');
 });
-    
 
 // Read the answers from the answers.txt file
 fetch('answers.txt')
@@ -23,7 +22,7 @@ function generateExerciseHTML() {
   var exerciseHTML = "";
   
   for (var i = 0; i < questions.length; i++) {
-    exerciseHTML += questions[i].replace("_", `<input class="gap-input" id="input-${i}" data-index="${i}" type="text" placeholder="Enter your answer">`);
+    exerciseHTML += questions[i];
   }
   
   document.getElementById("exercise-container").innerHTML = exerciseHTML;
