@@ -23,7 +23,7 @@ fetch('answers.txt')
 
 // Function to generate the HTML for fill in the gaps exercise
 function generateExerciseHTML() {
-  document.getElementById("exercise-container").innerHTML = exerciseHTML;
+  document.getElementById("exercise-container").innerHTML = questions;
 }
 
 // Call the function to generate the exercise HTML
