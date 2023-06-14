@@ -9,7 +9,7 @@ fetch('questions.txt')
         questionsText = questionsText.replace(/\n/g, '<br>');
 
         // Split the questions into an array
-        const questions = questionsText.split('_');
+        questions = questionsText.split('_');
 });
 
 // Read the answers from the answers.txt file
@@ -17,7 +17,7 @@ fetch('answers.txt')
       .then(response => response.text())
       .then(answersText => {
         // Split the answers into an array
-        const answers = answersText.split(',');
+        answers = answersText.split(',');
 });
 
 // Function to generate the HTML for fill in the gaps exercise
