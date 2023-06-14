@@ -1,3 +1,6 @@
+let questions = [];
+let answers = [];
+
 // Read the questions from the questions.txt file
 fetch('questions.txt')
     .then(response => response.text())
