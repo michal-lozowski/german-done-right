@@ -1,6 +1,5 @@
 let questions = [];
 let answers = [];
-let exerciseHTML = [];
 
 // Read the questions from the questions.txt file
 fetch('questions.txt')
@@ -23,7 +22,12 @@ fetch('answers.txt')
 
 // Function to generate the HTML for fill in the gaps exercise
 function generateExerciseHTML() {
-  document.getElementById("exercise-container").innerHTML = questions;
+ 
+  for (var i = 0; i < questions.length; i++) {
+    exerciseHTML += questions[i];
+  }
+  
+  document.getElementById("exercise-container").innerHTML = exerciseHTML;
 }
 
 // Call the function to generate the exercise HTML
