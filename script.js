@@ -18,53 +18,26 @@ fetch('answers.txt')
         const answers = answersText.split(',');
 });
 
+// Sample data
+var questions = [
+  "The capital of France is",
+  "The largest planet in our solar system is",
+  "The chemical symbol for water is"
+];
+var answers = ["Paris", "Jupiter", "H2O"];
+
 // Function to generate the HTML for fill in the gaps exercise
 function generateExerciseHTML() {
   var exerciseHTML = "";
-  
+
   for (var i = 0; i < questions.length; i++) {
-    exerciseHTML += questions[i](`<input id="input-${i}" class="gap-input" data-index="${i}" type="text">`);
+    exerciseHTML += questions[i];
+    if (i !== questions.length - 1) {
+      exerciseHTML += `<input class="gap-input" id="input-${i}" data-index="${i}" type="text" placeholder="Enter your answer">`;
+    }
   }
-  
+
   document.getElementById("exercise-container").innerHTML = exerciseHTML;
-  
-  // Add event listeners to input fields
-  var inputs = document.getElementsByClassName("gap-input");
-  for (var i = 0; i < inputs.length; i++) {
-    inputs[i].addEventListener("keyup", function(event) {
-      if (event.keyCode === 13) { // Enter key
-        checkAnswer(event.target);
-        moveToNextGap(event.target);
-      }
-    });
-  }
-}
-
-// Function to check the answer
-function checkAnswer(input) {
-  var index = input.dataset.index;
-  var userAnswer = input.value.trim();
-  var correctAnswer = answers[index];
-  
-  if (userAnswer === correctAnswer) {
-    input.classList.add("correct");
-  } else {
-    input.classList.add("incorrect");
-  }
-}
-
-// Function to move to the next gap
-function moveToNextGap(input) {
-  var index = input.dataset.index;
-  var nextIndex = parseInt(index) + 1;
-  var nextInput = document.getElementById("input-" + nextIndex);
-  
-  if (nextInput) {
-    nextInput.focus();
-  } else {
-    // All gaps filled, do something (e.g., show results)
-    console.log("Exercise completed!");
-  }
 }
 
 // Call the function to generate the exercise HTML
