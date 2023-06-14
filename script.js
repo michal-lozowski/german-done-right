@@ -17,57 +17,55 @@ fetch('answers.txt')
         // Split the answers into an array
         const answers = answersText.split(',');
 });
-               
 
-// Generate the exercise HTML
-const exerciseContainer = document.getElementById('exercise-container');
-let exerciseHTML = '';
-
-for (let i = 0; i < questions.length - 1; i++) {
-  exerciseHTML += questions[i];
-  exerciseHTML += `<input type="text" id="input">`;
+// Function to generate the HTML for fill in the gaps exercise
+function generateExerciseHTML() {
+  var exerciseHTML = "";
+  
+  for (var i = 0; i < questions.length; i++) {
+    exerciseHTML += questions[i].replace("________", `<input id="input-${i}" class="gap-input" data-index="${i}" type="text">`);
   }
-
-exerciseHTML += questions[questions.length - 1];
-exerciseContainer.innerHTML = exerciseHTML;
-            
-    
-
-// Function to check the answer when the user presses ENTER
-/* function checkAnswer(event, input) {
-    if (event.keyCode === 13) {
-        const userAnswer = input.value.trim();
-        const correctAnswer = input.dataset.answer;
-
-        if (userAnswer === correctAnswer) {
-            input.classList.add('correct');
-            input.classList.remove('incorrect');
-        } else {
-            input.classList.add('incorrect');
-            input.classList.remove('correct');
-        }
-    }
-} */
-
-input.addEventListener("keydown", function(event) {
-  if (event.key === "Enter") {
-    event.preventDefault();
-
-    const userAnswer = input.value.trim().toLowerCase();
-    const correctAnswer = answers[index].toLowerCase();
-
-    if (userAnswer === correctAnswer) {
-      input.classList.remove("incorrect");
-      input.classList.add("correct");
-    } else {
-      input.classList.remove("correct");
-      input.classList.add("incorrect");
-    }
-
-    // Move focus to the next input field
-    const nextInput = document.getElementById("input-" + (index + 1));
-    if (nextInput) {
-      nextInput.focus();
-    }
+  
+  document.getElementById("exercise-container").innerHTML = exerciseHTML;
+  
+  // Add event listeners to input fields
+  var inputs = document.getElementsByClassName("gap-input");
+  for (var i = 0; i < inputs.length; i++) {
+    inputs[i].addEventListener("keyup", function(event) {
+      if (event.keyCode === 13) { // Enter key
+        checkAnswer(event.target);
+        moveToNextGap(event.target);
+      }
+    });
   }
-});
+}
+
+// Function to check the answer
+function checkAnswer(input) {
+  var index = input.dataset.index;
+  var userAnswer = input.value.trim();
+  var correctAnswer = answers[index];
+  
+  if (userAnswer === correctAnswer) {
+    input.classList.add("correct");
+  } else {
+    input.classList.add("incorrect");
+  }
+}
+
+// Function to move to the next gap
+function moveToNextGap(input) {
+  var index = input.dataset.index;
+  var nextIndex = parseInt(index) + 1;
+  var nextInput = document.getElementById("input-" + nextIndex);
+  
+  if (nextInput) {
+    nextInput.focus();
+  } else {
+    // All gaps filled, do something (e.g., show results)
+    console.log("Exercise completed!");
+  }
+}
+
+// Call the function to generate the exercise HTML
+generateExerciseHTML();
