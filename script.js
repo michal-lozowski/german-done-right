@@ -21,14 +21,11 @@ fetch('answers.txt')
 // Function to generate the HTML for fill in the gaps exercise
 function generateExerciseHTML() {
   var exerciseHTML = "";
-
+  
   for (var i = 0; i < questions.length; i++) {
-    exerciseHTML += questions[i];
-    if (i !== questions.length - 1) {
-      exerciseHTML += `<input class="gap-input" id="input-${i}" data-index="${i}" type="text" placeholder="Enter your answer">`;
-    }
+    exerciseHTML += questions[i].replace("_", `<input class="gap-input" id="input-${i}" data-index="${i}" type="text" placeholder="Enter your answer">`);
   }
-
+  
   document.getElementById("exercise-container").innerHTML = exerciseHTML;
 }
 
