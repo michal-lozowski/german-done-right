@@ -6,20 +6,17 @@ fetch('questions.txt')
       
     container = document.getElementById('test-container');
     for (let i = 0; i < questions.length; i++) {
-      const questionContainer = document.createElement('div');
-      const questionText = document.createElement('div');
-      const inputContainer = document.createElement('div');
       
-      questionText.innerHTML = questions[i];
+      const divtext = document.createElement('div');
+      divtext.innerHTML = questions[i];
+      container.appendChild(divtext);
 
       const input = document.createElement('input');
       const uniqueId = 'input_' + i;  
       input.setAttribute('type', 'text');
       input.setAttribute('id', uniqueId);
-      input.setAttribute('class', "answerField");
-      
-      inputContainer.appendChild(input);
-      questionContainer.appendChild(inputContainer);
+      input.setAttribute('class', "answerField"); 
+      input.style.display = 'inline';
 
       container.appendChild(input);
   };
