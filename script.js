@@ -8,9 +8,9 @@ fetch('questions.txt')
     for (let i = 0; i < questions.length; i++) {
 
       const divtext = document.createElement('div');
-      div.innerHTML = questions[i];
+      divtext.innerHTML = questions[i];
       container.appendChild(divtext);
-      
+
       const input = document.createElement('input');
       const uniqueId = 'input_' + i;  
       input.setAttribute('type', 'text');
