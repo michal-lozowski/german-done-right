@@ -30,12 +30,14 @@ fetch('answers.txt')
     const answers = lines.map(line => line.split(','));
   });
 
-const autoScaleInputs = document.querySelectorAll('.answerField');
-autoScaleInputs.forEach(input => {
-  input.addEventListener('input', () => {
-    input.style.width = 'auto';
+const autoWidthInputs = document.querySelectorAll('.answerField');
 
-    const inputWidth = input.scrollWidth;
-    input.style.width = inputWidth + '10px'; // Set the width to the calculated scroll width
+autoWidthInputs.forEach(input => {
+  input.addEventListener('input', () => {
+  input.style.width = 'auto'; // Reset the width to auto
+  
+  const inputWidth = input.scrollWidth;
+  input.style.width = inputWidth + 'px'; // Set the width to the calculated scroll width
+    });
   });
-});
+  
