@@ -6,8 +6,11 @@ fetch('questions.txt')
       
     container = document.getElementById('test-container');
     for (let i = 0; i < questions.length; i++) {
-      const text = document.createTextNode(questions[i]);
-      container.appendChild(text);
+
+      const divtext = document.createElement('div');
+      div.innerHTML = questions[i];
+      container.appendChild(divtext);
+      
       const input = document.createElement('input');
       const uniqueId = 'input_' + i;  
       input.setAttribute('type', 'text');
