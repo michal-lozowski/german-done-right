@@ -9,14 +9,16 @@ fetch('questions.txt')
       
       const spantext = document.createElement('span');
       spantext.innerHTML = questions[i];
-      const input = document.createElement('input');
-      const uniqueId = 'input_' + i;  
-      input.setAttribute('type', 'text');
-      input.setAttribute('id', uniqueId);
-      input.setAttribute('class', "answerField"); 
-      spantext.appendChild(input);      
-      container.appendChild(spantext);
-
+      if (i < questions.length - 1) {
+        const input = document.createElement('input');
+        const uniqueId = 'input_' + i;  
+        input.setAttribute('type', 'text');
+        input.setAttribute('id', uniqueId);
+        input.setAttribute('class', "answerField"); 
+        spantext.appendChild(input);      
+        };
+        container.appendChild(spantext);
+      
   };
 
   });
