@@ -1,7 +1,7 @@
 fetch('questions.txt')
   .then(response => response.text())
   .then(questionsText => {
-    questionsText = questionsText.replace("\n","<br>")
+    questionsText = questionsText.replace(/\n/g,"<br>")
     const questions = questionsText.trim().split('_');
       
     container = document.getElementById('test-container');
