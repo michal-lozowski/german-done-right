@@ -18,7 +18,6 @@ fetch('questions.txt')
       input.setAttribute('id', uniqueId);
       input.setAttribute('class', "answerField");
       
-      questionContainer.appendChild(questionText);
       inputContainer.appendChild(input);
       questionContainer.appendChild(inputContainer);
 
