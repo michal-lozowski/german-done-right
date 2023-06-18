@@ -9,7 +9,7 @@ fetch('questions.txt')
       const text = document.createTextNode(questions[i]);
       container.appendChild(text);
       const input = document.createElement('input');
-      const uniqueId = 'input_' + i; d 
+      const uniqueId = 'input_' + i;  
       input.setAttribute('type', 'text');
       input.setAttribute('id', uniqueId);
       input.setAttribute('class', "answerField");   
