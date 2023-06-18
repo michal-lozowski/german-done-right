@@ -33,7 +33,7 @@ fetch('answers.txt')
 const autoScaleInputs = document.querySelectorAll('.answerField');
 autoScaleInputs.forEach(input => {
   input.addEventListener('input', () => {
-    input.style.width = 'auto'; // Reset the width to auto to allow the input to shrink
+    input.style.width = 'auto';
 
     const inputWidth = input.scrollWidth;
     input.style.width = inputWidth + '10px'; // Set the width to the calculated scroll width
