@@ -34,10 +34,8 @@ const autoWidthInputs = document.querySelectorAll('.answerField');
 
 autoWidthInputs.forEach(input => {
   input.addEventListener('input', () => {
-  input.style.width = 'auto'; // Reset the width to auto
-  
-  const inputWidth = input.scrollWidth;
-  input.style.width = inputWidth + 'px'; // Set the width to the calculated scroll width
-    });
+    const inputLength = input.value.length;
+    let width = inputLength * 10; 
+    input.style.width = width + 'px'; // Set the width of the input field
   });
-  
+});
