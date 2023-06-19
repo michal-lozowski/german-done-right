@@ -36,6 +36,8 @@ autoWidthInputs.forEach(input => {
   input.addEventListener('input', () => {
     const inputLength = input.value.length;
     let width = inputLength * 10; 
-    input.style.width = width + 'px';
+    input.style.width = width + "px";
+  
+    ;
   });
 });
