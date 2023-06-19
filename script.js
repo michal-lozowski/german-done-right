@@ -24,7 +24,7 @@ fetch('questions.txt')
   };
 
   });
-
+/*
 fetch('answers.txt')
   .then(response => response.text())
   .then(answersText => {
@@ -53,4 +53,4 @@ fetch('answers.txt')
 
 
   });
-
+*/
