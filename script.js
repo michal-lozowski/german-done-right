@@ -28,4 +28,15 @@ fetch('answers.txt')
   .then(answersText => {
     const lines = answersText.split('\n');
     const answers = lines.map(line => line.split(','));
+    
+    const answerFields = document.querySelectorAll('.answerField');
+    answerFields.forEach(input => {
+      input.addEventListener('keyup', event => {
+        if (event.keyCode === 13) {
+          event.target.style.backgroundColor = 'green';
+        };
+      });
+    });
+
+
   });
