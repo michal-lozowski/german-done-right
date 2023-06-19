@@ -15,7 +15,6 @@ fetch('questions.txt')
         input.setAttribute('type', 'text');
         input.setAttribute('id', uniqueId);
         input.setAttribute('class', "answerField"); 
-        input.setAttribute('onkeypress', 'checkInput(event, i)');
         if (i = 0) input.setAttribute('autofocus');
         spantext.appendChild(input);      
         };
