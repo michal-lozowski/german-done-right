@@ -33,7 +33,12 @@ fetch('answers.txt')
     answerFields.forEach(input => {
       input.addEventListener('keyup', event => {
         if (event.keyCode === 13) {
-          event.target.style.backgroundColor = 'green';
+          
+          const inputId = event.target.id;
+          const inputValue = event.target.value;
+          
+          if (inputValue.length > 5) {event.target.style.backgroundColor = 'green'};
+
         };
       });
     });
