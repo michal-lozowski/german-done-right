@@ -11,7 +11,7 @@ fetch('questions.txt')
       spantext.innerHTML = questions[i];
       if (i < questions.length - 1) {
         const input = document.createElement('input');
-        const uniqueId = 'input_' + i;  
+        const uniqueId = i;  
         input.setAttribute('type', 'text');
         input.setAttribute('id', uniqueId);
         input.setAttribute('class', "answerField"); 
@@ -35,9 +35,12 @@ fetch('answers.txt')
         if (event.keyCode === 13) {
           
           const inputId = event.target.id;
+          
           const inputValue = event.target.value;
           
-          if (inputValue.length > 5) {event.target.style.backgroundColor = 'green'};
+          if (inputValue.length > 5) {
+            event.target.style.backgroundColor = 'green';
+            answerFields[inputId+1].focus();
 
         };
       });
