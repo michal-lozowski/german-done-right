@@ -41,6 +41,7 @@ fetch('answers.txt')
           if (inputValue.length > 5) {
             event.target.style.backgroundColor = 'green';
             answerFields[inputId+1].focus();
+          };
 
         };
       });
