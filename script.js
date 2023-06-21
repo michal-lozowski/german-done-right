@@ -23,6 +23,17 @@ fetch('questions.txt')
 
   });
 
+
+// Get all elements with the class name
+const inputFieldsHTMLCollection = document.getElementsByClassName('inoutField');
+
+// Convert the HTMLCollection to an array
+const inputFieldsHTMLCollectionArray = Array.from(inputFieldsHTMLCollection);
+
+// Extract the IDs from the elements and sort them
+const sortedIDs = elementsArray.map(element => element.id).sort();
+
+
 fetch('answers.txt')
   .then(response => response.text())
   .then(answersText => {
