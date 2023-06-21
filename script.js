@@ -31,7 +31,7 @@ const inputFieldsHTMLCollection = document.getElementsByClassName('inoutField');
 const inputFieldsHTMLCollectionArray = Array.from(inputFieldsHTMLCollection);
 
 // Extract the IDs from the elements and sort them
-const sortedIDs = elementsArray.map(element => element.id).sort();
+const sortedIDs = inputFieldsHTMLCollectionArray.map(element => element.id).sort();
 
 
 fetch('answers.txt')
