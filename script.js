@@ -33,6 +33,7 @@ const answerFieldsHTMLCollectionArray = Array.from(answerFieldsHTMLCollection);
 // Extract the IDs from the elements and sort them
 const sortedIDs = answerFieldsHTMLCollectionArray.map(element => element.id).sort();
 
+console.log(sortedIDs);
 
 fetch('answers.txt')
   .then(response => response.text())
