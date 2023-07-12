@@ -44,7 +44,7 @@ fetch('answers.txt')
 const answerFields = document.querySelectorAll('.answerField');
 answerFields.forEach(input => {
   input.addEventListener('keyup', event => {
-    if (event.keyCode === 13) {
+    //if (event.keyCode === 13) {
       
       //const inputId = event.target.id;
       
@@ -54,7 +54,7 @@ answerFields.forEach(input => {
         event.target.style.backgroundColor = 'green';
       }; 
 
-    };
+    //};
   });
 });
 
