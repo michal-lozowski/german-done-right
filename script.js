@@ -50,7 +50,7 @@ fetch('answers.txt')
         
         const inputValue = event.target.value.trim();
         
-        if (inputValue.length > 5) {
+        if (inputValue == answers[0]) {
           event.target.style.backgroundColor = 'green';
         }; 
 
