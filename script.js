@@ -38,8 +38,7 @@ var answers;
 fetch('answers.txt')
   .then(response => response.text())
   .then(answersText => {
-    const lines = answersText.split('\n');
-    answers = lines.map(line => line.split(','));
+    answers = answersText.split('\n');
   });
 
   const answerFields = document.querySelectorAll('.answerField');
