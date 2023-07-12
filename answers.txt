@@ -1,1 +1,4 @@
-ie,ßt,ßt,ist
+ie
+ßt
+ßt
+ist
