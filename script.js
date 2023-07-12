@@ -41,20 +41,20 @@ fetch('answers.txt')
     answers = answersText.split('\n');
   });
 
-  const answerFields = document.querySelectorAll('.answerField');
-  answerFields.forEach(input => {
-    input.addEventListener('keyup', event => {
-      if (event.keyCode === 13) {
-        
-        const inputId = event.target.id;
-        
-        const inputValue = event.target.value.trim();
-        
-        if (inputValue == answers[0]) {
-          event.target.style.backgroundColor = 'green';
-        }; 
+const answerFields = document.querySelectorAll('.answerField');
+answerFields.forEach(input => {
+  input.addEventListener('keyup', event => {
+    if (event.keyCode === 13) {
+      
+      const inputId = event.target.id;
+      
+      const inputValue = event.target.value.trim();
+      
+      if (inputValue.length > 3) {
+        event.target.style.backgroundColor = 'green';
+      }; 
 
-      };
-    });
+    };
   });
+});
 
