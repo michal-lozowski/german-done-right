@@ -33,28 +33,29 @@ const answerFieldsHTMLCollectionArray = Array.from(answerFieldsHTMLCollection);
 // Extract the IDs from the elements and sort them
 const sortedIDs = answerFieldsHTMLCollectionArray.map(element => element.id).sort();
 
+var answers;
+
 fetch('answers.txt')
   .then(response => response.text())
   .then(answersText => {
     const lines = answersText.split('\n');
-    const answers = lines.map(line => line.split(','));
-    
-    const answerFields = document.querySelectorAll('.answerField');
-    answerFields.forEach(input => {
-      input.addEventListener('keyup', event => {
-        if (event.keyCode === 13) {
-          
-          const inputId = event.target.id;
-          
-          const inputValue = event.target.value.trim();
-          
-          if (inputValue == answers[inputId]) {
-            event.target.style.backgroundColor = 'green';
-          }; 
-
-        };
-      });
-    });
-
-
+    answers = lines.map(line => line.split(','));
   });
+
+  const answerFields = document.querySelectorAll('.answerField');
+  answerFields.forEach(input => {
+    input.addEventListener('keyup', event => {
+      if (event.keyCode === 13) {
+        
+        const inputId = event.target.id;
+        
+        const inputValue = event.target.value.trim();
+        
+        if (inputValue == answers[inputId]) {
+          event.target.style.backgroundColor = 'green';
+        }; 
+
+      };
+    });
+  });
+
