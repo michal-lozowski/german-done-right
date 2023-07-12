@@ -33,8 +33,6 @@ const answerFieldsHTMLCollectionArray = Array.from(answerFieldsHTMLCollection);
 // Extract the IDs from the elements and sort them
 const sortedIDs = answerFieldsHTMLCollectionArray.map(element => element.id).sort();
 
-console.log(sortedIDs);
-
 fetch('answers.txt')
   .then(response => response.text())
   .then(answersText => {
@@ -48,11 +46,11 @@ fetch('answers.txt')
           
           const inputId = event.target.id;
           
-          const inputValue = event.target.value;
+          const inputValue = event.target.value.trim();
           
-          if (inputValue.length > 5) {
+          if (inputValue == answers[inputId]) {
             event.target.style.backgroundColor = 'green';
-          };
+          }; 
 
         };
       });
