@@ -47,7 +47,7 @@ const answerFields = document.querySelectorAll('.answerField');
 answerFields.forEach(input => {
   input.addEventListener("keyup", event => {
     if (event.key === "Enter") {
-       event.target.style.backgroundColor = 'green';
+       event.target.style.backgroundColor = "green";
     };
   });
 });
