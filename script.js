@@ -42,8 +42,8 @@ fetch('answers.txt')
   });
 
 document.addEventListener('DOMContentLoaded', () => {
-console.log("dom done lffoading!!");
-const answerFields = document.querySelectorAll('answerField');
+console.log("dom done loading!!");
+const answerFields = document.querySelectorAll("answerField");
 answerFields.forEach(input => {
   input.addEventListener("keydown", event => {
     event.preventDefault();
