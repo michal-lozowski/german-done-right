@@ -31,8 +31,6 @@ fetch('answers.txt')
     answers = answersText.split('\n');
   });
 
-document.addEventListener('DOMContentLoaded', () => {
-console.log("dom done loading!!");
 const answerFields = document.querySelectorAll(".answerField");
 answerFields.forEach(input => {
   input.addEventListener("keyup", event => {
@@ -40,6 +38,4 @@ answerFields.forEach(input => {
        event.target.style.backgroundColor = "green";
     };
   });
-});
-
 });
