@@ -32,8 +32,8 @@ mainclown()
       const answerFields = document.querySelectorAll(".answerField");
       answerFields.forEach(input => {
         input.addEventListener("keyup", event => {
-          if (event.target.value.trim() === answers[event.target.id]) {
-            event.target.style.backgroundColor = "green";
+          if (event.key === Enter && event.target.value.trim() === answers[event.target.id]) {
+            event.target.style.backgroundColor = rgba(0, 128, 0, 0.5);
           };
         });
       });
