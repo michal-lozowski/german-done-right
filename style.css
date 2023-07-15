@@ -3,7 +3,7 @@ body {
   }
 
 .answerField {
-    border: 1px;
+    border: 3px;
     border-radius: 3px; 
     width: 60px;
     font-size: 16px;
