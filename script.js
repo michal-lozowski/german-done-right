@@ -33,7 +33,7 @@ mainclown()
       answerFields.forEach(input => {
         input.addEventListener("keyup", event => {
           if (event.key === Enter && event.target.value.trim() === answers[event.target.id]) {
-            event.target.style.backgroundColor = rgba(0, 128, 0, 0.5);
+            event.target.style.backgroundColor = "green";
           };
         });
       });
