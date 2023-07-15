@@ -33,11 +33,10 @@ fetch('answers.txt')
 
 document.addEventListener('DOMContentLoaded', () => {
 console.log("dom done loading!!");
-const answerFields = document.querySelectorAll("answerField");
+const answerFields = document.querySelectorAll(".answerField");
 answerFields.forEach(input => {
-  input.addEventListener("keydown", event => {
-    event.preventDefault();
-    if (event.key === "Enter") {
+  input.addEventListener("keyup", event => {
+    if (event.keyCode === 13) {
        event.target.style.backgroundColor = "green";
     };
   });
