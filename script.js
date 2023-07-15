@@ -31,8 +31,10 @@ fetch('answers.txt')
     answers = answersText.split('\n');
   });
 
+var answerFields;
+
 document.addEventListener("DOMContentLoaded", () => {
-const answerFields = document.querySelectorAll(".answerField");
+answerFields = document.querySelectorAll(".answerField");
 answerFields.forEach(input => {
   input.addEventListener("keyup", event => {
     if (event.key === "Enter") {
