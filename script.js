@@ -64,8 +64,7 @@ async function mainclown() {
 
 mainclown()
   .then(() => {
-    
-    document.addEventListener("DOMContentLoaded", () => {
+
       console.log("yay");
       const answerFields = document.querySelectorAll(".answerField");
       answerFields.forEach(input => {
@@ -77,7 +76,7 @@ mainclown()
       });
     });
   
-  });
+
 
 
 
