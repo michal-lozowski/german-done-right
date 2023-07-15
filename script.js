@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
 console.log("dom done loading!!");
 const answerFields = document.querySelectorAll('.answerField');
 answerFields.forEach(input => {
-  input.addEventListener('keyup', event => {
+  input.addEventListener("keyup", event => {
     if (event.key === "Enter") {
 
       event.preventDefault();
