@@ -1,4 +1,4 @@
-const answers;
+let answers;
 
 async function mainclown() {
 
