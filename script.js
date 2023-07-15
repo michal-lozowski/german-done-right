@@ -45,7 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
 console.log("dom done lffoading!!");
 const answerFields = document.querySelectorAll('.answerField');
 answerFields.forEach(input => {
-  input.addEventListener("keyup", event => {
+  input.addEventListener("keydown", event => {
+    event.preventDefault();
     if (event.key === "Enter") {
        event.target.style.backgroundColor = "green";
     };
