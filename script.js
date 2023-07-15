@@ -47,15 +47,7 @@ const answerFields = document.querySelectorAll('.answerField');
 answerFields.forEach(input => {
   input.addEventListener("keyup", event => {
     if (event.key === "Enter") {
-
-      event.preventDefault();
-      const inputId = event.target.id;
-      const inputValue = event.target.value.trim();
-      
-      if (inputValue.length > 3) {
-        event.target.style.backgroundColor = 'green';
-      }; 
-
+       event.target.style.backgroundColor = 'green';
     };
   });
 });
