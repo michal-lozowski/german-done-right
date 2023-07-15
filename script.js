@@ -31,11 +31,13 @@ fetch('answers.txt')
     answers = answersText.split('\n');
   });
 
+document.addEventListener("DOMContentLoaded", () => {
 const answerFields = document.querySelectorAll(".answerField");
 answerFields.forEach(input => {
   input.addEventListener("keyup", event => {
-    if (event.keyCode === 13) {
+    if (event.key === "Enter") {
        event.target.style.backgroundColor = "green";
     };
   });
+});
 });
