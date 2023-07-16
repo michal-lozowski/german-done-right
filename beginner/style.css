@@ -1,3 +1,9 @@
+.wrapper::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .leftdiv {
     flex: left;
     padding: 10px;
