@@ -1,17 +1,11 @@
-.wrapper::after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 .leftdiv {
-    flex: left;
+    float: left;
     padding: 10px;
     width: 50%;
 }
 
 .rightdiv {
-    flex: right;
+    float: right;
     padding: 10px;
     width: 50%;
 }
