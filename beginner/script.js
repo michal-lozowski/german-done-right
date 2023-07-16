@@ -9,8 +9,8 @@ async function mainclown() {
     const germancontainer = document.getElementById('german-container');
     const russiancontainer = document.getElementById('russian-container');
   
-    const germanTextNode = document.createTextNode(germantext);
-    const russianTextNode = document.createTextNode(russiantext);
+    const germanTextNode = document.createTextNode(german);
+    const russianTextNode = document.createTextNode(russian);
 
     germancontainer.appendChild(germanTextNode);
     russiancontainer.appendChild(russianTextNode);
