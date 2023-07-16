@@ -2,9 +2,9 @@ let answers;
 
 async function mainclown() {
 
-  const responsequestions = await fetch ("kommt-wohnt/questions.txt");
+  const responsequestions = await fetch ("questions.txt");
   const questionsText = await responsequestions.text();
-  const responseanswers = await fetch ("kommt-wohnt/answers.txt");
+  const responseanswers = await fetch ("answers.txt");
   const answersText = await responseanswers.text();
 
   answers = answersText.split('\n');
