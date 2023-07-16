@@ -23,16 +23,6 @@ async function mainclown() {
         germanContainer.appendChild(paragraphElement);
     })
 
-    let russianIdCounter = 0;
-    russianParagraphs.forEach((paragraph) => {
-        const paragraphElement = document.createElement("p");
-        const paragraphText = paragraph.replace(/\n/g, "<br>");
-        paragraphElement.innerHTML = paragraphText;
-        paragraphElement.setAttribute("id", "russiaffffn-paragraph-" + russianIdCounter);;
-        russianIdCounter++;
-        russianContainer.appendChild(paragraphElement);
-    })
-
 
 
 }
