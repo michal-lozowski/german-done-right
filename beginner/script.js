@@ -14,7 +14,7 @@ async function mainclown() {
 
     germanParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
-        const paragraphText = document.createTextNode(paragraph);
+        const paragraphText = document.createTextNode(paragraph).replace(/\n/g, "<br>");
         paragraphElement.appendChild(paragraphText);
         germanContainer.appendChild(paragraphElement);
     })
