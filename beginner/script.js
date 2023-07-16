@@ -8,6 +8,8 @@ async function mainclown() {
   
     germancontainer = document.getElementById('german-container');
     russiancontainer = document.getElementById('russian-container');
+    germancontainer.appendtext(germantext);
+    russiancontainer.appendtext(russiantext);   
 }
   
 mainclown()
