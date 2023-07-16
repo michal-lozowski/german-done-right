@@ -9,12 +9,12 @@ async function mainclown() {
     const germanContainer = document.getElementById('german-container');
     const russianContainer = document.getElementById('russian-container');
     
-    const germanParagraphs = german.split("\n");
-    const russianParagraphs = russian.split("\n");
+    const germanParagraphs = german.split("\n").replace(/\n/g, "<br>");
+    const russianParagraphs = russian.split("\n").replace(/\n/g, "<br>");
 
     germanParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
-        const paragraphText = document.createTextNode(paragraph).replace(/\n/g, "<br>");
+        const paragraphText = document.createTextNode(paragraph);
         paragraphElement.appendChild(paragraphText);
         germanContainer.appendChild(paragraphElement);
     })
