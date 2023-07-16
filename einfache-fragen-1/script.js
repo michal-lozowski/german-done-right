@@ -9,8 +9,8 @@ async function mainclown() {
     const germanContainer = document.getElementById('german-container');
     const russianContainer = document.getElementById('russian-container');
     
-    const germanParagraphs = german.split("\r\n\r\n");
-    const russianParagraphs = russian.split("\r\n\r\n");
+    const germanParagraphs = german.split("\n\n");
+    const russianParagraphs = russian.split("\n\n");
 
     let germanIdCounter = 0;
     germanParagraphs.forEach((paragraph) => {
@@ -49,7 +49,7 @@ mainclown()
         const germanParagraph = document.getElementById(germanParagraphId);
         if (germanParagraph.style.visibility === "visible") {
             germanParagraph.style.visibility = "hidden"
-        } else germanParagraph.style.visibility = "visible"
+        } else germanParagraph.style.visibility = "visible";
       });
     });
   });
