@@ -36,13 +36,13 @@ mainclown()
           if ((eventEnter.key === "Enter") && (eventEnter.target.value.trim() === answers[eventEnter.target.id])) {
             eventEnter.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           };
-        /*const button = document.getElementById("myButton");
+        const button = document.getElementById("myButton");
         button.addEventListener("click", eventButton => {
           if (eventEnter.target.value.trim() === answers[eventEnter.target.id]) {
             eventEnter.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           };
 
-        })*/
+        })
          
         });
       });
