@@ -1,20 +1,28 @@
 
 async function mainclown() {
 
-    const responsegerman = await fetch ("german.txt");
-    const german = await responsegerman.text();
-    const responserussian = await fetch ("russian.txt");
-    const russian = await responserussian.text();
+    const responseGerman = await fetch ("german.txt");
+    const german = await responseGerman.text();
+    const responseRussian = await fetch ("russian.txt");
+    const russian = await responseRussian.text();
     
-    const germancontainer = document.getElementById('german-container');
-    const russiancontainer = document.getElementById('russian-container');
-  
-    const germanTextNode = document.createTextNode(german);
-    const russianTextNode = document.createTextNode(russian);
+    const germanContainer = document.getElementById('german-container');
+    const russianContainer = document.getElementById('russian-container');
+    
+    const germanParagraphs = german.split("\n");
+    const russianParagraphs = russian.split("\n");
 
-    germancontainer.appendChild(germanTextNode);
-    russiancontainer.appendChild(russianTextNode);
+    germanParagraphs.forEach((paragraph) => {
+        const paragraphElement = document.createElement("p");
+        paragraphElement.textContent = paragraph;
+        germanContainer.appendChild(paragraph);
+    })
 
+    russianParagraphs.forEach((paragraph) => {
+        const paragraphElement = document.createElement("p");
+        paragraphElement.textContent = paragraph;
+        russianContainer.appendChild(paragraph);
+    })
 }
   
 mainclown()
