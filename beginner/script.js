@@ -12,14 +12,11 @@ async function mainclown() {
     const germantext = german.replace(/\n/g, "<br>");
     const russiantext = russian.replace(/\n/g, "<br>");
   
-    const germandiv = document.createElement("div");
-    const russiandiv = document.createElement("div");
+    const germanTextNode = document.createTextNode(germantext);
+    const russianTextNode = document.createTextNode(russiantext);
 
-    germandiv.appendChild(germantext);
-    russiandiv.appendChild(russiantext);
-
-    germancontainer.appendChild(germandiv);
-    russiancontainer.appendChild(russiandiv);
+    germancontainer.appendChild(germanTextNode);
+    russiancontainer.appendChild(russianTextNode);
 
 }
   
