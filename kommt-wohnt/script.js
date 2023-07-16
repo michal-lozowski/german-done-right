@@ -32,10 +32,18 @@ mainclown()
   .then(() => {
       const answerFields = document.querySelectorAll(".answerField");
       answerFields.forEach(input => {
-        input.addEventListener("keyup", event => {
-          if ((event.key === "Enter") && (event.target.value.trim() === answers[event.target.id])) {
-            event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
+        input.addEventListener("keyup", eventEnter => {
+          if ((eventEnter.key === "Enter") && (eventEnter.target.value.trim() === answers[eventEnter.target.id])) {
+            eventEnter.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           };
+        /*const button = document.getElementById("myButton");
+        button.addEventListener("click", eventButton => {
+          if (eventEnter.target.value.trim() === answers[eventEnter.target.id]) {
+            eventEnter.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
+          };
+
+        })*/
+         
         });
       });
     });
