@@ -49,7 +49,7 @@ mainclown()
         const germanParagraph = document.getElementById(germanParagraphId);
         if (germanParagraph.style.visibility === "visible") {
             germanParagraph.style.visibility = "hidden"
-        } else germanParagraph.style.visibility = "visible"
+        } else germanParagraph.style.visibility = "visible";
       });
     });
   });
