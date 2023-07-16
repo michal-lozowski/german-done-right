@@ -9,8 +9,8 @@ async function mainclown() {
     const germanContainer = document.getElementById('german-container');
     const russianContainer = document.getElementById('russian-container');
     
-    const germanParagraphs = german.split("\n");
-    const russianParagraphs = russian.split("\n");
+    const germanParagraphs = german.split("\n\n");
+    const russianParagraphs = russian.split("\n\n");
 
     germanParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
@@ -21,9 +21,11 @@ async function mainclown() {
 
     russianParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
-        paragraphElement.textContent = paragraph;
-        russianContainer.appendChild(paragraph);
+        const paragraphText = document.createTextNode(paragraph);
+        paragraphElement.appendChild(paragraphText);
+        russianContainer.appendChild(paragraphElement);
     })
+
 }
   
 mainclown()
