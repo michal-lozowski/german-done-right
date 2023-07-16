@@ -18,6 +18,7 @@ async function mainclown() {
         const paragraphText = paragraph.replace(/\n/g, "<br>");
         paragraphElement.innerHTML = paragraphText;
         paragraphElement.id = "german-paragraph-" + germanIdCounter;
+        paragraphElement.class = "german-paragraph"; 
         germanIdCounter++;
         germanContainer.appendChild(paragraphElement);
     })
@@ -28,6 +29,7 @@ async function mainclown() {
         const paragraphText = paragraph.replace(/\n/g, "<br>");
         paragraphElement.innerHTML = paragraphText;
         paragraphElement.id = "russian-paragraph-" + russianIdCounter;
+        paragraphElement.class = "russian-paragraph";
         russianIdCounter++;
         russianContainer.appendChild(paragraphElement);
     })
