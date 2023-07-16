@@ -14,17 +14,15 @@ async function mainclown() {
 
     germanParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
-        let paragraphText = paragraph.replace(/\n/g, "<br>");
-        paragraphText = document.createTextNode(paragraphText);
-        paragraphElement.appendChild(paragraphText);
+        const paragraphText = paragraph.replace(/\n/g, "<br>");
+        paragraphElement.innerHTML = paragraphText;
         germanContainer.appendChild(paragraphElement);
     })
 
     russianParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
-        let paragraphText = paragraph.replace(/\n/g, "<br>");
-        paragraphText = document.createTextNode(paragraphText);
-        paragraphElement.appendChild(paragraphText);
+        const paragraphText = paragraph.replace(/\n/g, "<br>");
+        paragraphElement.innerHTML = paragraphText
         russianContainer.appendChild(paragraphElement);
     })
 
