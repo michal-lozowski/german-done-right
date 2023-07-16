@@ -29,7 +29,7 @@ async function mainclown() {
         const paragraphText = paragraph.replace(/\n/g, "<br>");
         paragraphElement.innerHTML = paragraphText;
         paragraphElement.id = "russian-paragraph-" + russianIdCounter;
-        paragraphElement.setAttribute("class", "rus-paragraph");
+        paragraphElement.setAttribute("class", "russian-paragraph");
         russianIdCounter++;
         russianContainer.appendChild(paragraphElement);
     })
