@@ -6,17 +6,14 @@ async function mainclown() {
     const responserussian = await fetch ("russian.txt");
     const russian = await responserussian.text();
     
-    germancontainer = document.getElementById('german-container');
-    russiancontainer = document.getElementById('russian-container');
+    const germancontainer = document.getElementById('german-container');
+    const russiancontainer = document.getElementById('russian-container');
     
     const germantext = german.replace(/\n/g, "<br>").trim();
     const russiantext = russian.replace(/\n/g, "<br>").trim();
   
-    const germanTextNode = document.createTextNode(germantext);
-    const russianTextNode = document.createTextNode(russiantext);
-
-    germancontainer.appendChild(germanTextNode);
-    russiancontainer.appendChild(russianTextNode);   
+    germancontainer.appendChild(germantext);
+    russiancontainer.appendChild(russiantext);   
 }
   
 mainclown()
