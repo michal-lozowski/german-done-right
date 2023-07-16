@@ -28,8 +28,7 @@ async function mainclown() {
         const paragraphElement = document.createElement("p");
         const paragraphText = paragraph.replace(/\n/g, "<br>");
         paragraphElement.innerHTML = paragraphText;
-        paragraphElement.setAttribute("class", "my-class");
-        paragraphElement.id = "russian-paragraph-" + russianIdCounter;
+        paragraphElement.setAttribute("id", "russian-paragraph-" + russianIdCounter);;
         russianIdCounter++;
         russianContainer.appendChild(paragraphElement);
     })
