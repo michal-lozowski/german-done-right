@@ -9,8 +9,8 @@ async function mainclown() {
     const germanContainer = document.getElementById('german-container');
     const russianContainer = document.getElementById('russian-container');
     
-    const germanParagraphs = german.split("\n\n");
-    const russianParagraphs = russian.split("\n\n");
+    const germanParagraphs = german.split("\n");
+    const russianParagraphs = russian.split("\n");
 
     germanParagraphs.forEach((paragraph) => {
         const paragraphElement = document.createElement("p");
