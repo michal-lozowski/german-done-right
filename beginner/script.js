@@ -8,9 +8,6 @@ async function mainclown() {
     
     const germancontainer = document.getElementById('german-container');
     const russiancontainer = document.getElementById('russian-container');
-    
-    const germantext = german.replace(/\n/g, "<br>");
-    const russiantext = russian.replace(/\n/g, "<br>");
   
     const germanTextNode = document.createTextNode(germantext);
     const russianTextNode = document.createTextNode(russiantext);
