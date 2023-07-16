@@ -1,11 +1,11 @@
 .leftdiv {
     flex: left;
     padding: 10px;
-    width: 300px;
+    width: 50%;
 }
 
 .rightdiv {
     flex: right;
     padding: 10px;
-    width: 300px;
+    width: 50%;
 }
