@@ -1,8 +1,9 @@
-.container {
-    display: flex;
+.leftdiv {
+    flex: left;
+    padding: 10px;
 }
 
-.column {
-    flex: 1;
+.rightdiv {
+    flex: right;
     padding: 10px;
 }
