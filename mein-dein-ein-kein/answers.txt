@@ -1,7 +1,7 @@
 Mein
 Ihre
 sein
-sein
+Sein
 dein
 Ihr
 Mein
@@ -10,9 +10,9 @@ keine
 eine
 eine
 eure
-unsere
+Unsere
 keine
-mein
+Mein
 ein
 ein
 eine
@@ -35,9 +35,11 @@ Ihre
 eine
 ein
 ein
+eine
+eine
 ihr
 ihr
-ihr
+Ihr
 Meine
 ein
 ein
