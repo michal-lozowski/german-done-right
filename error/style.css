@@ -4,6 +4,45 @@ body {
 
 #maindiv {
   color:red;
-  display: none;
   }
+
+#word-order {
+  display: none;
+}
+
+#aux-verb {
+  display: none;
+}
+
+#perfekt-verb {
+  display: none;
+}
+
+#vowel-verb {
+  display: none;
+}
+
+#pref-verb {
+  display: none;
+}
+
+#cases {
+  display: none;
+}
+
+#adjectives {
+  display: none;
+}
+
+#pron-spell {
+  display: none;
+}
+
+#preposition {
+  display: none;
+}
+
+#modal-verb {
+  display: none;
+}
   
