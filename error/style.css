@@ -2,47 +2,10 @@ body {
   font-family: Consolas;
   }
 
-#maindiv {
-  color:red;
-  }
-
-#word-order {
-  display: none;
+.mainList {
+  list-style-type: none;
 }
 
-#aux-verb {
+.mainList > * {
   display: none;
 }
-
-#perfekt-verb {
-  display: none;
-}
-
-#vowel-verb {
-  display: none;
-}
-
-#pref-verb {
-  display: none;
-}
-
-#cases {
-  display: none;
-}
-
-#adjectives {
-  display: none;
-}
-
-#pron-spell {
-  display: none;
-}
-
-#preposition {
-  display: none;
-}
-
-#modal-verb {
-  display: none;
-}
-  
