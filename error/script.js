@@ -29,7 +29,7 @@ handleKeyPress ("n", "Uncaught LexicalError: предлог(и)")
 handleKeyPress ("m", "Uncaught LexicalError: модальный глагол")
 
 document.addEventListener('keypress', function(event) {
-  if (event.key === "c") {
+  if (event.key === "z") {
     document.querySelectorAll('.' + mainList).forEach ((element) => {
       element.remove()
     })
