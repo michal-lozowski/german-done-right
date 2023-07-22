@@ -1,4 +1,4 @@
-const mainList = document.getElementByClassName('mainList');
+const mainList = document.getElementsByClassName('mainList');
 
 document.addEventListener('keypress', function(event) {
   if ((event.key === "o") && (!document.getElementById('o'))) {
