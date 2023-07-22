@@ -5,7 +5,7 @@ document.addEventListener('keypress', function(event) {
     const newListItem = document.createElement('li');
     newListItem.textContent = 'Uncaught SyntaxError: порядок слов';
     newListItem.setAttribute('id', 'o');
-    mainList.appendChild(newListItem)
+    mainList[0].appendChild(newListItem)
   } else document.getElementById('o').remove();
   if ((event.key === "a") && (!document.getElementById('a'))) {
     const newListItem = document.createElement('li');
