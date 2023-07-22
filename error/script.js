@@ -27,3 +27,11 @@ handleKeyPress ("j", "Uncaught SyntaxError: склонение прилагат�
 handleKeyPress ("s", "Uncaught LexicalError: произношение/форма слова")
 handleKeyPress ("n", "Uncaught LexicalError: предлог(и)")
 handleKeyPress ("m", "Uncaught LexicalError: модальный глагол")
+
+document.addEventListener('keypress', function(event) {
+  if (event.key === "c") {
+    document.querySelectorAll('.' + mainList).forEach ((element) => {
+      element.remove()
+    })
+  }
+})
