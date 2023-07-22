@@ -11,12 +11,12 @@ document.addEventListener('keypress', function(event) {
     const newListItem = document.createElement('li');
     newListItem.textContent = 'Uncaught SyntaxError: вспомогательный глагол';
     newListItem.setAttribute('id', 'a');
-    mainList.appendChild(newListItem)
+    mainList[0].appendChild(newListItem)
   } else document.getElementById('a').remove();
   if ((event.key === "p") && (!document.getElementById('p'))) {
     const newListItem = document.createElement('li');
     newListItem.textContent = 'Uncaught SyntaxError: форма глагола в Perfekt';
     newListItem.setAttribute('id', 'p');
-    mainList.appendChild(newListItem)
+    mainList[0].appendChild(newListItem)
   } else document.getElementById('p').remove();
 });
