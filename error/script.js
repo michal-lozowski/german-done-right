@@ -1,32 +1,22 @@
+const mainList = document.getElementByClassName('mainList');
+
 document.addEventListener('keypress', function(event) {
-  if (event.key === "o") {
-    document.getElementById('word-order').style.display = (document.getElementById('word-order').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "u") {
-    document.getElementById('aux-verb').style.display = (document.getElementById('aux-verb').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "p") {
-    document.getElementById('perfekt-form').style.display = (document.getElementById('perfekt-form').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "v") {
-    document.getElementById('vowel-verb').style.display = (document.getElementById('vowel-verb').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "r") {
-    document.getElementById('pref-verb').style.display = (document.getElementById('pref-verb').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "c") {
-    document.getElementById('cases').style.display = (document.getElementById('cases').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "a") {
-    document.getElementById('adjectives').style.display = (document.getElementById('adjectives').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "n") {
-    document.getElementById('pron-spell').style.display = (document.getElementById('pron-spell').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "e") {
-    document.getElementById('preposition').style.display = (document.getElementById('preoposition').style.display === 'block') ? 'none' : 'block';
-  }
-  if (event.key === "m") {
-    document.getElementById('modal-verb').style.display = (document.getElementById('modal-verb').style.display === 'block') ? 'none' : 'block';
-  }
+  if ((event.key === "o") && (!document.getElementById('o'))) {
+    const newListItem = document.createElement('li');
+    newListItem.textContent = 'Uncaught SyntaxError: порядок слов';
+    newListItem.setAttribute('id', 'o');
+    mainList.appendChild(newListItem)
+  } else document.getElementById('o').remove();
+  if ((event.key === "a") && (!document.getElementById('a'))) {
+    const newListItem = document.createElement('li');
+    newListItem.textContent = 'Uncaught SyntaxError: вспомогательный глагол';
+    newListItem.setAttribute('id', 'a');
+    mainList.appendChild(newListItem)
+  } else document.getElementById('a').remove();
+  if ((event.key === "p") && (!document.getElementById('p'))) {
+    const newListItem = document.createElement('li');
+    newListItem.textContent = 'Uncaught SyntaxError: форма глагола в Perfekt';
+    newListItem.setAttribute('id', 'p');
+    mainList.appendChild(newListItem)
+  } else document.getElementById('p').remove();
 });
