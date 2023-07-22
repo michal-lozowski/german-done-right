@@ -1,4 +1,4 @@
-const mainList = document.querySelector('mainList');
+const mainList = document.getElementsByClassName('mainList');
 
 document.addEventListener('keypress', function(event) {
   if (event.key === "o") {
@@ -6,7 +6,7 @@ document.addEventListener('keypress', function(event) {
       const newListItem = document.createElement('li');
       newListItem.textContent = 'Uncaught SyntaxError: порядок слов';
       newListItem.setAttribute('id', 'o');
-      mainList.appendChild(newListItem);
+      mainList[0].appendChild(newListItem);
       }
   }
 
@@ -15,7 +15,7 @@ if (event.key === "a") {
     const newListItem = document.createElement('li');
     newListItem.textContent = 'Uncaught SyntaxError: вспомогательный глагол';
     newListItem.setAttribute('id', 'a');
-    mainList.appendChild(newListItem);
+    mainList[0].appendChild(newListItem);
     }
 }
 
