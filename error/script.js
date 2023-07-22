@@ -30,7 +30,6 @@ handleKeyPress ("m", "Uncaught LexicalError: модальный глагол")
 
 document.addEventListener('keypress', function(event) {
   if (event.key === "z") {
-    const elementsArray = Array.from(document.getElementsByClassName("mainList"));
-    elementsArray.forEach(element => element.remove());
+    document.querySelector(mainList).innerHTML = '';
   }
 })
