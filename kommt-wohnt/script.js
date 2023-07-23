@@ -37,7 +37,7 @@ mainclown()
             event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           };
         });
-        input.addEventListener("KeyDown", event => {
+        input.addEventListener("keydown", event => {
           if ((event.key === "Enter") && (event.target.value.trim() === answers[event.target.id])) {
             event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
             document.getElementById(parseInt(event.target.id) + 1).focus();
