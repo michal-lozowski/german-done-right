@@ -33,7 +33,7 @@ mainclown()
       const answerFields = document.querySelectorAll(".answerField");
       answerFields.forEach(input => {
         input.addEventListener("keyup", event => {
-          if ((event.key === "Enter") && (event.target.value.trim() === answers[event.target.id])) {
+          if ((event.key === "Enter" || event.key === "13" || event.key === "229") && (event.target.value.trim() === answers[event.target.id])) {
             event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           };
         });
