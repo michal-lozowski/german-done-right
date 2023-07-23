@@ -22,6 +22,7 @@ async function mainclown() {
       input.setAttribute('type', 'text');
       input.setAttribute('id', uniqueId);
       input.setAttribute('class', "answerField"); 
+      input.setAttribute('autocapitalize', "off");
       spantext.appendChild(input);      
       };
     container.appendChild(spantext);
