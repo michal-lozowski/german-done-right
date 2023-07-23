@@ -32,30 +32,17 @@ mainclown()
   .then(() => {
       const answerFields = document.querySelectorAll(".answerField");
       answerFields.forEach(input => {
-        input.addEventListener("keyup", event => {
-          if ((event.key === "Enter") && (event.target.value.trim() === answers[event.target.id])) {
+        input.addEventListener("blur", event => {
+          if ((event.target.value.trim() === answers[event.target.id])) {
             event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           };
         });
+        input.addEventListener("keydown", event => {
+          if ((event.key === "Enter") && (event.target.value.trim() === answers[event.target.id])) {
+            event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
+            document.getElementById(parseInt(event.target.id) + 1).focus();
+          };
+        })
       });
-    })
+    });
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
