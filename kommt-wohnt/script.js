@@ -35,7 +35,7 @@ mainclown()
         input.addEventListener("blur", event => {
           if ((event.target.value.trim() === answers[event.target.id])) {
             event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
-            document.getElementById(event.target.id + 1).focus();
+            document.getElementById(parseInt(event.target.id) + 1).focus();
           };
         });
       });
