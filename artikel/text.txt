@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../css/artikel.css">
-  <title>Artikel</title>
-</head>
-<body>
-  <h1>Artikel</h1>
-  <iframe id="artikel-iframe" src="../artikel/table.html" frameborder="0"></iframe>
-  <div id="text-div">
 Timos Party
 
 Timo will heute Abend eine Party machen. Er hat alle seine Freunde eingeladen.
@@ -36,7 +25,3 @@ Timo ist sauer. Er geht im Wohnzimmer hin und her. Oft sieht Timo auf die Uhr. J
 Langsam bekommt Timo Hunger. Er geht in die Küche und isst etwas von der Pizza. Sie ist kalt. Ohne Freunde schmeckt die Pizza nicht.
 
 Timo sieht auf sein Handy. Vielleicht soll er seine Freunde anrufen? Nein, mit ihnen will er heute nicht mehr sprechen. Traurig geht Timo schlafen.
-  </div>
-  <script src="../js/artikel.js"></script>
-</body>
-</html>
