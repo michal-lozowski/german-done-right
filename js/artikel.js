@@ -1,11 +1,11 @@
 async function mainclown() {
 
-const tableResponse = await fetch ("table.html");
+const tableResponse = await fetch ("../artikel/table.html");
 const tableData = await tableResponse.text();
 
 document.getElementById('table-div').innerHTML = tableData;
 
-const textResponse = await fetch ("text.txt")
+const textResponse = await fetch ("../artikel/text.txt")
 let textData = await textResponse.text();
 
 textData = textData.replace(/\n/g, "<br>").trim();
