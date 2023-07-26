@@ -23,5 +23,7 @@ body {
 }
 
 #iframe-div {
-    position:block;
+    position:absolute;
+    top:0;
+    left:0;
 }
