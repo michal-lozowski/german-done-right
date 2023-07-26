@@ -21,9 +21,3 @@ body {
 #text-div {
     position: relative;
 }
-
-#iframe-div {
-    position:absolute;
-    top:0;
-    left:0;
-}
