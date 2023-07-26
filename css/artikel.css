@@ -1,3 +1,10 @@
+#artikel-table {
+    table-layout: fixed; 
+    width:100%;  
+    white-space: nowrap;
+    font-family: Arial 
+}
+
 #nom-def-m {
     background-color: red;
 }
