@@ -23,5 +23,5 @@ body {
 }
 
 #iframe-div {
-    position:relative;
+    position:block;
 }
