@@ -3,7 +3,6 @@ body {
 }
 
 #artikel-iframe {
-    display: none;
     position: absolute;
     border:none;
     top:0;
@@ -16,8 +15,4 @@ body {
     table-layout: fixed; 
     width:100%;  
     white-space: nowrap;
-}
-
-#text-div {
-    position: relative;
 }
