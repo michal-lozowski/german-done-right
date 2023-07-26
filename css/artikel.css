@@ -1,5 +1,5 @@
 body {
-    font-family: ;
+    font-family: Consolas;
 }
 
 #artikel-iframe {
@@ -12,7 +12,6 @@ body {
     table-layout: fixed; 
     width:100%;  
     white-space: nowrap;
-    font-family: Arial 
 }
 
 #nom-def-m {
