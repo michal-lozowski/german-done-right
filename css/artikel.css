@@ -4,7 +4,7 @@ body {
 
 #artikel-iframe {
     display: none;
-    position:absolute;
+    position: absolute;
     top:0;
     left:0;
     width:100%; 
@@ -19,4 +19,8 @@ body {
 
 #text-div {
     position: relative;
+}
+
+#iframe-div {
+    position:relative;
 }
