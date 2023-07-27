@@ -6,6 +6,11 @@ body {
     table-layout: fixed; 
     width:100%;  
     white-space: nowrap;
+    margin: 20px auto;
+    max-width: 1000px;
+    font-size: 16px;
+    background-color: #f2f2f2;
+
 }
 
 #text-div {
