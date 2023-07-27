@@ -17,7 +17,7 @@ let indexCounter = 0;
 words.forEach((word) => {
   if (word.startsWith('!')) {
     word = word.slice(1);
-    let spanDummy = "<span id=\"" + indexCounter + "\">" 
+    let spanDummy = "<span class=\"artikel-span\" id=\"" + indexCounter + "\">" 
     outputHtml += spanDummy+`${word}</span> `;
     indexCounter++;
   } else {
@@ -35,8 +35,8 @@ mainclown()
     artikelSpans.forEach(element => {
         element.addEventListener("click", event => {
         const clickedSpanId = event.target.id;
+        console.log(clickedSpanId);
         if (clickedSpanId == 0) {
-            console.log(clickedSpanId);
             if (document.getElementById(clickedSpanId).style.backgroundColor === "lightred") { 
                 document.getElementById(clickedSpanId).style.backgroundColor = "lightred";
                 document.getElementById(akk-indef-f).style.backgroundColor = "lightred";
