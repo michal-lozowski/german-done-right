@@ -31,7 +31,8 @@ document.getElementById('text-div').innerHTML = outputHtml;
 
 mainclown()
   .then(() => {
-    const artikelSpans = document.querySelectorAll(".russian-paragraph");
+    console.log("yes!");
+    const artikelSpans = document.querySelectorAll(".artikel-span");
     artikelSpans.forEach(element => {
         element.addEventListener("click", event => {
         const clickedSpanId = event.target.id;
