@@ -12,9 +12,13 @@ textData = textData.replace(/\n/g, "<br>").trim();
 
 const words = textData.split(/\s+/);
 let outputHtml = '';
+let indexCounter = 0;
+
 words.forEach((word) => {
   if (word.startsWith('!')) {
-    outputHtml += `<span>${word}</span> `;
+    word = word.slice(1);
+    let spanDummy = "<span id=\"" + indexCounter + "\">" 
+    outputHtml += spanDummy+`${word}</span> `;
   } else {
     outputHtml += `${word} `;
   }
