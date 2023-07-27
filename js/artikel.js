@@ -10,7 +10,7 @@ async function mainclown() {
   const textResponse = await fetch ("../artikel/text.txt")
   let textData = await textResponse.text();
 
-  textData = textData.replace(/\r\n/g, "<br>").trim();
+  textData = textData.replace(/\n/g, "<br>").trim();
 
   const words = textData.split(/\s+/);
   let outputHtml = '';
