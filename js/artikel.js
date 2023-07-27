@@ -38,6 +38,7 @@ mainclown()
         const clickedSpanId = event.target.id;
         console.log(clickedSpanId);
         if (clickedSpanId == 0) {
+            console.log("yass")
             if (document.getElementById(clickedSpanId).style.backgroundColor === "lightred") { 
                 document.getElementById(clickedSpanId).style.backgroundColor = "none";
                 document.getElementById("akk-indef-f").style.backgroundColor = "none";
