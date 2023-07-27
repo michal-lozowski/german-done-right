@@ -41,8 +41,8 @@ mainclown()
                 document.getElementById(clickedSpanId).style.backgroundColor = "rgb(255, 128, 128)";
                 document.getElementById("akk-indef-f").style.backgroundColor = "rgb(255, 128, 128)";
             } else {
-                document.getElementById(clickedSpanId).style.backgroundColor =  "none";
-                document.getElementById("akk-indef-f").style.backgroundColor =  "none";
+                document.getElementById(clickedSpanId).style.backgroundColor =  "";
+                document.getElementById("akk-indef-f").style.backgroundColor =  "";
             } 
         }
       });
