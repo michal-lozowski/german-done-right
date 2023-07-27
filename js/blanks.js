@@ -7,9 +7,9 @@ async function mainclown() {
   const responseAnswers = await fetch ("answers.txt");
   const answersText = await responseAnswers.text();
 
-  answers = answersText.split('\n');
+  answers = answersText.split('\r\n');
   let questions = questionsText.replace(/_+/g,"_");
-  questions = questions.replace(/\n/g, "<br>").trim().split('_');
+  questions = questions.replace(/\r\n/g, "<br>").trim().split('_');
         
   container = document.getElementById('test-container');
     

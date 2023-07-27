@@ -1,52 +1,73 @@
+var mapData;
+
 async function mainclown() {
 
-const tableResponse = await fetch ("../artikel/table.html");
-const tableData = await tableResponse.text();
+  const tableResponse = await fetch ("../artikel/table.html");
+  const tableData = await tableResponse.text();
 
-document.getElementById('table-div').innerHTML = tableData;
+  document.getElementById('table-div').innerHTML = tableData;
 
-const textResponse = await fetch ("../artikel/text.txt")
-let textData = await textResponse.text();
+  const textResponse = await fetch ("../artikel/text.txt")
+  let textData = await textResponse.text();
 
-textData = textData.replace(/\n/g, "<br>").trim();
+  textData = textData.replace(/\r\n/g, "<br>").trim();
 
-const words = textData.split(/\s+/);
-let outputHtml = '';
-let indexCounter = 0;
+  const words = textData.split(/\s+/);
+  let outputHtml = '';
+  let indexCounter = 0;
 
-words.forEach((word) => {
-  if (word.startsWith('!')) {
-    word = word.slice(1);
-    let spanDummy = "<span class=\"artikel-span\" id=\"" + indexCounter + "\">" 
-    outputHtml += spanDummy+`${word}</span> `;
-    indexCounter++;
-  } else {
-    outputHtml += `${word} `;
+  words.forEach((word) => {
+    if (word.startsWith('!')) {
+      word = word.slice(1);
+      let spanDummy = "<span class=\"artikel-span\" id=\"" + indexCounter + "\">" 
+      outputHtml += spanDummy+`${word}</span> `;
+      indexCounter++;
+    } else {
+      outputHtml += `${word} `;
+    }
+  });
+      
+  document.getElementById('text-div').innerHTML = outputHtml;
+
+  const mapResponse = await fetch ("../artikel/map.txt");
+  mapData = await mapResponse.text(); 
+  mapData = mapData.split(/\n/g);
+  mapData = mapData.map(item => item.split(' '));
+  mapData = mapData.map(item => item.slice(1));
+  
+  for (let i = 0; i < mapData.length; i++) {
+    let innerArray = mapData[i];
+    if (innerArray) {
+      let lastElement = innerArray[innerArray.length - 1];
+      if (lastElement && lastElement.endsWith('\r')) {
+        innerArray[innerArray.length - 1] = lastElement.replace(/\r$/, '');
+      }
+    }
   }
-});
-    
-document.getElementById('text-div').innerHTML = outputHtml;
 
-}
+  }  
+  
 
 mainclown()
   .then(() => {
     const artikelSpans = document.querySelectorAll(".artikel-span");
-    artikelSpans.forEach(element => {
-        element.addEventListener("click", event => {
-        const clickedSpanId = event.target.id;
-        console.log(clickedSpanId);
-        if (clickedSpanId == 0) {
-            if (document.getElementById(clickedSpanId).style.backgroundColor ==  '') { 
-                document.getElementById(clickedSpanId).style.backgroundColor = "rgb(255, 128, 128)";
-                document.getElementById("akk-indef-f").style.backgroundColor = "rgb(255, 128, 128)";
-            } else {
-                document.getElementById(clickedSpanId).style.backgroundColor =  "";
-                document.getElementById("akk-indef-f").style.backgroundColor =  "";
-            } 
-        }
-      });
+    artikelSpans.forEach(spanElement => {
+        spanElement.addEventListener("click", event => {
+          const clickedSpanId = event.target.id;
+          console.log(clickedSpanId);
+          if (document.getElementById(clickedSpanId).style.backgroundColor == '') {
+            document.getElementById(clickedSpanId).style.backgroundColor = "rgb(255, 128, 128)";
+            mapData[clickedSpanId].forEach(mappedElement => {
+              document.getElementById(mappedElement).style.backgroundColor = "rgb(255, 128, 128)"
+            })
+          } else {
+            document.getElementById(clickedSpanId).style.backgroundColor = "";
+            mapData[clickedSpanId].forEach(mappedElement => {
+              document.getElementById(mappedElement).style.backgroundColor = ""
+            })
+          }
+        });
     });
-    });
+  });
   
 
