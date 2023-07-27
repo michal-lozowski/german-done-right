@@ -31,7 +31,22 @@ document.getElementById('text-div').innerHTML = outputHtml;
 
 mainclown()
   .then(() => {
+    const artikelSpans = document.querySelectorAll(".russian-paragraph");
+    artikelSpans.forEach(element => {
+        element.addEventListener("click", event => {
+        const clickedSpanId = event.target.id;
+        if (clickedSpanId === 1) {
+            if (document.getElementById(clickedSpanId).style.backgroundColor === "lightred") { 
+                document.getElementById(clickedSpanId).style.backgroundColor = "lightred";
+                document.getElementById(akk-indef-f).style.backgroundColor = "lightred";
+            } else {
+                document.getElementById(clickedSpanId).style.backgroundColor = "none";
+                document.getElementById(akk-indef-f).style.backgroundColor = "none";
 
+            } 
+        }
+      });
+    });
     });
   
 
