@@ -54,8 +54,8 @@ mainclown()
     artikelSpans.forEach(spanElement => {
         spanElement.addEventListener("click", event => {
           const clickedSpanId = event.target.id;
-          console.log(clickedSpanId);
           if (document.getElementById(clickedSpanId).style.backgroundColor == '') {
+            document.querySelectorAll(".artikel-span").forEach(element => element.style.backgroundColor = "");
             document.getElementById(clickedSpanId).style.backgroundColor = "rgb(255, 128, 128)";
             mapData[clickedSpanId].forEach(mappedElement => {
               document.getElementById(mappedElement).style.backgroundColor = "rgb(255, 128, 128)"
