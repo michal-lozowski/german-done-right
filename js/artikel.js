@@ -31,20 +31,18 @@ document.getElementById('text-div').innerHTML = outputHtml;
 
 mainclown()
   .then(() => {
-    console.log("yes!");
     const artikelSpans = document.querySelectorAll(".artikel-span");
     artikelSpans.forEach(element => {
         element.addEventListener("click", event => {
         const clickedSpanId = event.target.id;
         console.log(clickedSpanId);
         if (clickedSpanId == 0) {
-            console.log("yass")
-            if (document.getElementById(clickedSpanId).style.backgroundColor ===  "rgb(255, 128, 128)") { 
-                document.getElementById(clickedSpanId).style.backgroundColor = "none";
-                document.getElementById("akk-indef-f").style.backgroundColor = "none";
+            if (document.getElementById(clickedSpanId).style.backgroundColor ===  "none") { 
+                document.getElementById(clickedSpanId).style.backgroundColor = "rgb(255, 128, 128)";
+                document.getElementById("akk-indef-f").style.backgroundColor = "rgb(255, 128, 128)";
             } else {
-                document.getElementById(clickedSpanId).style.backgroundColor =  "rgb(255, 128, 128)";
-                document.getElementById("akk-indef-f").style.backgroundColor =  "rgb(255, 128, 128)";
+                document.getElementById(clickedSpanId).style.backgroundColor =  "none";
+                document.getElementById("akk-indef-f").style.backgroundColor =  "none";
             } 
         }
       });
