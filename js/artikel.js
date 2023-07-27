@@ -39,11 +39,11 @@ mainclown()
         console.log(clickedSpanId);
         if (clickedSpanId == 0) {
             if (document.getElementById(clickedSpanId).style.backgroundColor === "lightred") { 
-                document.getElementById(clickedSpanId).style.backgroundColor = "lightred";
-                document.getElementById("akk-indef-f").style.backgroundColor = "lightred";
-            } else {
                 document.getElementById(clickedSpanId).style.backgroundColor = "none";
                 document.getElementById("akk-indef-f").style.backgroundColor = "none";
+            } else {
+                document.getElementById(clickedSpanId).style.backgroundColor = "lightred";
+                document.getElementById("akk-indef-f").style.backgroundColor = "lightred";
 
             } 
         }
