@@ -37,7 +37,7 @@ mainclown()
         const clickedSpanId = event.target.id;
         console.log(clickedSpanId);
         if (clickedSpanId == 0) {
-            if (document.getElementById(clickedSpanId).style.backgroundColor ===  "none" || '') { 
+            if (document.getElementById(clickedSpanId).style.backgroundColor ==  '') { 
                 document.getElementById(clickedSpanId).style.backgroundColor = "rgb(255, 128, 128)";
                 document.getElementById("akk-indef-f").style.backgroundColor = "rgb(255, 128, 128)";
             } else {
