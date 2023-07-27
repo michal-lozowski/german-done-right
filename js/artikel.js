@@ -19,6 +19,7 @@ words.forEach((word) => {
     word = word.slice(1);
     let spanDummy = "<span id=\"" + indexCounter + "\">" 
     outputHtml += spanDummy+`${word}</span> `;
+    indexCounter++;
   } else {
     outputHtml += `${word} `;
   }
