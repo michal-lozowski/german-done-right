@@ -35,7 +35,8 @@ mainclown()
     artikelSpans.forEach(element => {
         element.addEventListener("click", event => {
         const clickedSpanId = event.target.id;
-        if (clickedSpanId === 1) {
+        if (clickedSpanId === 0) {
+            console.log(clickedSpanId);
             if (document.getElementById(clickedSpanId).style.backgroundColor === "lightred") { 
                 document.getElementById(clickedSpanId).style.backgroundColor = "lightred";
                 document.getElementById(akk-indef-f).style.backgroundColor = "lightred";
