@@ -43,7 +43,7 @@
 !der dat-def-f dat-prep
 !Sie nom-er nom-main
 !die nom-def-f nom-main
-!sein akk-pos-n akk-main basic-sein
+!sein akk-pos-n akk-local basic-sein
 !er nom-er nom-main
 !seine akk-pos-pl akk-main basic-sein
 !ihnen dat-ihnen dat-prep
