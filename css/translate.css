@@ -1,7 +1,3 @@
-body {
-    font-family: Arial;
-    }
-
 .leftdiv {
     float: left;
     padding: 10px;
@@ -17,3 +13,4 @@ body {
 .german-paragraph {
     visibility: hidden;
 }
+

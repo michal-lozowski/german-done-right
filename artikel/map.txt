@@ -1,8 +1,12 @@
 !eine akk-indef-f akk-main
 !seine akk-pos-pl akk-main basic-sein
+!Er nom-er nom-main
 !seinem dat-pos-n dat-prep basic-sein
 !einem dat-indef-n dat-prep
+!er nom-er nom-main
 !der dat-def-f dat-local
+!der dat-def-f dat-time
+!er nom-er nom-main
 !die akk-def-pl akk-main
 !den akk-def-m akk-main
 !Die nom-def-f nom-main
@@ -24,19 +28,22 @@
 !seinen dat-pos-pl dat-prep
 !eine akk-indef-f akk-main
 !sie nom-sie nom-main
-!die
-!Seine
-!einer
-!sie?
-!Er
-!die
-!Er
-!die
-!der
-!Sie
-!die
-!sein
-!er
-!seine
-!ihnen
-!er
+!die akk-def-f akk-main
+!Es nom-er nom-main
+!Seine nom-pos-pl nom-main basic-sein
+!einer dat-indef-f dat-time
+!sie? nom-sie nom-main
+!Er nom-er nom-main
+!im dat-def-n dat-local
+!die akk-def-f akk-main
+!es nom-er nom-main
+!Er nom-er nom-main
+!die akk-def-f akk-local
+!der dat-def-f dat-prep
+!Sie nom-er nom-main
+!die nom-def-f nom-main
+!sein akk-pos-n akk-main basic-sein
+!er nom-er nom-main
+!seine akk-pos-pl akk-main basic-sein
+!ihnen dat-ihnen dat-prep
+!er nom-er nom-main

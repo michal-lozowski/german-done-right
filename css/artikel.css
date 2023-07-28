@@ -1,17 +1,15 @@
-body {
-    font-family: Arial;
-}
-
 #artikel-table {
     table-layout: fixed; 
     width:100%;  
     white-space: nowrap;
-    margin: 10px auto;
-    font-size: 16px;
+    min-width: 1200px;
 }
 
 #text-div {
     line-height: 1.6;
-    max-width: 800px;
-    margin: 50px auto;
+    max-width: 80%;
+}
+
+#big-div {
+    margin-top: 50px;
 }
