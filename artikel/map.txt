@@ -9,7 +9,7 @@
 !der dat-def-f dat-time
 !er nom-er nom-main
 !die akk-def-pl akk-main
-!den akk-def-m akk-main
+!den akk-def-m akk-local
 !Die nom-def-f nom-main
 !den akk-def-m akk-local
 !die nom-def-f nom-main
@@ -26,7 +26,7 @@
 !eine akk-indef-f akk-main
 !Sie nom-sie nom-main
 !Er nom-er nom-main
-!seinen dat-pos-pl dat-prep
+!seinen dat-pos-pl dat-prep basic-sein
 !eine akk-indef-f akk-main
 !sie nom-sie nom-main
 !die akk-def-f akk-main
