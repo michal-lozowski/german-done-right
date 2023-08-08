@@ -28,17 +28,17 @@ Du darfst keine Handys haben. Aber Sie dürfen Bücher haben.
 
 Er hat keinen Führerschein. Er darf kein Auto fahren.
 
-Herr Müller, darf ich Outlook installieren?
+-Herr Müller, darf ich Outlook installieren?
 
 -Ja, Sie dürfen Outlook installieren.
 
 sollen:
 
-Soll ich das Fenster öffnen?
+Soll ich das Fenster aufmachen?
 
-Der Friseur sagt: Es tut mir leid, heute gibt es keine Termine mehr. 
+Die Friseurin sagt: Es tut mir leid, heute gibt es keine Termine mehr. 
 
-Ich frage: OK, soll ich dann morgen kommen?
+Ich frage: okay, soll ich dann morgen kommen?
 
 Herr Müller sagt, alle Mitarbeiter sollen Outlook deinstallieren.
 
