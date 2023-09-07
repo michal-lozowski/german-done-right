@@ -10,8 +10,8 @@
     width: 45%;
 }
 
-.leftdiv, 
-.rightdiv {
+.german-paragraph, 
+.russian-paragraph {
     display: inline-block;
     vertical-align: top;
 }
