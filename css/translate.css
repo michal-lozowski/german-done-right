@@ -10,6 +10,11 @@
     width: 45%;
 }
 
+.leftdiv, 
+.rightdiv {
+    vertical-align: top;
+}
+
 .german-paragraph {
     visibility: hidden;
 }
