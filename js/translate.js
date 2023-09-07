@@ -51,6 +51,16 @@ mainclown()
             germanParagraph.style.visibility = "hidden"
         } else germanParagraph.style.visibility = "visible";
       });
+
+    const germanParagraphs = document.querySelectorAll(".german-paragraph");
+    
+    for (let i = 0; i < germanParagraphs.length; i++) {
+        const germanHeight = germanParagraphs[i].clientHeight;
+        const russianHeight = russianParagraphs[i].clientHeight;
+        if (germanHeight > russianHeight) russianParagraphs[i].clientHeight = germanParagraphs[i].clientHeight; 
+        else germanParagraphs[i].clientHeight = russianParagraphs[i].clientHeight;
+    }
+
     });
   });
 
