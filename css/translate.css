@@ -1,18 +1,13 @@
 .leftdiv {
     float: left;
     padding: 10px;
-    width: 45%;
+    width: 40%;
 }
 
 .rightdiv {
     float: right;
     padding: 10px;
-    width: 45%;
-}
-
-.german-paragraph, 
-.russian-paragraph {
-    vertical-align: top;
+    width: 40%;
 }
 
 .german-paragraph {
