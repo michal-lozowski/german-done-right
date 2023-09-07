@@ -55,10 +55,10 @@ mainclown()
     const germanParagraphs = document.querySelectorAll(".german-paragraph");
     
     for (let i = 0; i < germanParagraphs.length; i++) {
-        const germanHeight = germanParagraphs[i].clientHeight;
-        const russianHeight = russianParagraphs[i].clientHeight;
-        if (germanHeight > russianHeight) russianParagraphs[i].clientHeight = germanParagraphs[i].clientHeight; 
-        else germanParagraphs[i].clientHeight = russianParagraphs[i].clientHeight;
+        const germanHeight = germanParagraphs[i].style.height;
+        const russianHeight = russianParagraphs[i].style.height;
+        if (germanHeight > russianHeight) russianParagraphs[i].style.height = germanParagraphs[i].style.height; 
+        else germanParagraphs[i].style.height = russianParagraphs[i].style.height;
     }
 
     });
