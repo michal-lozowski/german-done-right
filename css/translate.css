@@ -12,6 +12,7 @@
 
 .leftdiv, 
 .rightdiv {
+    display: inline-block;
     vertical-align: top;
 }
 
