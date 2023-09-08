@@ -17,4 +17,5 @@
 .russian-paragraph,
 .german-paragraph {
     height: 50px;
+    display: flex;
 }
