@@ -13,8 +13,3 @@
 .german-paragraph {
     visibility: hidden;
 }
-
-.russian-paragraph,
-.german-paragraph {
-    height: 80px;
-}
