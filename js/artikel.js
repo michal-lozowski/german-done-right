@@ -2,12 +2,14 @@ var mapData;
 
 async function mainclown() {
 
-  const tableResponse = await fetch ("../artikel/table.html");
+  const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/';
+
+  const tableResponse = await fetch (baseURL + "table.html");
   const tableData = await tableResponse.text();
 
   document.getElementById('table-div').innerHTML = tableData;
 
-  const textResponse = await fetch ("../artikel/text.txt")
+  const textResponse = await fetch (baseURL + "text.txt")
   let textData = await textResponse.text();
 
   textData = textData.replace(/\n/g, "<br>").trim();
@@ -29,7 +31,7 @@ async function mainclown() {
       
   document.getElementById('text-div').innerHTML = outputHtml;
 
-  const mapResponse = await fetch ("../artikel/map.txt");
+  const mapResponse = await fetch (baseURL + "map.txt");
   mapData = await mapResponse.text(); 
   mapData = mapData.split(/\n/g);
   mapData = mapData.map(item => item.split(' '));

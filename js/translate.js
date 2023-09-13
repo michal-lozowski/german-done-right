@@ -1,9 +1,11 @@
 
 async function mainclown() {
 
-    const responseGerman = await fetch("german.txt");
+    const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/';
+    
+    const responseGerman = await fetch(baseURL + "german.txt");
     const german = await responseGerman.text();
-    const responseRussian = await fetch("russian.txt");
+    const responseRussian = await fetch(baseURL + "russian.txt");
     const russian = await responseRussian.text();
 
     const germanContainer = document.getElementById('german-container');

@@ -2,9 +2,11 @@ let answers;
 
 async function mainclown() {
 
-  const responseQuestions = await fetch("questions.txt");
+  const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/';
+  
+  const responseQuestions = await fetch(baseURL + "questions.txt");
   const questionsText = await responseQuestions.text();
-  const responseAnswers = await fetch("answers.txt");
+  const responseAnswers = await fetch(baseURL + "answers.txt");
   const answersText = await responseAnswers.text();
 
   answers = answersText.split('\n');
