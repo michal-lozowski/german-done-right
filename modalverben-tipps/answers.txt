@@ -12,5 +12,6 @@ kann
 kannst
 kann
 muss
+müssen
 darf
 müssen
