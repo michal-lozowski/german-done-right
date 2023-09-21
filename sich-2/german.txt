@@ -5,21 +5,22 @@ Clara: Wir können ins Café gehen.
 
 Viele Katzen setzen sich oft auf Bücher und Handys. Aber Zapf-Zapf ist nicht so! Er schläft gern auf dem Sofa und Bett. Bücher und Handys interessieren ihn nicht.
 
--Nächste Woche sehen wir uns wieder am Mittwoch?
+-Sehen wir uns nächste Woche wieder am Mittwoch?
 -Nein, nächste Woche Mittwoch kann ich nicht.
 -Hm, aber ich kann nur am Mittwoch.
 -Okay, dann sehen wir uns in 2 Wochen. Wo treffen wir uns?
--Wir können uns am Marktplatz treffen und da weiter spazieren gehen.
+-Wir können uns am Marktplatz treffen und von rot weiter spazieren gehen.
 -Gut, machen wir so!
 
--Ich fühle mich krank. Ich denke, ich kann heute nicht zur Arbeit gehen. Ich muss Frau Heinemann anrufen und sagen, dass ich heute nicht komme. 
+-Ich fühle mich krank. Ich denke, ich kann heute nicht zur Arbeit gehen. Ich muss Frau Heinemann anrufen und sagen, dass ich heute nicht komme.
+...
 -Guten Tag Frau Heinemann! Ich fühle mich sehr-sehr krank, ich muss zu Hause bleiben. Ich kann nicht kommen.
 -A? Was? Wie bitte? Wie fühlen Sie sich?
 -Ich sage, ich bin krank. Ich kann heute nicht kommen. 
 -Alles klar. Dann gute Besserung!
 
 -Triffst du dich mit Christian heute?
--Nein, ich treffe mich morgen mit Christian .
+-Nein, ich treffe mich morgen mit Christian.
 -Und wo trefft ihr euch?
 -Wir treffen uns hier.
 -Wo hier?
