@@ -14,7 +14,7 @@ Wir sind im Restaurant
 Am Abend lese ich normalerweise ein Buch
 Manchmal schaue ich am Abend einen Film oder eine Serie $ Manchmal schaue ich einen Film oder eine Serie am Abend
 Auf dem Sofa schläft die Katze
-Und auf dem Teppich schläft der Hund
+Und auf dem Teppich schläft der Hund $ Und der Hund schläft auf dem Teppich
 Wir essen heute Pizza zum Mittagessen $ Wir essen Pizza zum Mittagessen heute
 Am Morgen trinke ich normalerweise Kaffee
 Abends trinke ich keinen Kaffee
@@ -33,7 +33,7 @@ Aber ich habe Zeit am Mittwoch!
 Im Februar ist es oft kalt
 Am Mittwoch haben wir ein wichtiges Treffen
 Heute Abend geht Patrick mit seiner Freundin ins Kino $ Heute Abend geht Patrick ins Kino mit seiner Freundin
-Deshalb hat er keine Zeit für andere Sachen heute Abend - sorry! $ Deshalb hat er heute Abend keine Zeit für andere Sachen - sorry!
+Deshalb hat er keine Zeit für andere Sachen heute Abend $ Deshalb hat er heute Abend keine Zeit für andere Sachen
 Am Samstag kommen meine Eltern
 Im Frühling sind die Blumen sehr bunt und schön
 Nächste Woche machen wir einen Ausflug nach Stuttgart
