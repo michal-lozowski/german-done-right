@@ -1,4 +1,4 @@
-möchtest
+Möchtest
 en
 e
 will
@@ -27,6 +27,7 @@ en
 Liest
 ese
 kann
+en
 en
 Bist
 bin
