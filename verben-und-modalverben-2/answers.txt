@@ -31,12 +31,13 @@ en
 en
 Bist
 bin
+lese
 en
 en
 en
 müssen
 lesen
-en
+e
 muss
 en
 t
