@@ -1,0 +1,70 @@
+.container {
+  position: relative;
+  width: 50%
+}
+
+#picture {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+#kickkey0 {
+  position: absolute;
+  top: 25%;
+  left: 21%;
+}
+
+#f1key1 {
+  position: absolute;
+  top: 25%;
+  left: 23%;
+}
+
+#gkey2 {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+#abkey3 {
+  position: absolute;
+  top: 25%;
+  left: 27%;
+}
+
+#bbkey4 {
+  position: absolute;
+  top: 25%;
+  left: 29%;
+}
+
+#ckey5 {
+  position: absolute;
+  top: 25%;
+  left: 31%;
+}
+
+#ebkey6 {
+  position: absolute;
+  top: 28%;
+  left: 21%;
+}
+
+#f2key7 {
+  position: absolute;
+  top: 28%;
+  left: 23%;
+}
+
+#key8 {
+  position: absolute;
+  top: 28%;
+  left: 25%;
+}
+
+#boomkey9 {
+  position: absolute;
+  top: 28%;
+  left: 27%;
+}
