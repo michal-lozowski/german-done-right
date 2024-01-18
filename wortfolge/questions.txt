@@ -1,118 +1,118 @@
 Heute / ein schöner Tag / ist
-__
+__(Heute ist ein schöner Tag)
 
 Ich / zum Supermarkt / gehe / morgen
-__
+__(Ich gehe morgen zum Supermarkt$Ich gehe zum Supermarkt morgen)
 
 Heute / ich / habe / keine Zeit
-__
+__(Heute habe ich keine Zeit)
 
 Jetzt / wir alle / in der Küche / essen 
-__
+__(Jetzt essen wir alle in der Küche)
 
 Dann / gehen / wir / in den Garten
-__
+__(Dann gehen wir in den Garten)
 
 Im Garten / wir / spielen / mit unserem Hund
-__
+__(Im Garten spielen wir mit unserem Hund)
 
 Das Auto / schnell / fährt 
-__
+__(Das Auto fährt schnell)
 
 heiß / ist / Der Kaffee 
-__
+__(Der Kaffee ist heiß)
 
 Langsam / die Katze / näher zur Taube / kommt 
-__
+__(Langsam kommt die Katze näher zur Taube)
 
 Das Essen / schmeckt / hier
-__
+__(Das Essen schmeckt hier)
 
 Ich / Wasser / trinke 
-__
+__(Ich trinke Wasser)
 
 schläft / Der Hund / ruhig
-__
+__(Der Hund schläft ruhig)
 
 im Restaurant / Wir / sind 
-__
+__(Wir sind im Restaurant)
 
 Am Abend / ich / normalerweise / lese / ein Buch
-__
+__(Am Abend lese ich normalerweise ein Buch)
 
 Manchmal / ich / schaue / einen Film oder eine Serie / am Abend 
-__
+__(Manchmal schaue ich am Abend einen Film oder eine Serie$Manchmal schaue ich einen Film oder eine Serie am Abend)
 
 die Katze / Auf dem Sofa / schläft
-__
+__(Auf dem Sofa schläft die Katze)
 
 Und / auf dem Teppich / schläft / der Hund
-__
+__(Und auf dem Teppich schläft der Hund$Und der Hund schläft auf dem Teppich)
 
 Wir / heute / essen / Pizza / zum Mittagessen
-__
+__(Wir essen heute Pizza zum Mittagessen$Wir essen Pizza zum Mittagessen heute)
 
 Am Morgen / normalerweise / trinke / ich / Kaffee
-__
+__(Am Morgen trinke ich normalerweise Kaffee)
 
 Abends / keinen Kaffee / trinke / ich
-__
+__(Abends trinke ich keinen Kaffee)
 
 Mein Bruder / läuft / jeden Morgen im Park
-__
+__(Mein Bruder läuft jeden Morgen im Park$Mein Bruder läuft im Park jeden Morgen)
 
 ist / heiß und stark / Der Kaffee
-__
+__(Der Kaffee ist heiß und stark)
 
 Die Kinder / im Garten / mit dem Hund / spielen 
-__
+__(Die Kinder spielen im Garten mit dem Hund$Die Kinder spielen mit dem Hund im Garten)
 
 Ich / heute / gehe / ins Kino
-__
+__(Ich gehe heute ins Kino)
 
 Sie / ein schönes Lied / singt 
-__
+__(Sie singt ein schönes Lied)
 
 Am Montag / ich / einen Termin / habe 
-__
+__(Am Montag habe ich einen Termin)
 
 schwimme / Im Sommer / ich / gerne
-__
+__(Im Sommer schwimme ich gerne)
 
 Am Wochenende / meine Freunde / treffe / ich
-__
+__(Am Wochenende treffe ich meine Freunde)
 
 ist / Heute / ein sonniger Tag
-__
+__(Heute ist ein sonniger Tag)
 
 Morgen / wir / fliegen / nach Italien
-__
+__(Morgen fliegen wir nach Italien)
 
 Am Dienstag / ich / habe / keine Zeit
-__
+__(Am Dienstag habe ich keine Zeit)
 
 Aber / habe / ich / Zeit am Mittwoch!
-__
+__(Aber ich habe Zeit am Mittwoch!)
 
 Im Februar / oft kalt / ist / es
-__
+__(Im Februar ist es oft kalt)
 
 ein wichtiges Treffen / wir / Am Mittwoch / haben
-__
+__(Am Mittwoch haben wir ein wichtiges Treffen)
 
 Heute Abend / Patrick / geht / mit seiner Freundin / ins Kino
-__
+__(Heute Abend geht Patrick mit seiner Freundin ins Kino$Heute Abend geht Patrick ins Kino mit seiner Freundin)
 
 Deshalb / er / keine Zeit für andere Sachen / heute Abend / hat
-__
+__(Deshalb hat er keine Zeit für andere Sachen heute Abend$Deshalb hat er heute Abend keine Zeit für andere Sachen)
 
 Am Samstag / meine Eltern / kommen 
-__
+__(Am Samstag kommen meine Eltern)
 
 Im Frühling / die Blumen / sind / sehr bunt und schön
-__
+__(Im Frühling sind die Blumen sehr bunt und schön)
 
 wir / Nächste Woche / machen / einen Ausflug nach Stuttgart
-__
+__(Nächste Woche machen wir einen Ausflug nach Stuttgart)
 
 

@@ -1,12 +1,12 @@
--_____(хотел бы) du einen Kaffee oder vielleicht einen Tee hab__?
--Nein, danke. Ich glaub__, ich ____(не хочу) im Moment gar nichts trink___.
+-_____(Möchtest)(хотел бы) du einen Kaffee oder vielleicht einen Tee hab__(en)?
+-Nein, danke. Ich glaub__(e), ich ____(will$möchte)(не хочу) im Moment gar nichts trink___(en).
 
--Das ___ eine Katastrophe! Die Waschmaschine ___ immer noch kaputt! Schon eine Woche lang _____(не можем) wir unsere Sachen nicht wasch__. Wann komm__ der Techniker?
--Ich denk__, er ____(должен) morgen oder vielleicht am Montag komm__. Also spätestens am Montag.
--Warum geh__ alles immer so lange hier in Deutschland? In Russland oder in Bulgarien funktionier___ die Sachen so: ich ruf__ die Reparaturfirma an, und ein Waschmaschinentechniker ____(может) normalerweise direkt heute oder vielleicht morgen komm__! Und ich ____(не должен) dann nicht eine Woche lang wart__. Hier in Deutschland ___ es eine Katastrophe.
--Na ja, hier geh__ manche Dinge ein bisschen anders als in deinem Heimatland. Aber kein Stress. Der Techniker komm__ und reparier__ die Waschmaschine. Und dann ____(можем) wir unsere Sachen wieder ganz normal wasch__.
+-Das ___(ist) eine Katastrophe! Die Waschmaschine ___(ist) immer noch kaputt! Schon eine Woche lang _____(können)(не можем) wir unsere Sachen nicht wasch__(en). Wann komm__(t) der Techniker?
+-Ich denk__(e), er ____(muss)(должен) morgen oder vielleicht am Montag komm__(en). Also spätestens am Montag.
+-Warum geh__(t) alles immer so lange hier in Deutschland? In Russland oder in Bulgarien funktionier___(en) die Sachen so: ich ruf__(e) die Reparaturfirma an, und ein Waschmaschinentechniker ____(kann)(может) normalerweise direkt heute oder vielleicht morgen komm__(en)! Und ich ____(muss)(не должен) dann nicht eine Woche lang wart__(en). Hier in Deutschland ___(ist) es eine Katastrophe.
+-Na ja, hier geh__(en) manche Dinge ein bisschen anders als in deinem Heimatland. Aber kein Stress. Der Techniker komm__(t) und reparier__(t) die Waschmaschine. Und dann ____(können)(можем) wir unsere Sachen wieder ganz normal wasch__(en).
 
--____(читаешь) du gern Fantasy-Bücher?
--Nein, ich l___ nicht sehr gern Fantasy. Ich ___(могу) vielleicht einen Fantasy-Film schau__, aber Fantasy-Bücher geh__ nicht sehr gut bei mir. Und du? ____ du ein großer Fan von Fantasy-Literatur?
--Also... Ich ___ kein großer Fan, aber ich ___(читаю) manchmal Fantasy-Bücher. Also ich und meine Frau, wir mach__ manchmal so Bücher-Challenges. Wir find__ ein randomes Buch im Amazon-Kindle-Shop und dann hab__ wir beide eine Woche Zeit für das Buch. Und wir ____(должны) dann quasi das Buch in einer Woche ____(прочесть). Wenn ich das nicht rechtzeitig mach__, dann ____(должен) ich alleine die Wohnung am Wochenende reinig__. Wenn sie das nicht rechtzeitig mach__, dann ____(должна) sie die Wohnung am Wochenende alleine reinig__. Wenn wir das Buch beide rechtzeitig les__, dann reinig__ wir die Wohnung am Wochenende zusammen. So funktionier__ das also bei uns... Und wie gesagt, die Bücher ____ immer random, und _____(это значит), es ____(может) immer theoretisch ein Fantasy-Buch ____(быть).
--Hmmm... Na ja... Ok... Ich _____(понимаю).
+-____(Liest)(читаешь) du gern Fantasy-Bücher?
+-Nein, ich l___(ese) nicht sehr gern Fantasy. Ich ___(kann)(могу) vielleicht einen Fantasy-Film schau__(en), aber Fantasy-Bücher geh__(en) nicht sehr gut bei mir. Und du? ____(Bist) du ein großer Fan von Fantasy-Literatur?
+-Also... Ich ___(bin) kein großer Fan, aber ich ___(lese)(читаю) manchmal Fantasy-Bücher. Also ich und meine Frau, wir mach__(en) manchmal so Bücher-Challenges. Wir find__(en) ein randomes Buch im Amazon-Kindle-Shop und dann hab__(en) wir beide eine Woche Zeit für das Buch. Und wir ____(müssen)(должны) dann quasi das Buch in einer Woche ____(lesen)(прочесть). Wenn ich das nicht rechtzeitig mach__(e), dann ____(muss)(должен) ich alleine die Wohnung am Wochenende reinig__(en). Wenn sie das nicht rechtzeitig mach__(t), dann ____(muss)(должна) sie die Wohnung am Wochenende alleine reinig__(en). Wenn wir das Buch beide rechtzeitig les__(en), dann reinig__(en) wir die Wohnung am Wochenende zusammen. So funktionier__(t) das also bei uns... Und wie gesagt, die Bücher ____(sind) immer random, und _____(das heißt)(это значит), es ____(kann)(может) immer theoretisch ein Fantasy-Buch ____(sein)(быть).
+-Hmmm... Na ja... Ok... Ich _____(verstehe)(понимаю).
