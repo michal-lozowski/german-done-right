@@ -33,7 +33,7 @@ async function mainclown() {
   questionsText = questionsText.replace(/_\(.+\)/g, "_")
 
   let questions = questionsText.replace(/_+/g, "_");
-  questions = questions.replace(/\r\n/g, "<br>").trim().split('_');
+  questions = questions.replace(/\n/g, "<br>").trim().split('_');
 
   container = document.getElementById('test-container');
 
