@@ -1,0 +1,107 @@
+ich mache - я делаю
+du machst - ты делаешь
+er macht - он делает
+sie macht - она делает
+wir machen - мы делаем
+ihr macht - вы, ребята, делаете
+sie machen - они делают
+Sie machen - Вы делаете
+ich wohne - я проживаю
+du wohnst - ты проживаешь
+er wohnt - он проживает
+sie wohnt - она проживает
+wir wohnen - мы проживаем
+ihr wohnt - вы, ребята, проживаете
+sie wohnen - они проживают
+Sie wohnen - Вы проживаете
+ich frage - я спрашиваю
+du fragst - ты спрашиваешь
+er fragt - он спрашивает
+sie fragt - она спрашивает
+wir fragen - мы спрашиваем
+ihr fragt - вы, ребята, спрашиваете
+sie fragen - они спрашивают
+Sie fragen - Вы спрашиваете
+ich gehe - я иду
+du gehst - ты идешь
+er geht - он идет
+sie geht - она идет
+wir gehen - мы идем
+ihr geht - вы, ребята, идете
+sie gehen - они идут
+Sie gehen - Вы идете
+ich komme - я прихожу/приезжаю
+du kommst - ты приходишь/приезжаешь
+er kommt - он приходит/приезжает
+sie kommt - она приходит/приезжает
+wir kommen - мы приходим/приезжаем
+ihr kommt - вы, ребята, приходите/приезжаете
+sie kommen - они приходят/приезжают
+Sie kommen - Вы приходите/приезжаете
+das kostet - это стóит
+es kostet - оно стóит
+sie kosten - они стóят
+ich kaufe - я покупаю
+du kaufst - ты покупаешь
+er kauft - он покупает
+sie kauft - она покупает
+wir kaufen - мы покупаем
+ihr kauft - вы, ребята, покупаете
+sie kaufen - они покупают
+Sie kaufen - Вы покупаете
+ich lerne - я изучаю
+du lernst - ты изучаешь
+er lernt - он изучает
+sie lernt - она изучает
+wir lernen - мы изучаем
+ihr lernt - вы, ребята, изучаете
+sie lernen - они изучают
+Sie lernen - Вы изучаете
+ich koche - я готовлю
+du kochst - ты готовишь
+er kocht - он готовит
+sie kocht - она готовит
+wir kochen - мы готовим
+ihr kocht - вы, ребята, готовите
+sie kochen - они готовят
+Sie kochen - Вы готовите
+ich höre - я слушаю
+du hörst - ты слушаешь
+er hört - он слушает
+sie hört - она слушает
+wir hören - мы слушаем
+ihr hört - вы, ребята, слушаете
+sie hören - они слушают
+Sie hören - Вы слушаете
+ich denke - я думаю
+du denkst - ты думаешь
+er denkt - он думает
+sie denkt - она думает
+wir denken - мы думаем
+ihr denkt - вы, ребята, думаете
+sie denken - они думают
+Sie denken - Вы думаете
+ich verstehe - я понимаю
+du verstehst - ты понимаешь
+er versteht - он понимает
+sie versteht - она понимает
+wir verstehen - мы понимаем
+ihr versteht - вы, ребята, понимаете
+sie verstehen - они понимают
+Sie verstehen - Вы понимаете
+ich brauche - я нуждаюсь
+du brauchst - ты нуждаешься
+er braucht - он нуждается
+sie braucht - она нуждается
+wir brauchen - мы нуждаемся
+ihr braucht - вы, ребята, нуждаетесь
+sie brauchen - они нуждаются
+Sie brauchen - Вы нуждаетесь
+ich nutze - я использую
+du nutzt - ты используешь
+er nutzt - он использует
+sie nutzt - она использует
+wir nutzen - мы используем
+ihr nutzt - вы, ребята, используете
+sie nutzen - они используют
+Sie nutzen - Вы используете

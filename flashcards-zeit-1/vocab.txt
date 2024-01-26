@@ -1,0 +1,54 @@
+heute früh - сегодня утром
+heute Vormittag - сегодня до полудня
+heute Mittag - сегодня в полдень
+heute Nachmittag - сегодня после полудня
+heute Abend - сегодня вечером
+gestern früh - вчера утром
+gestern Vormittag - вчера до полудня
+gestern Mittag - вчера в полдень
+gestern Nachmittag - вчера после полудня
+gestern Abend - вчера вечером
+morgen früh - завтра утром
+morgen Vormittag - завтра до полудня
+morgen Mittag - завтра в полдень
+morgen Nachmittag - завтра после полудня
+morgen Abend - завтра вечером
+am Morgen - утром
+am Vormittag - до полудня
+am Mittag - в полдень
+am Nachmittag - после полудня
+am Abend - вечером
+am Montag - в понедельник
+am Dienstag - во вторник
+am Mittwoch - в среду
+am Donnerstag - в четверг
+am Freitag - в пятницу
+am Samstag - в субботу
+am Sonntag - в воскресенье
+am Wochenende - в выходные
+im Januar - в январе
+im Februar - в феврале
+im März - в марте
+im April - в апреле
+im Mai - в мае
+im Juni - в июне
+im Juli - в июле
+im August - в августе
+im September - в сентябре
+im Oktober - в октябре
+im November - в ноябре
+im Dezember - в декабре
+im Winter - зимой
+im Frühling - весной
+im Sommer - летом
+im Herbst - осенью
+von 9 bis 14 Uhr
+von 8 bis 11:30 Uhr
+von 12:30 bis 17 Uhr
+von Montag bis Freitag
+von Montag bis Sonntag
+von Dienstag bis Freitag
+von 1 bis 12 Prozent
+von 22 bis 35 Prozent
+von September bis Dezember
+von Juni bis August
