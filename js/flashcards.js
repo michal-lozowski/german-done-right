@@ -13,7 +13,7 @@ async function mainclown() {
 }
 
 function sortQandA() {
-  questions = vocabText.split("\r\n")
+  questions = vocabText.split("\n")
   questions = questions.map(question => {
     let separatorIndex = question.search(/-/)
     let answer = question.slice(0, separatorIndex - 1)
