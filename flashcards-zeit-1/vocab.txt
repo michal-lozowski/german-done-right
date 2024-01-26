@@ -42,13 +42,13 @@ im Winter - зимой
 im Frühling - весной
 im Sommer - летом
 im Herbst - осенью
-von 9 bis 14 Uhr
-von 8 bis 11:30 Uhr
-von 12:30 bis 17 Uhr
-von Montag bis Freitag
-von Montag bis Sonntag
-von Dienstag bis Freitag
-von 1 bis 12 Prozent
-von 22 bis 35 Prozent
-von September bis Dezember
-von Juni bis August
+von 9 bis 14 Uhr - с 9 до 14 часов
+von 8 bis 11:30 Uhr - с 8 до 11:30 часов
+von 12:30 bis 17 Uhr - с 12:30 до 17 часов
+von Montag bis Freitag - с понедельника по пятницу
+von Montag bis Sonntag - с понедельника по воскресенье
+von Dienstag bis Freitag - со вторника по пятницу
+von 1 bis 12 Prozent - от 1 до 12 процентов 
+von 22 bis 35 Prozent - от 22 до 35 процентов
+von September bis Dezember - с сентября по декабря
+von Juni bis August - с июня по август

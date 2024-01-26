@@ -184,3 +184,13 @@ im Winter - зимой
 im Frühling - весной
 im Sommer - летом
 im Herbst - осенью
+von 9 bis 14 Uhr
+von 8 bis 11:30 Uhr
+von 12:30 bis 17 Uhr
+von Montag bis Freitag
+von Montag bis Sonntag
+von Dienstag bis Freitag
+von 1 bis 12 Prozent
+von 22 bis 35 Prozent
+von September bis Dezember
+von Juni bis August
