@@ -2,7 +2,7 @@ Heute / ein schöner Tag / ist
 __(Heute ist ein schöner Tag)
 
 Ich / zum Supermarkt / gehe / morgen
-__(Ich gehe morgen zum Supermarkt$Ich gehe zum Supermarkt morgen)
+__(Ich gehe morgen zum Supermarkt $ Ich gehe zum Supermarkt morgen)
 
 Heute / ich / habe / keine Zeit
 __(Heute habe ich keine Zeit)
@@ -41,16 +41,16 @@ Am Abend / ich / normalerweise / lese / ein Buch
 __(Am Abend lese ich normalerweise ein Buch)
 
 Manchmal / ich / schaue / einen Film oder eine Serie / am Abend 
-__(Manchmal schaue ich am Abend einen Film oder eine Serie$Manchmal schaue ich einen Film oder eine Serie am Abend)
+__(Manchmal schaue ich am Abend einen Film oder eine Serie $ Manchmal schaue ich einen Film oder eine Serie am Abend)
 
 die Katze / Auf dem Sofa / schläft
 __(Auf dem Sofa schläft die Katze)
 
 Und / auf dem Teppich / schläft / der Hund
-__(Und auf dem Teppich schläft der Hund$Und der Hund schläft auf dem Teppich)
+__(Und auf dem Teppich schläft der Hund $ Und der Hund schläft auf dem Teppich)
 
 Wir / heute / essen / Pizza / zum Mittagessen
-__(Wir essen heute Pizza zum Mittagessen$Wir essen Pizza zum Mittagessen heute)
+__(Wir essen heute Pizza zum Mittagessen $ Wir essen Pizza zum Mittagessen heute)
 
 Am Morgen / normalerweise / trinke / ich / Kaffee
 __(Am Morgen trinke ich normalerweise Kaffee)
@@ -59,13 +59,13 @@ Abends / keinen Kaffee / trinke / ich
 __(Abends trinke ich keinen Kaffee)
 
 Mein Bruder / läuft / jeden Morgen im Park
-__(Mein Bruder läuft jeden Morgen im Park$Mein Bruder läuft im Park jeden Morgen)
+__(Mein Bruder läuft jeden Morgen im Park $ Mein Bruder läuft im Park jeden Morgen)
 
 ist / heiß und stark / Der Kaffee
 __(Der Kaffee ist heiß und stark)
 
 Die Kinder / im Garten / mit dem Hund / spielen 
-__(Die Kinder spielen im Garten mit dem Hund$Die Kinder spielen mit dem Hund im Garten)
+__(Die Kinder spielen im Garten mit dem Hund $ Die Kinder spielen mit dem Hund im Garten)
 
 Ich / heute / gehe / ins Kino
 __(Ich gehe heute ins Kino)
@@ -101,10 +101,10 @@ ein wichtiges Treffen / wir / Am Mittwoch / haben
 __(Am Mittwoch haben wir ein wichtiges Treffen)
 
 Heute Abend / Patrick / geht / mit seiner Freundin / ins Kino
-__(Heute Abend geht Patrick mit seiner Freundin ins Kino$Heute Abend geht Patrick ins Kino mit seiner Freundin)
+__(Heute Abend geht Patrick mit seiner Freundin ins Kino $ Heute Abend geht Patrick ins Kino mit seiner Freundin)
 
 Deshalb / er / keine Zeit für andere Sachen / heute Abend / hat
-__(Deshalb hat er keine Zeit für andere Sachen heute Abend$Deshalb hat er heute Abend keine Zeit für andere Sachen)
+__(Deshalb hat er keine Zeit für andere Sachen heute Abend $ Deshalb hat er heute Abend keine Zeit für andere Sachen)
 
 Am Samstag / meine Eltern / kommen 
 __(Am Samstag kommen meine Eltern)

@@ -1,111 +1,128 @@
+
+let vocabText
+let questions = []
+let answers = []
 let shownQuestions = []
+let randomNumber
+let timerWasCalled
 
 async function mainclown() {
+  const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/'
+  const responseVocab = await fetch(baseURL + "vocab.txt")
+  vocabText = await responseVocab.text()
+}
 
-    let seconds = 3;
-    function updateTimer() {
-        document.getElementById("timer").innerHTML = seconds
+function sortQandA() {
+  questions = vocabText.split("\r\n")
+  questions = questions.map(question => {
+    let separatorIndex = question.search(/-/)
+    let answer = question.slice(0, separatorIndex - 1)
+    answers.push(answer)
+    return (question.slice(separatorIndex + 2))
+  })
 
-        if (seconds !== 0) {
-            seconds--;
-            timeoutId = setTimeout(updateTimer, 800);
-        }
-    }
+  answers = answers.map(answer => [answer])
+  answers = answers.map(answer => {
+    let bufferArray = answer[0].split(" $ ")
+    return bufferArray
+  })
+}
 
-
-    const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/';
-
-    const responseQuestions = await fetch(baseURL + "questions.txt");
-    let questionsText = await responseQuestions.text();
-
-    let answers = []
-    answerFound = false
-    answerCounter = -1
-    for (let i = 0; i < questionsText.length; i++) {
-        if (questionsText[i - 1] === "(") {
-            answerFound = true
-            dollarCounter = 0
-            answerCounter++
-        }
-        if (questionsText[i] === ")") answerFound = false
-        if (answerFound) {
-            if (answers.length === answerCounter) answers.push("")
-            answers[answerCounter] = answers[answerCounter] + questionsText[i]
-        }
-    }
-
-    questionsText = questionsText.replace(/\(.+\)/g, "")
-
-    questions = questionsText.split("\n");
-
-    do {
+function getRandomQuestionNumber() {
+  do {
     randomNumber = Math.floor(Math.random() * questions.length)
-    } while (shownQuestions.includes(randomNumber))
-    shownQuestions.push(randomNumber)
-
-    container = document.getElementById('test-container');
-
-    const spantext = document.createElement('span');
-    if (shownQuestions.length !== questions.length) spantext.innerHTML = questions[randomNumber] + " "
-    else spantext.innerHTML = "geschafft!"
-
-    const input = document.createElement('input');
-    input.setAttribute('type', 'text');
-    input.setAttribute('id', randomNumber);
-    input.setAttribute('class', "input");
-    input.setAttribute('autocapitalize', "off");
-
-    container.appendChild(spantext)
-    if (shownQuestions.length !== questions.length) container.appendChild(input)
-
-    const blankspace = document.createElement('span')
-    blankspace.innerHTML = " "
-    container.appendChild(blankspace)
-
-    const timer = document.createElement('span')
-    timer.innerHTML = " "
-    timer.setAttribute("id", "timer")
-    container.appendChild(timer)
-
-    
-    const achievements = document.createElement('p')
-    achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (shownQuestions.length - 1)
-    achievements.setAttribute("id", "achievements")
-    container.appendChild(achievements)
-
-    document.getElementById(randomNumber).addEventListener("blur", event => {
-        if ((event.target.value.trim() === answers[event.target.id])) {
-            event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
-            updateTimer()
-        }
-        else if ((event.target.value.trim() === answers[event.target.id])) {
-            event.target.style.backgroundColor = "";
-        }
-    });
-
-    document.getElementById(randomNumber).addEventListener("keydown", event => {
-        if ((event.key === "Enter") && (event.target.value.trim() === answers[event.target.id])) {
-            event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
-            updateTimer()
-        }
-        else if ((event.target.value.trim() === answers[event.target.id])) {
-            event.target.style.backgroundColor = "";
-        }
-    })
-
-    setInterval(document.getElementById(randomNumber).focus(), 500)
+  } while (shownQuestions.includes(randomNumber))
+  shownQuestions.push(randomNumber)
 }
 
-mainclown()
+function manipulateHtml() {
+  container = document.getElementById('test-container')
 
-function checkTimerValue() {
-    const timerElement = document.getElementById("timer");
-    const currentValue = parseInt(timerElement.innerHTML);
+  const spantext = document.createElement('span')
+  if (shownQuestions.length !== questions.length) spantext.innerHTML = questions[randomNumber] + " "
+  else spantext.innerHTML = "geschafft!"
 
-    if (currentValue === 0) {
-        document.getElementById('test-container').innerHTML = "";
-        mainclown();
+  const input = document.createElement('input')
+  input.setAttribute('type', 'text')
+  input.setAttribute('id', randomNumber)
+  input.setAttribute('class', "input")
+  input.setAttribute('autocapitalize', "off")
+
+  container.appendChild(spantext)
+  if (shownQuestions.length !== questions.length) container.appendChild(input)
+
+  const blankspace = document.createElement('span')
+  blankspace.innerHTML = " "
+  container.appendChild(blankspace)
+
+  const timer = document.createElement('span')
+  timer.innerHTML = " "
+  timer.setAttribute("id", "timer")
+  container.appendChild(timer)
+
+  const achievements = document.createElement('p')
+  achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (shownQuestions.length - 1)
+  achievements.setAttribute("id", "achievements")
+  container.appendChild(achievements)
+
+  setInterval(document.getElementById(randomNumber).focus(), 500)
+}
+
+function setTimer() {
+  let seconds = 3
+  if (!timerWasCalled) {
+    timerWasCalled = true
+    document.getElementById("timer").innerHTML = seconds
+    function countdown() {
+      if (seconds !== 0) {
+        seconds--
+        document.getElementById("timer").innerHTML = seconds
+      }
+      if (seconds === 0) {
+        clearInterval(countdownInterval)
+        setTimeout(() => {
+          document.getElementById('test-container').innerHTML = ""
+          timerWasCalled = false
+          getRandomQuestionNumber()
+          manipulateHtml()
+          checkAnswer()
+        }, 500)
+      }
     }
+    const countdownInterval = setInterval(countdown, 800)
+  }
 }
 
-setInterval(checkTimerValue, 1100)
+function checkAnswer() {
+  let isCorrect = false
+
+  document.getElementById(randomNumber).addEventListener("blur", event => {
+    answers[event.target.id].forEach(option => {
+      if (event.target.value.trim() === option) isCorrect = true
+      if (isCorrect) {
+        event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
+        setTimer()
+      }
+    })
+  })
+
+  document.getElementById(randomNumber).addEventListener("keydown", event => {
+    answers[event.target.id].forEach(option => {
+      if (event.key === "Enter" && event.target.value.trim() === option) isCorrect = true
+      if (isCorrect) {
+        event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
+        setTimer()
+      }
+    })
+  })
+}
+
+async function starter() {
+  await mainclown()
+  sortQandA()
+  getRandomQuestionNumber()
+  manipulateHtml()
+  checkAnswer()
+}
+
+starter()

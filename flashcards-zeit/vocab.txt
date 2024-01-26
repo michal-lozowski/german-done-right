@@ -1,0 +1,186 @@
+vor einer Sekunde - cекунду назад
+vor einer Minute - минуту назад
+vor einer Stunde - час назад
+vor einer Woche - неделю назад
+vor einem Jahr - год назад
+vor einem Monat - месяц назад
+vor einem Tag - день назад
+vor 2 Minuten - две минуты назад
+vor 2 Stunden - два часа назад
+vor 2 Wochen - две недели назад
+vor 2 Jahren - два года назад
+vor 2 Monaten - два месяца назад
+vor 2 Tagen - два дня назад
+vor 5 Minuten - пять минут назад
+vor 5 Stunden - пять часов назад
+vor 5 Wochen - пять недель назад
+vor 5 Jahren - пять лет назад
+vor 5 Monaten - пять месяцев назад
+vor 5 Tagen - пять дней назад
+vor 10 Minuten - десять минут назад
+vor 10 Stunden - десять часов назад
+vor 10 Wochen - десять недель назад
+vor 10 Jahren - десять лет назад
+vor 10 Monaten - десять месяцев назад
+vor 10 Tagen - десять дней назад
+in einer Sekunde - через секунду
+in einer Minute - через минуту
+in einer Stunde - через час
+in einer Woche - через неделю
+in einem Jahr - через год
+in einem Monat - через месяц
+in einem Tag - через день
+in 2 Minuten - через две минуты
+in 2 Stunden - через два часа
+in 2 Wochen - через две недели
+in 2 Jahren - через два года
+in 2 Monaten - через два месяца
+in 2 Tagen - через два дня
+in 5 Minuten - через пять минут
+in 5 Stunden - через пять часов
+in 5 Wochen - через пять недель
+in 5 Jahren - через пять лет
+in 5 Monaten - через пять месяцев
+in 5 Tagen - через пять дней
+in 10 Minuten - через десять минут
+in 10 Stunden - через десять часов
+in 10 Wochen - через десять недель
+in 10 Jahren - через десять лет
+in 10 Monaten - через десять месяцев
+in 10 Tagen - через десять дней
+nach einer Sekunde - после одной секунды
+nach einer Minute - после одной минуты
+nach einer Stunde - после одного часа
+nach einer Woche - после одной недели
+nach einem Jahr - после одного года
+nach einem Monat - после одного месяца
+nach einem Tag - после одного дня
+nach 2 Minuten - после двух минут
+nach 2 Stunden - после двух часов
+nach 2 Wochen - после двух недель
+nach 2 Jahren - после двух лет
+nach 2 Monaten - после двух месяцев
+nach 2 Tagen - после двух дней
+nach 5 Minuten - после пяти минут
+nach 5 Stunden - после пяти часов
+nach 5 Wochen - после пяти недель
+nach 5 Jahren - после пяти лет
+nach 5 Monaten - после пяти месяцев
+nach 5 Tagen - после пяти дней
+nach 10 Minuten - после десяти минут
+nach 10 Stunden - после десяти часов
+nach 10 Wochen - после десяти недель
+nach 10 Jahren - после десяти лет
+nach 10 Monaten - после десяти месяцев
+nach 10 Tagen - после десяти дней
+seit einer Woche - уже неделю как
+seit einem Jahr - уже год как
+seit einem Monat - уже месяц как
+seit 2 Stunden - уже два часа
+seit 2 Wochen - уже две недели
+seit 2 Jahren - уже два года
+seit 2 Monaten - уже два месяца
+seit 2 Tagen - уже два дня
+seit 5 Stunden - уже пять часов
+seit 5 Wochen - уже пять недель
+seit 5 Jahren - уже пять лет
+seit 5 Monaten - уже пять месяцев
+seit 5 Tagen - уже пять дней
+seit April - с апреля (о прошлом)
+seit Mai - с мая (о прошлом)
+seit Juni - с июня (о прошлом)
+seit Juli - с июля (о прошлом)
+seit August - с августа (о прошлом)
+seit September - с сентября (о прошлом)
+seit Oktober - с октября (о прошлом)
+seit November - с ноября (о прошлом)
+seit Dezember - с декабря (о прошлом)
+seit gestern - со вчера
+seit 2022 - с 2022 года
+seit 2021 - с 2021 года
+seit 2020 - с 2020 года
+seit 2015 - с 2015 года
+seit 2006 - с 2006 года
+seit 1993 - с 1993 года
+seit 1982 - с 1982 года
+seit 1978 - с 1978 года
+heute früh - сегодня утром
+heute Vormittag - сегодня до полудня
+heute Mittag - сегодня в полдень
+heute Nachmittag - сегодня после полудня
+heute Abend - сегодня вечером
+gestern früh - вчера утром
+gestern Vormittag - вчера до полудня
+gestern Mittag - вчера в полдень
+gestern Nachmittag - вчера после полудня
+gestern Abend - вчера вечером
+morgen früh - завтра утром
+morgen Vormittag - завтра до полудня
+morgen Mittag - завтра в полдень
+morgen Nachmittag - завтра после полудня
+morgen Abend - завтра вечером
+letzten Montag $ am letzten Montag - в прошлый понедельник
+diesen Montag $ an diesem Montag - в этот понедельник
+nächsten Montag $ am nächsten Montag - в следующий понедельник
+letzten Dienstag $ am letzten Dienstag - в прошлый вторник
+diesen Dienstag $ an diesem Dienstag - в этот вторник
+nächsten Dienstag $ am nächsten Dienstag - в следующий вторник
+letzten Mittwoch $ am letzten Mittwoch - в прошлую среду
+diesen Mittwoch $ an diesem Mittwoch - в эту среду
+nächsten Mittwoch $ am nächsten Mittwoch - в следующую среду
+letzten Donnerstag $ am letzten Donnerstag - в прошлый четверг
+diesen Donnerstag $ an diesem Donnerstag - в этот четверг
+nächsten Donnerstag $ am nächsten Donnerstag - в следующий четверг
+letzten Freitag $ am letzten Freitag - в прошлую пятницу
+diesen Freitag $ an diesem Freitag - в эту пятницу
+nächsten Freitag $ am nächsten Freitag - в следующую пятницу
+letzten Samstag $ am letzten Samstag - в прошлую субботу
+diesen Samstag $ an diesem Samstag - в эту субботу
+nächsten Samstag $ am nächsten Samstag - в следующую субботу
+letzten Sonntag $ am letzten Sonntag - в прошлое воскресенье
+diesen Sonntag $ an diesem Sonntag - в это воскресенье
+нächsten Sonntag $ am nächsten Sonntag - в следующее воскресенье
+letztes Mal - в прошлый раз
+dieses Mal - в этот раз
+nächstes Mal - в следующий раз
+letztes Wochenende - в прошлые выходные
+dieses Wochenende - в эти выходные
+nächstes Wochenende - в следующие выходные
+letzte Woche - на прошлой неделе
+diese Woche - на этой неделе
+nächste Woche - на следующей неделе
+letzten Monat - в прошлом месяце
+diesen Monat - в этом месяце
+nächsten Monat - в следующем месяце
+letztes Jahr - в прошлом году
+dieses Jahr - в этом году
+nächstes Jahr - в следующем году
+am Morgen - утром
+am Vormittag - до полудня
+am Mittag - в полдень
+am Nachmittag - после полудня
+am Abend - вечером
+am Montag - в понедельник
+am Dienstag - во вторник
+am Mittwoch - в среду
+am Donnerstag - в четверг
+am Freitag - в пятницу
+am Samstag - в субботу
+am Sonntag - в воскресенье
+am Wochenende - в выходные
+im Januar - в январе
+im Februar - в феврале
+im März - в марте
+im April - в апреле
+im Mai - в мае
+im Juni - в июне
+im Juli - в июле
+im August - в августе
+im September - в сентябре
+im Oktober - в октябре
+im November - в ноябре
+im Dezember - в декабре
+im Winter - зимой
+im Frühling - весной
+im Sommer - летом
+im Herbst - осенью

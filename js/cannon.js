@@ -205,17 +205,18 @@ function Question(textToShow) {
     this.xSpeed = 0
     this.ySpeed = 0
 
-    let dragA = random(-0.1, -0.25)
+    /* let dragA = random(-0.1, -0.25)
     let dragB = random(0.1, 0.25)
     let chooser = floor(random(2))
-    if (chooser === 0) this.drag = dragA
-    if (chooser === 1) this.drag = dragB
+    if (chooser === 0) this.drag = dragA * 0.1
+    if (chooser === 1) this.drag = dragB * 0.1 */
 
     this.update = function () {
 
         if (this.ySpeed !== 0) {
-            this.ySpeed += this.drag
-            this.xSpeed += this.drag
+            this.ySpeed += 0.025
+            /* this.ySpeed += this.drag
+            this.xSpeed += this.drag */
             console.log(this.drag)
         }
 

@@ -1,0 +1,202 @@
+ich mache - я делаю
+du machst - ты делаешь
+er macht - он делает
+sie macht - она делает
+wir machen - мы делаем
+ihr macht - вы, ребята, делаете
+sie machen - они делают
+Sie machen - Вы делаете
+ich spreche - я разговариваю
+du sprichst - ты разговариваешь
+er spricht - он разговаривает
+sie spricht - она разговаривает
+wir sprechen - мы разговариваем
+ihr sprecht - вы, ребята, разговариваете
+sie sprechen - они разговаривают
+Sie sprechen - Вы разговариваете
+ich wohne - я проживаю
+du wohnst - ты проживаешь
+er wohnt - он проживает
+sie wohnt - она проживает
+wir wohnen - мы проживаем
+ihr wohnt - вы, ребята, проживаете
+sie wohnen - они проживают
+Sie wohnen - Вы проживаете
+ich lebe - я живу
+du lebst - ты живешь
+er lebt - он живет
+sie lebt - она живет
+wir leben - мы живем
+ihr lebt - вы, ребята, живете
+sie leben - они живут
+Sie leben - Вы живете
+ich liebe - я люблю
+du liebst - ты любишь
+er liebt - он любит
+sie liebt - она любит
+wir lieben - мы любим
+ihr liebt - вы, ребята, любите
+sie lieben - они любят
+Sie lieben - Вы любите
+ich sende - я отправляю
+du sendest - ты отправляешь
+er sendet - он отправляет
+sie sendet - она отправляет
+wir senden - мы отправляем
+ihr sendet - вы, ребята, отправляете
+sie senden - они отправляют
+Sie senden - Вы отправляете
+ich frage - я спрашиваю
+du fragst - ты спрашиваешь
+er fragt - он спрашивает
+sie fragt - она спрашивает
+wir fragen - мы спрашиваем
+ihr fragt - вы, ребята, спрашиваете
+sie fragen - они спрашивают
+Sie fragen - Вы спрашиваете
+ich antworte - я отвечаю
+du antwortest - ты отвечаешь
+er antwortet - он отвечает
+sie antwortet - она отвечает
+wir antworten - мы отвечаем
+ihr antwortet - вы, ребята, отвечаете
+sie antworten - они отвечают
+Sie antworten - Вы отвечаете
+ich erkläre - я объясняю
+du erklärst - ты объясняешь
+er erklärt - он объясняет
+sie erklärt - она объясняет
+wir erklären - мы объясняем
+sie erklären - они объясняют
+Sie erklären - Вы объясняете
+ich gehe - я иду
+du gehst - ты идешь
+er geht - он идет
+sie geht - она идет
+wir gehen - мы идем
+ihr geht - вы, ребята, идете
+sie gehen - они идут
+Sie gehen - Вы идете
+ich fahre - я еду
+du fährst - ты едешь
+er fährt - он едет
+sie fährt - она едет
+wir fahren - мы едем
+ihr fahrt - вы, ребята, едете
+sie fahren - они едут
+Sie fahren - Вы едете
+ich komme - я прихожу/приезжаю
+du kommst - ты приходишь/приезжаешь
+er kommt - он приходит/приезжает
+sie kommt - она приходит/приезжает
+wir kommen - мы приходим/приезжаем
+ihr kommt - вы, ребята, приходите/приезжаете
+sie kommen - они приходят/приезжают
+Sie kommen - Вы приходите/приезжаете
+das kostet - это стóит
+es kostet - оно стóит
+sie kosten - они стóят
+ich kaufe - я покупаю
+du kaufst - ты покупаешь
+er kauft - он покупает
+sie kauft - она покупает
+wir kaufen - мы покупаем
+ihr kauft - вы, ребята, покупаете
+sie kaufen - они покупают
+Sie kaufen - Вы покупаете
+ich arbeite - я работаю
+du arbeitest - ты работаешь
+er arbeitet - он работает
+sie arbeitet - она работает
+wir arbeiten - мы работаем
+ihr arbeitet - вы, ребята, работаете
+sie arbeiten - они работают
+Sie arbeiten - Вы работаете
+ich lerne - я изучаю
+du lernst - ты изучаешь
+er lernt - он изучает
+sie lernt - она изучает
+wir lernen - мы изучаем
+ihr lernt - вы, ребята, изучаете
+sie lernen - они изучают
+Sie lernen - Вы изучаете
+ich spiele - я играю
+du spielst - ты играешь
+er spielt - он играет
+sie spielt - она играет
+wir spielen - мы играем
+ihr spielt - вы, ребята, играете
+sie spielen - они играют
+Sie spielen - Вы играете
+ich trinke - я пью
+du trinkst - ты пьешь
+er trinkt - он пьет
+sie trinkt - она пьет
+wir trinken - мы пьем
+ihr trinkt - вы, ребята, пьете
+sie trinken - они пьют
+Sie trinken - Вы пьете
+ich koche - я готовлю
+du kochst - ты готовишь
+er kocht - он готовит
+sie kocht - она готовит
+wir kochen - мы готовим
+ihr kocht - вы, ребята, готовите
+sie kochen - они готовят
+Sie kochen - Вы готовите
+ich suche - я ищу
+du suchst - ты ищешь
+er sucht - он ищет
+sie sucht - она ищет
+wir suchen - мы ищем
+ihr sucht - вы, ребята, ищете
+sie suchen - они ищут
+Sie suchen - Вы ищете
+ich finde - я нахожу
+du findest - ты находишь
+er findet - он находит
+sie findet - она находит
+wir finden - мы находим
+ihr findet - вы, ребята, находите
+sie finden - они находят
+Sie finden - Вы находите
+ich höre - я слушаю
+du hörst - ты слушаешь
+er hört - он слушает
+sie hört - она слушает
+wir hören - мы слушаем
+ihr hört - вы, ребята, слушаете
+sie hören - они слушают
+Sie hören - Вы слушаете
+ich denke - я думаю
+du denkst - ты думаешь
+er denkt - он думает
+sie denkt - она думает
+wir denken - мы думаем
+ihr denkt - вы, ребята, думаете
+sie denken - они думают
+Sie denken - Вы думаете
+ich verstehe - я понимаю
+du verstehst - ты понимаешь
+er versteht - он понимает
+sie versteht - она понимает
+wir verstehen - мы понимаем
+ihr versteht - вы, ребята, понимаете
+sie verstehen - они понимают
+Sie verstehen - Вы понимаете
+ich brauche - я нуждаюсь
+du brauchst - ты нуждаешься
+er braucht - он нуждается
+sie braucht - она нуждается
+wir brauchen - мы нуждаемся
+ihr braucht - вы, ребята, нуждаетесь
+sie brauchen - они нуждаются
+Sie brauchen - Вы нуждаетесь
+ich nutze - я использую
+du nutzt - ты используешь
+er nutzt - он использует
+sie nutzt - она использует
+wir nutzen - мы используем
+ihr nutzt - вы, ребята, используете
+sie nutzen - они используют
+Sie nutzen - Вы используете
