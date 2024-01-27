@@ -1,5 +1,3 @@
-//ae ue oe 
-
 
 let vocabText
 let questions = []
@@ -23,7 +21,7 @@ function sortQandA() {
     return (question.slice(separatorIndex + 2))
   })
 
-  answers = answers.map(answer => [answer])
+  answers = answers.map(answer => [answer.trim()])
   answers = answers.map(answer => {
     let bufferArray = answer[0].split(" $ ")
     return bufferArray
@@ -88,10 +86,10 @@ function setTimer() {
           getRandomQuestionNumber()
           manipulateHtml()
           checkAnswer()
-        }, 500)
+        }, 400)
       }
     }
-    const countdownInterval = setInterval(countdown, 800)
+    const countdownInterval = setInterval(countdown, 450)
   }
 }
 
@@ -99,8 +97,10 @@ function checkAnswer() {
   let isCorrect = false
 
   document.getElementById(randomNumber).addEventListener("blur", event => {
-    answers[event.target.id].forEach(option => {
-      if (event.target.value.trim() === option) isCorrect = true
+    answers[event.target.id].forEach(answer => {
+      let originalInput = event.target.value.trim()
+      let umlautInput = originalInput.replace("ae","ä").replace("oe","ö").replace("ue","ü").replace("ss", "ß")
+      if (originalInput === answer || umlautInput === answer) isCorrect = true
       if (isCorrect) {
         event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
         setTimer()
@@ -109,8 +109,10 @@ function checkAnswer() {
   })
 
   document.getElementById(randomNumber).addEventListener("keydown", event => {
-    answers[event.target.id].forEach(option => {
-      if (event.key === "Enter" && event.target.value.trim() === option) isCorrect = true
+    answers[event.target.id].forEach(answer => {
+      let originalInput = event.target.value.trim()
+      let umlautInput = originalInput.replace("ae","ä").replace("oe","ö").replace("ue","ü").replace("ss", "ß")
+      if (event.key === "Enter" && (originalInput === answer || umlautInput === answer)) isCorrect = true
       if (isCorrect) {
         event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
         setTimer()

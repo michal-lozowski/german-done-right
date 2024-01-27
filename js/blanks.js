@@ -11,16 +11,18 @@ async function mainclown() {
 
 function sortQandA() {
 
-  answers = questionsText.match(/\(.+\)/g)
+  answers = questionsText.match(/\(.+?\)/g)
   answers = answers.map(answer => [answer.slice(1, -1)])
   answers = answers.map(answer => {
     let bufferArray = answer[0].split(" $ ")
     return bufferArray
   })
+  answers = answers.map(arr => arr.map(answer => answer.trim()))
 
-  questionsText = questionsText.replace(/_\(.+\)/g, "")
+  questionsText = questionsText.replace("_", "__")
+  questionsText = questionsText.replace(/_\(.+?\)/g, "")
   questions = questionsText.replace(/_+/g, "_");
-  questions = questions.replace(/\n/g, "<br>").split('_');
+  questions = questions.replace(/\r\n/g, "<br>").split('_');
 
 }
 
@@ -31,9 +33,8 @@ function manipulateHtml() {
     spantext.innerHTML = questions[i]
     if (i < questions.length - 1) {
       const input = document.createElement('input')
-      const uniqueId = i
       input.setAttribute('type', 'text')
-      input.setAttribute('id', uniqueId)
+      input.setAttribute('id', i)
       input.setAttribute('class', "answerField")
       input.setAttribute('autocapitalize', "off")
       spantext.appendChild(input)
@@ -45,12 +46,13 @@ function manipulateHtml() {
 
 function checkAnswers() {
   const answerFields = document.querySelectorAll(".answerField");
-  let isCorrect = false
   answerFields.forEach(input => {
     input.addEventListener("blur", event => {
       let isCorrect = false
       answers[event.target.id].forEach(answer => {
-        if ((event.target.value.trim() === answer)) isCorrect = true
+        let originalInput = event.target.value.trim()
+        let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü").replace("ss", "ß")
+        if (originalInput === answer || umlautInput === answer) isCorrect = true
         if (isCorrect) {
           event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
         }
@@ -61,7 +63,9 @@ function checkAnswers() {
     input.addEventListener("keydown", event => {
       let isCorrect = false
       answers[event.target.id].forEach(answer => {
-        if ((event.key === "Enter") && (event.target.value.trim() === answer)) isCorrect = true
+        let originalInput = event.target.value.trim()
+        let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü").replace("ss", "ß")
+        if (event.key === "Enter" && (originalInput === answer || umlautInput === answer)) isCorrect = true
         if (isCorrect) {
           event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           document.getElementById(parseInt(event.target.id) + 1).focus();
