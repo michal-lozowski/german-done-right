@@ -22,12 +22,15 @@ function sortQandA() {
   questionsText = questionsText.replace("_", "__")
   questionsText = questionsText.replace(/_\(.+?\)/g, "")
   questions = questionsText.replace(/_+/g, "_");
-  questions = questions.replace(/\r\n/g, "<br>").split('_');
+  questions = questions.replace(/\n/g, "<br>").split('_');
 
 }
 
 function manipulateHtml() {
   container = document.getElementById('test-container')
+  const spelling = document.createElement("span")
+  spelling.innerHTML = "ä=oe ö=oe ü=ue ß=ss<br><br>"
+  container.appendChild(spelling)
   for (let i = 0; i < questions.length; i++) {
     const spantext = document.createElement('span')
     spantext.innerHTML = questions[i]
