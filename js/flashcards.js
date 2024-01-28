@@ -5,6 +5,7 @@ let answers = []
 let shownQuestions = []
 let randomNumber
 let timerWasCalled
+let answeredQuestionsCounter = 0
 
 async function mainclown() {
   const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/'
@@ -29,17 +30,19 @@ function sortQandA() {
 }
 
 function getRandomQuestionNumber() {
-  do {
-    randomNumber = Math.floor(Math.random() * questions.length)
-  } while (shownQuestions.includes(randomNumber))
-  shownQuestions.push(randomNumber)
+  if (answeredQuestionsCounter !== questions.length) {
+    do {
+      randomNumber = Math.floor(Math.random() * questions.length)
+    } while (shownQuestions.includes(randomNumber))
+    shownQuestions.push(randomNumber)
+  }
 }
 
 function manipulateHtml() {
   container = document.getElementById('test-container')
 
   const spantext = document.createElement('span')
-  if (shownQuestions.length !== questions.length) spantext.innerHTML = questions[randomNumber] + " "
+  if (answeredQuestionsCounter !== questions.length) spantext.innerHTML = questions[randomNumber] + " "
   else spantext.innerHTML = "geschafft!"
 
   const input = document.createElement('input')
@@ -49,7 +52,7 @@ function manipulateHtml() {
   input.setAttribute('autocapitalize', "off")
 
   container.appendChild(spantext)
-  if (shownQuestions.length !== questions.length) container.appendChild(input)
+  if (answeredQuestionsCounter !== questions.length) container.appendChild(input)
 
   const blankspace = document.createElement('span')
   blankspace.innerHTML = " "
@@ -65,7 +68,7 @@ function manipulateHtml() {
   container.appendChild(spelling)
 
   const achievements = document.createElement('p')
-  achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (shownQuestions.length - 1)
+  achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (answeredQuestionsCounter) + " von " + questions.length
   achievements.setAttribute("id", "achievements")
   container.appendChild(achievements)
 
@@ -87,6 +90,7 @@ function setTimer() {
         setTimeout(() => {
           document.getElementById('test-container').innerHTML = ""
           timerWasCalled = false
+          answeredQuestionsCounter++
           getRandomQuestionNumber()
           manipulateHtml()
           checkAnswer()

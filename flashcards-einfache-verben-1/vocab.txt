@@ -6,6 +6,15 @@ wir machen - мы делаем
 ihr macht - вы, ребята, делаете
 sie machen - они делают
 Sie machen - Вы делаете
+ich heiße - я зовусь
+du heißt - ты зовешься
+er heißt - он зовется
+sie heißt - она зовется
+wir heißen - мы зовемся
+ihr heißt - вы, ребята, зоветесь
+sie heißen - они зовутся
+Sie heißen - Вы зоветесь
+das heißt $ es heißt - это значит
 ich wohne - я проживаю
 du wohnst - ты проживаешь
 er wohnt - он проживает
