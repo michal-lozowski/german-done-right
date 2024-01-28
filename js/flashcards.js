@@ -60,6 +60,10 @@ function manipulateHtml() {
   timer.setAttribute("id", "timer")
   container.appendChild(timer)
 
+  const spelling = document.createElement("span")
+  spelling.innerHTML = "<br><br> ä=oe ö=oe ü=ue ß=ss<br>"
+  container.appendChild(spelling)
+
   const achievements = document.createElement('p')
   achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (shownQuestions.length - 1)
   achievements.setAttribute("id", "achievements")
