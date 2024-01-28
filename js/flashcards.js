@@ -99,8 +99,9 @@ function checkAnswer() {
   document.getElementById(randomNumber).addEventListener("blur", event => {
     answers[event.target.id].forEach(answer => {
       let originalInput = event.target.value.trim()
-      let umlautInput = originalInput.replace("ae","ä").replace("oe","ö").replace("ue","ü").replace("ss", "ß")
-      if (originalInput === answer || umlautInput === answer) isCorrect = true
+      let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
+      let eszetInput = umlautInput.replace("ss", "ß")
+      if (originalInput === answer || umlautInput === answer || eszetInput === answer) isCorrect = true
       if (isCorrect) {
         event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
         setTimer()
@@ -111,8 +112,9 @@ function checkAnswer() {
   document.getElementById(randomNumber).addEventListener("keydown", event => {
     answers[event.target.id].forEach(answer => {
       let originalInput = event.target.value.trim()
-      let umlautInput = originalInput.replace("ae","ä").replace("oe","ö").replace("ue","ü").replace("ss", "ß")
-      if (event.key === "Enter" && (originalInput === answer || umlautInput === answer)) isCorrect = true
+      let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
+      let eszetInput = umlautInput.replace("ss", "ß")
+      if (event.key === "Enter" && (originalInput === answer || umlautInput === answer || eszetInput === answer)) isCorrect = true
       if (isCorrect) {
         event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
         setTimer()

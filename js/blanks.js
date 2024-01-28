@@ -11,18 +11,18 @@ async function mainclown() {
 
 function sortQandA() {
 
-  answers = questionsText.match(/\(.+?\)/g)
-  answers = answers.map(answer => [answer.slice(1, -1)])
+  answers = questionsText.match(/_\(.+?\)/g)
+  answers = answers.map(answer => [answer.slice(2, -1)])
   answers = answers.map(answer => {
     let bufferArray = answer[0].split(" $ ")
     return bufferArray
   })
   answers = answers.map(arr => arr.map(answer => answer.trim()))
 
-  questionsText = questionsText.replace("_", "__")
+  questionsText = questionsText.replace(/_/g, "__")
   questionsText = questionsText.replace(/_\(.+?\)/g, "")
   questions = questionsText.replace(/_+/g, "_");
-  questions = questions.replace(/\n/g, "<br>").split('_');
+  questions = questions.replace(/\r\n/g, "<br>").split('_');
 
 }
 
@@ -54,8 +54,9 @@ function checkAnswers() {
       let isCorrect = false
       answers[event.target.id].forEach(answer => {
         let originalInput = event.target.value.trim()
-        let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü").replace("ss", "ß")
-        if (originalInput === answer || umlautInput === answer) isCorrect = true
+        let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
+        let eszetInput = umlautInput.replace("ss", "ß")
+        if (originalInput === answer || umlautInput === answer || eszetInput === answer) isCorrect = true
         if (isCorrect) {
           event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
         }
@@ -67,8 +68,9 @@ function checkAnswers() {
       let isCorrect = false
       answers[event.target.id].forEach(answer => {
         let originalInput = event.target.value.trim()
-        let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü").replace("ss", "ß")
-        if (event.key === "Enter" && (originalInput === answer || umlautInput === answer)) isCorrect = true
+        let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
+        let eszetInput = umlautInput.replace("ss", "ß")
+        if (event.key === "Enter" && (originalInput === answer || umlautInput === answer || eszetInput === answer)) isCorrect = true
         if (isCorrect) {
           event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)";
           document.getElementById(parseInt(event.target.id) + 1).focus();
