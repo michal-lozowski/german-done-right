@@ -22,7 +22,7 @@ function sortQandA() {
   questionsText = questionsText.replace(/_/g, "__")
   questionsText = questionsText.replace(/_\(.+?\)/g, "")
   questions = questionsText.replace(/_+/g, "_");
-  questions = questions.replace(/\r\n/g, "<br>").split('_');
+  questions = questions.replace(/\n/g, "<br>").split('_');
 
 }
 
