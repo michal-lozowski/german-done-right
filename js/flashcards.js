@@ -105,7 +105,8 @@ function addTip() {
 
     const tip = document.createElement("span")
     tip.setAttribute("id", "tip")
-    tip.innerHTML = answers[randomNumber]
+    let tipAnswer = answers[randomNumber].map(answer => answer = " " + answer)
+    tip.innerHTML = tipAnswer
     tip.style.visibility = "hidden"
 
     const linebreakB = document.createElement('p')
