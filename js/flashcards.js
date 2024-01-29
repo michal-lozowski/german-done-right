@@ -4,8 +4,9 @@ let questions = []
 let answers = []
 let shownQuestions = []
 let randomNumber
-let timerWasCalled
+let timerFunctionWasCalled
 let answeredQuestionsCounter = 0
+let timerActivated = true
 
 async function mainclown() {
   const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/'
@@ -63,12 +64,28 @@ function manipulateHtml() {
   timer.setAttribute("id", "timer")
   container.appendChild(timer)
 
+  const linebreak = document.createElement('p')
+  blankspace.innerHTML = " "
+  container.appendChild(linebreak)
+
+  const checkboxText = document.createElement("span")
+  checkboxText.setAttribute("id", "checkboxText")
+  checkboxText.innerHTML = "Timer soll laufen "
+  container.appendChild(checkboxText)
+
+  const timerCheckbox = document.createElement("input")
+  timerCheckbox.setAttribute("type", "checkbox")
+  timerCheckbox.setAttribute("id", "timerCheckbox")
+  if (timerActivated) timerCheckbox.setAttribute("checked", "true")
+  else timerCheckbox.removeAttribute("checked")
+  container.appendChild(timerCheckbox)
+
   const spelling = document.createElement("span")
   spelling.innerHTML = "<br><br> ä=oe ö=oe ü=ue ß=ss<br>"
   container.appendChild(spelling)
 
   const achievements = document.createElement('p')
-  achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (answeredQuestionsCounter) + " von " + questions.length
+  achievements.innerHTML = "Fragen erfolgreich beantwortet: " + (answeredQuestionsCounter) + " von insgesamt " + questions.length
   achievements.setAttribute("id", "achievements")
   container.appendChild(achievements)
 
@@ -76,28 +93,41 @@ function manipulateHtml() {
 }
 
 function setTimer() {
-  let seconds = 3
-  if (!timerWasCalled) {
-    timerWasCalled = true
-    document.getElementById("timer").innerHTML = seconds
-    function countdown() {
-      if (seconds !== 0) {
-        seconds--
-        document.getElementById("timer").innerHTML = seconds
+  if (!timerActivated && !timerFunctionWasCalled) {
+    timerFunctionWasCalled = true
+    document.getElementById('test-container').innerHTML = ""
+    timerFunctionWasCalled = false
+    answeredQuestionsCounter++
+    getRandomQuestionNumber()
+    manipulateHtml()
+    checkAnswer()
+    checkTimerCheckbox()
+  } else {
+    console.log("yay")
+    let seconds = 3
+    if (!timerFunctionWasCalled) {
+      timerFunctionWasCalled = true
+      document.getElementById("timer").innerHTML = seconds
+      function countdown() {
+        if (seconds !== 0) {
+          seconds--
+          document.getElementById("timer").innerHTML = seconds
+        }
+        if (seconds === 0) {
+          clearInterval(countdownInterval)
+          setTimeout(() => {
+            document.getElementById('test-container').innerHTML = ""
+            timerFunctionWasCalled = false
+            answeredQuestionsCounter++
+            getRandomQuestionNumber()
+            manipulateHtml()
+            checkAnswer()
+            checkTimerCheckbox()
+          }, 350)
+        }
       }
-      if (seconds === 0) {
-        clearInterval(countdownInterval)
-        setTimeout(() => {
-          document.getElementById('test-container').innerHTML = ""
-          timerWasCalled = false
-          answeredQuestionsCounter++
-          getRandomQuestionNumber()
-          manipulateHtml()
-          checkAnswer()
-        }, 400)
-      }
+      const countdownInterval = setInterval(countdown, 450)
     }
-    const countdownInterval = setInterval(countdown, 450)
   }
 }
 
@@ -131,12 +161,20 @@ function checkAnswer() {
   })
 }
 
+function checkTimerCheckbox() {
+  document.getElementById("timerCheckbox").addEventListener("change", event => {
+    if (event.target.checked) timerActivated = true
+    else timerActivated = false
+  })
+}
+
 async function starter() {
   await mainclown()
   sortQandA()
   getRandomQuestionNumber()
   manipulateHtml()
   checkAnswer()
+  checkTimerCheckbox()
 }
 
 starter()
