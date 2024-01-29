@@ -205,5 +205,5 @@ von Montag bis Sonntag - с понедельника по воскресенье
 von Dienstag bis Freitag - со вторника по пятницу
 von 1 bis 12 Prozent - от 1 до 12 процентов 
 von 22 bis 35 Prozent - от 22 до 35 процентов
-von September bis Dezember - с сентября по декабря
+von September bis Dezember - с сентября по декабрь
 von Juni bis August - с июня по август
