@@ -29,7 +29,7 @@ function sortQandA() {
 function manipulateHtml() {
   container = document.getElementById('test-container')
   const spelling = document.createElement("span")
-  spelling.innerHTML = "ä=oe ö=oe ü=ue ß=ss<br><br>"
+  spelling.innerHTML = "ä=ae ö=oe ü=ue ß=ss<br><br>"
   container.appendChild(spelling)
   for (let i = 0; i < questions.length; i++) {
     const spantext = document.createElement('span')

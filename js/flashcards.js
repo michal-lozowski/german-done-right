@@ -83,7 +83,7 @@ function manipulateHtml() {
   container.appendChild(timerCheckbox)
 
   const spelling = document.createElement("span")
-  spelling.innerHTML = "<br><br> ä=oe ö=oe ü=ue ß=ss<br>"
+  spelling.innerHTML = "<br><br> ä=ae ö=oe ü=ue ß=ss<br>"
   container.appendChild(spelling)
 
   const achievements = document.createElement('p')
