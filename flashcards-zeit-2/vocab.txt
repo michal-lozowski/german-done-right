@@ -23,6 +23,10 @@ vor 10 Wochen - десять недель назад
 vor 10 Jahren - десять лет назад
 vor 10 Monaten - десять месяцев назад
 vor 10 Tagen - десять дней назад
+vor vielen Tagen - много дней назад
+vor vielen Wochen - много недель назад
+vor vielen Monaten - много месяцев назад
+vor vielen Jahren - много лет назад
 in einer Sekunde - через секунду
 in einer Minute - через минуту
 in einer Stunde - через час
@@ -73,6 +77,11 @@ nach 10 Wochen - после десяти недель
 nach 10 Jahren - после десяти лет
 nach 10 Monaten - после десяти месяцев
 nach 10 Tagen - после десяти дней
+nach vielen Tagen - после многих дней, спустя много дней
+nach vielen Wochen - после многих недель, спустя много недель
+nach vielen Monaten - после многих месяцев, спустя много месяцев
+nach vielen Jahren - после многих лет, спустя много лет
+nach langer Zeit - после долгого времени
 seit einer Woche - уже неделю как
 seit einem Jahr - уже год как
 seit einem Monat - уже месяц как
@@ -104,6 +113,10 @@ seit 2006 - с 2006 года
 seit 1993 - с 1993 года
 seit 1982 - с 1982 года
 seit 1978 - с 1978 года
+seit vielen Tagen - уже много дней
+seit vielen Wochen - уже много недель
+seit vielen Monaten - уже много месяцев
+seit vielen Jahren - уже много лет
 heute früh - сегодня утром
 heute Vormittag - сегодня до полудня
 heute Mittag - сегодня в полдень

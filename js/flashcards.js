@@ -7,6 +7,7 @@ let randomNumber
 let timerFunctionWasCalled
 let answeredQuestionsCounter = 0
 let timerActivated = true
+let attemptsCounter = 0
 
 async function mainclown() {
   const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/'
@@ -64,9 +65,10 @@ function manipulateHtml() {
   timer.setAttribute("id", "timer")
   container.appendChild(timer)
 
-  const linebreak = document.createElement('p')
+  const linebreakA = document.createElement('p')
+  linebreakA.setAttribute("id", "linebreakA")
   blankspace.innerHTML = " "
-  container.appendChild(linebreak)
+  container.appendChild(linebreakA)
 
   const checkboxText = document.createElement("span")
   checkboxText.setAttribute("id", "checkboxText")
@@ -92,6 +94,37 @@ function manipulateHtml() {
   setInterval(document.getElementById(randomNumber).focus(), 500)
 }
 
+function addTip() {
+
+  if (attemptsCounter === 1) {
+    attemptsCounter++
+    const tipSuggestion = document.createElement("span")
+    tipSuggestion.setAttribute("id", "tipSuggestion")
+    tipSuggestion.innerHTML = "die richtige Antwort zeigen? "
+    tipSuggestion.style.cursor = "pointer"
+
+    const tip = document.createElement("span")
+    tip.setAttribute("id", "tip")
+    tip.innerHTML = answers[randomNumber]
+    tip.style.visibility = "hidden"
+
+    const linebreakB = document.createElement('p')
+    linebreakB.innerHTML = " "
+
+    const container = document.getElementById("test-container")
+    container.appendChild(linebreakB)
+    container.appendChild(tipSuggestion)
+    container.appendChild(tip)
+
+    document.getElementById("tipSuggestion").addEventListener("click", event => {
+      if (tip.style.visibility === "visible") {
+        tip.style.visibility = "hidden"
+      } else tip.style.visibility = "visible"
+    })
+  }
+
+}
+
 function setTimer() {
   if (!timerActivated && !timerFunctionWasCalled) {
     timerFunctionWasCalled = true
@@ -103,7 +136,6 @@ function setTimer() {
     checkAnswer()
     checkTimerCheckbox()
   } else {
-    console.log("yay")
     let seconds = 3
     if (!timerFunctionWasCalled) {
       timerFunctionWasCalled = true
@@ -118,6 +150,7 @@ function setTimer() {
           setTimeout(() => {
             document.getElementById('test-container').innerHTML = ""
             timerFunctionWasCalled = false
+            attemptsCounter = 0
             answeredQuestionsCounter++
             getRandomQuestionNumber()
             manipulateHtml()
@@ -139,7 +172,9 @@ function checkAnswer() {
       let originalInput = event.target.value.trim()
       let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
       let eszetInput = umlautInput.replace("ss", "ß")
-      if (originalInput === answer || umlautInput === answer || eszetInput === answer) isCorrect = true
+      if (originalInput === answer || umlautInput === answer || eszetInput === answer) {
+        isCorrect = true
+      }
       if (isCorrect) {
         event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
         setTimer()
@@ -152,11 +187,16 @@ function checkAnswer() {
       let originalInput = event.target.value.trim()
       let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
       let eszetInput = umlautInput.replace("ss", "ß")
-      if (event.key === "Enter" && (originalInput === answer || umlautInput === answer || eszetInput === answer)) isCorrect = true
+      if (event.key === "Enter") {
+        attemptsCounter++
+        if (originalInput === answer || umlautInput === answer || eszetInput === answer) {
+          isCorrect = true
+        }
+      }
       if (isCorrect) {
         event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
         setTimer()
-      }
+      } else addTip()
     })
   })
 }
