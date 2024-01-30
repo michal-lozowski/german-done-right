@@ -9,7 +9,6 @@ wie heißen Sie? - как Вас зовут?
 wie machst du das? - как ты это делаешь?
 wie macht er das? - как он это делает?
 wie macht sie das? - как она это делает?
-wie macht es das? - как оно это делает?
 wie macht ihr das? - как вы, ребята, это делаете?
 wie machen sie das? - как они это делают?
 wie machen Sie das? - как Вы это делаете?
@@ -20,7 +19,6 @@ wie ist Ihr Name? - как ваше имя?
 
 wo ist er? - где он?
 wo ist sie? - где она?
-wo ist es? - где это?
 wo ist das? $ wo ist es? - где это?
 wo sind sie? - где они?
 wo sind Sie? - где Вы?
