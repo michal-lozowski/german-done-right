@@ -1,0 +1,164 @@
+wie geht es? - как дела?
+wie funktioniert das? - как это работает?
+wie heißt du? - как тебя зовут?
+wie heißt er? - как его зовут?
+wie heißt sie? - как её зовут?
+wie heißt ihr? - как вас, ребята, зовут?
+wie heißen sie? - как их зовут?
+wie heißen Sie? - как Вас зовут?
+wie machst du das? - как ты это делаешь?
+wie macht er das? - как он это делает?
+wie macht sie das? - как она это делает?
+wie macht es das? - как оно это делает?
+wie macht ihr das? - как вы, ребята, это делаете?
+wie machen sie das? - как они это делают?
+wie machen Sie das? - как Вы это делаете?
+wie ist dein Name? - как твоё имя?
+wie ist sein Name? - как его имя?
+wie ist ihr Name? - как её имя?
+wie ist Ihr Name? - как ваше имя?
+
+wo ist er? - где он?
+wo ist sie? - где она?
+wo ist es? - где это?
+wo ist das? $ wo ist es? - где это?
+wo sind sie? - где они?
+wo sind Sie? - где Вы?
+wo ist der Zug? - где поезд?
+wo ist der Bus? - где автобус?
+wo ist das Auto? - где машина?
+wo wohnst du? - где ты живешь?
+wo wohnt er? - где он живет?
+wo wohnt sie? - где она живет?
+wo wohnt ihr? - где вы, ребята, живете?
+wo wohnen sie? - где они живут?
+wo wohnen Sie? - где Вы живете?
+wohnst du hier in Berlin? - ты живешь здесь в Берлине?
+wohnt er hier in Berlin? - он живет здесь в Берлине?
+wohnt sie hier in Berlin? - она живет здесь в Берлине?
+wohnen wir hier in Berlin? - мы живем здесь в Берлине?
+wohnt ihr hier in Berlin? - вы, ребята, живете здесь в Берлине?
+wohnen sie hier in Berlin? - они живут здесь в Берлине?
+wohnen Sie hier in Berlin? - вы живете здесь в Берлине?
+
+woher kommst du? - откуда ты?
+woher kommt er? - откуда он?
+woher kommt sie? - откуда она?
+woher kommen sie? - откуда они?
+woher kommen Sie? - откуда Вы?
+woher kommt es? $ woher kommt das? - откуда это?
+kommst du? - ты идешь? / ты придешь?
+kommt er? - он идет? / он придет?
+kommt sie? - она идет? / она придет?
+kommt ihr? - вы, ребята, идете? / вы, ребята, придете?
+kommen sie? - они идут? / они придут? 
+kommen Sie? - Вы идете? / Вы придете?
+
+wohin gehst du? - куда ты идешь?
+wohin geht er? - куда он идет?
+wohin geht sie? - куда она идет?
+wohin gehen wir? - куда мы идем?
+wohin geht ihr? - куда вы, ребята, идете?
+wohin gehen sie? - куда они идут?
+wohin gehen Sie? - куда Вы идете?
+wohin fährst du? - куда ты едешь?
+wohin fährt er? - куда он едет?
+wohin fährt sie? - куда она едет?
+wohin fahren wir? - куда мы едем?
+wohin fahrt ihr? - куда вы, ребята, едете?
+wohin fahren sie? - куда они едут?
+wohin fahren Sie? - куда Вы едете?
+wohin fährt der Zug? - куда идет поезд?
+wohin fährt der Bus? - куда идет автобус?
+
+wann kommst du? - когда ты придешь? / когда ты приедешь?
+wann kommt er? - когда он придет? / когда он приедет?
+wann kommt sie? - когда она придет? / когда она приедет?
+wann kommt ihr? - когда вы, ребята, придете? / когда вы, ребята, приедете?
+wann kommen sie? - когда они придут? / когда они приедут?
+wann kommen Sie? - когда Вы придете? / когда Вы приедете?
+wann kommt der Bus? - когда придет автобус?
+wann kommt der Zug? - когда придет поезд?
+wann essen wir? - когда мы едим?
+wann machen wir eine Pause? - когда мы (с)делаем паузу?
+wann ist der Termin? - когда термин?
+wann machst du das? - когда ты это сделаешь?
+wann macht er das? - когда он это сделает?
+wann macht sie das? - когда она это сделает?
+wann macht ihr das? - когда вы, ребята, это сделаете?
+wann machen sie das? - когда они это сделают?
+wann machen Sie das? - когда Вы это сделаете?
+
+warum machst du das? - почему ты это делаешь?
+warum macht er das? - почему он это делает?
+warum macht sie das? - почему она это делает?
+warum machen wir das? - почему мы это делаем?
+warum macht ihr das? - почему вы, ребята, это делаете?
+warum machen sie das? - почему они это делают?
+warum machen Sie das? - почему Вы это делаете?
+warum machst du das so? - почему ты делаешь это так?
+warum macht er das so? - почему он делает это так?
+warum macht sie das so? - почему она делает это так?
+warum machen wir das so? - почему мы делаем это так?
+warum macht ihr das so? - почему вы, ребята, делаете это так?
+warum machen sie das so? - почему они это делают так?
+warum machen Sie das so? - почему Вы это делаете так?
+warum lernen wir das? - почему мы это учим?
+warum ist das so schwer? - почему это так сложно?
+warum kostet das so viel? - почему это так много стóит?
+
+was machst du? - что ты делаешь?
+was macht er? - что он делает?
+was macht sie? - что она делает?
+was machen wir? - что мы делаем?
+was macht ihr? - что вы, ребята, делаете?
+was machen sie? - что они делают?
+was machen Sie? - что Вы делаете?
+was sagst du? - что ты говоришь? / что ты скажешь?
+was sagt er? - что он говорит? / что он скажет?
+was sagt sie? - что она говорит? / что она скажет?
+was sagt ihr? - что вы, ребята, говорите? / что вы, ребята, скажете?
+was sagen sie? - что они говорят? / что они скажут?
+was sagen Sie? - что Вы говорите? / что Вы скажете?
+was kostet das? - че это стóит?
+was ist das? - что это?
+
+wie viel kostet das? $ wie viel kostet es? - сколько это стоит?
+wie viel Zeit habe ich? - сколько у меня времени?
+wie viel Zeit hast du? - сколько у тебя времени?
+wie viel Zeit hat er? - сколько у него времени?
+wie viel Zeit hat sie? - сколько у нее времени?
+wie viel Zeit haben wir? - сколько у нас времени?
+wie viel Zeit habt ihr? - сколько у вас, ребята, времени?
+wie viel Zeit haben sie? - сколько у них времени?
+wie viel Zeit haben Sie? - сколько у Вас времени?
+wie viel Geld hast du? - сколько у тебя денег?
+wie viel Geld hat er? - сколько у него денег?
+wie viel Geld hat sie? - сколько у нее денег?
+wie viel Geld haben wir? - сколько у нас денег?
+wie viel Geld habt ihr? - сколько у вас, ребята, денег?
+wie viel Geld haben sie? - сколько у них денег?
+wie viel Geld haben Sie? - сколько у Вас денег?
+habe ich jetzt viele Probleme? - у меня теперь много проблем?
+hast du jetzt viele Probleme? - у тебя теперь много проблем?
+hat er jetzt viele Probleme? - у него теперь много проблем?
+hat sie jetzt viele Probleme? - у нее теперь много проблем?
+haben wir jetzt viele Probleme? - у нас теперь много проблем?
+habt ihr jetzt viele Probleme? - у вас, ребята, теперь много проблем?
+haben sie jetzt viele Probleme? - у них теперь много проблем?
+haben Sie jetzt viele Probleme? - у Вас теперь много проблем?
+
+wie alt bist du? - сколько тебе лет?
+wie alt ist er? - сколько ему лет?
+wie alt ist sie? - сколько ей лет?
+wie alt seid ihr? - сколько вам, ребята, лет?
+wie alt sind sie? - сколько им лет?
+wie alt sind Sie? - сколько Вам лет?
+
+wie lange? - как долго?
+wie lange wohnst du schon in Deutschland? - как долго ты уже живешь в Германии?
+wie lange wohnt er schon in Deutschland? - как долго он уже живет в Германии?
+wie lange wohnt sie schon in Deutschland? - как долго она уже живет в Германии?
+wie lange wohnt ihr schon in Deutschland? - как долго вы, ребята, уже живете в Германии?
+wie lange wohnen sie schon in Deutschland? - как долго они уже живут в Германии?
+wie lange wohnen Sie schon in Deutschland? - как долго Вы уже живете в Германии?

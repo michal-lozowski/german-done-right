@@ -17,6 +17,7 @@ async function mainclown() {
 
 function sortQandA() {
   questions = vocabText.split("\n")
+  questions = questions.filter(question => question.length > 4)
   questions = questions.map(question => {
     let separatorIndex = question.search(/-/)
     let answer = question.slice(0, separatorIndex - 1)
@@ -129,13 +130,7 @@ function addTip() {
 function setTimer() {
   if (!timerActivated && !timerFunctionWasCalled) {
     timerFunctionWasCalled = true
-    document.getElementById('test-container').innerHTML = ""
-    timerFunctionWasCalled = false
-    answeredQuestionsCounter++
-    getRandomQuestionNumber()
-    manipulateHtml()
-    checkAnswer()
-    checkTimerCheckbox()
+    nextFlashcard()
   } else {
     let seconds = 3
     if (!timerFunctionWasCalled) {
@@ -149,14 +144,7 @@ function setTimer() {
         if (seconds === 0) {
           clearInterval(countdownInterval)
           setTimeout(() => {
-            document.getElementById('test-container').innerHTML = ""
-            timerFunctionWasCalled = false
-            attemptsCounter = 0
-            answeredQuestionsCounter++
-            getRandomQuestionNumber()
-            manipulateHtml()
-            checkAnswer()
-            checkTimerCheckbox()
+            nextFlashcard()
           }, 350)
         }
       }
@@ -207,6 +195,17 @@ function checkTimerCheckbox() {
     if (event.target.checked) timerActivated = true
     else timerActivated = false
   })
+}
+
+function nextFlashcard() {
+  document.getElementById('test-container').innerHTML = ""
+  timerFunctionWasCalled = false
+  attemptsCounter = 0
+  answeredQuestionsCounter++
+  getRandomQuestionNumber()
+  manipulateHtml()
+  checkAnswer()
+  checkTimerCheckbox()
 }
 
 async function starter() {

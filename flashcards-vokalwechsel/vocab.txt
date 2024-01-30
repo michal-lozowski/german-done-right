@@ -1,0 +1,88 @@
+ich fahre - я еду
+du fährst - ты едешь
+er fährt - он едет
+sie fährt - она едет
+wir fahren - мы едем
+ihr fahrt - вы, ребята, едете
+sie fahren - они едут
+Sie fahren - Вы едете
+ich laufe - я бегу
+du läufst - ты бежишь
+er läuft - он бежит
+sie läuft - она бежит
+wir laufen - мы бежим
+ihr lauft - вы, ребята, бежите
+sie laufen - они бегут
+Sie laufen - Вы бежите
+ich schlafe - я сплю
+du schläfst - ты спишь
+er schläft - он спит
+sie schläft - она спит
+wir schlafen - мы спим
+ihr schlaft - вы, ребята, спите
+sie schlafen - они спят
+Sie schlafen - Вы спите
+ich spreche - я говорю
+du sprichst - ты говоришь
+er spricht - он говорит
+sie spricht - она говорит
+wir sprechen - мы говорим
+ihr sprecht - вы, ребята, говорите
+sie sprechen - они говорят
+Sie sprechen - Вы говорите
+ich esse - я ем
+du isst - ты ешь
+er isst - он ест
+sie isst - она ест
+wir essen - мы едим
+ihr esst - вы, ребята, едите
+sie essen - они едят
+Sie essen - Вы едите
+ich helfe - я помогаю
+du hilfst - ты помогаешь
+er hilft - он помогает
+sie hilft - она помогает
+wir helfen - мы помогаем
+ihr helft - вы, ребята, помогаете
+sie helfen - они помогают
+Sie helfen - Вы помогаете
+ich gebe - я даю
+du gibst - ты даешь
+er gibt - он даёт
+sie gibt - она даёт
+wir geben - мы даём
+ihr gebt - вы, ребята, даёте
+sie geben - они дают
+Sie geben - Вы даёте
+ich nehme - я беру
+du nimmst - ты берёшь
+er nimmt - он берёт
+sie nimmt - она берёт
+wir nehmen - мы берём
+ihr nehmt - вы, ребята, берёте
+sie nehmen - они берут
+Sie nehmen - Вы берёте
+ich werde - я становлюсь/буду
+du wirst - ты становишься/будешь
+er wird - он становится/будет
+sie wird - она становится/будет
+wir werden - мы становимся/будем
+ihr werdet - вы, ребята, становитесь/будете
+sie werden - они становятся/будут
+Sie werden - Вы становитесь/будете
+ich lese - я читаю
+du liest - ты читаешь
+er liest - он читает
+sie liest - она читает
+wir lesen - мы читаем
+ihr lest - вы, ребята, читаете
+sie lesen - они читают
+Sie lesen - Вы читаете
+ich empfehle - я рекомендую
+du empfiehlst - ты рекомендуешь
+er empfiehlt - он рекомендует
+sie empfiehlt - она рекомендует
+wir empfehlen - мы рекомендуем
+ihr empfehlt - вы, ребята, рекомендуете
+sie empfehlen - они рекомендуют
+Sie empfehlen - Вы рекомендуете
