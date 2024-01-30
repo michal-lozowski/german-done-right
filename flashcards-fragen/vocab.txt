@@ -36,7 +36,6 @@ wo wohnen Sie? - где Вы живете?
 wohnst du hier in Berlin? - ты живешь здесь в Берлине?
 wohnt er hier in Berlin? - он живет здесь в Берлине?
 wohnt sie hier in Berlin? - она живет здесь в Берлине?
-wohnen wir hier in Berlin? - мы живем здесь в Берлине?
 wohnt ihr hier in Berlin? - вы, ребята, живете здесь в Берлине?
 wohnen sie hier in Berlin? - они живут здесь в Берлине?
 wohnen Sie hier in Berlin? - вы живете здесь в Берлине?
