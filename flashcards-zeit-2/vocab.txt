@@ -27,6 +27,7 @@ vor vielen Tagen - много дней назад
 vor vielen Wochen - много недель назад
 vor vielen Monaten - много месяцев назад
 vor vielen Jahren - много лет назад
+
 in einer Sekunde - через секунду
 in einer Minute - через минуту
 in einer Stunde - через час
@@ -52,6 +53,7 @@ in 10 Wochen - через десять недель
 in 10 Jahren - через десять лет
 in 10 Monaten - через десять месяцев
 in 10 Tagen - через десять дней
+
 nach einer Sekunde - после одной секунды
 nach einer Minute - после одной минуты
 nach einer Stunde - после одного часа
@@ -82,6 +84,7 @@ nach vielen Wochen - после многих недель, спустя мног
 nach vielen Monaten - после многих месяцев, спустя много месяцев
 nach vielen Jahren - после многих лет, спустя много лет
 nach langer Zeit - после долгого времени
+
 seit einer Woche - уже неделю как
 seit einem Jahr - уже год как
 seit einem Monat - уже месяц как
@@ -117,6 +120,7 @@ seit vielen Tagen - уже много дней
 seit vielen Wochen - уже много недель
 seit vielen Monaten - уже много месяцев
 seit vielen Jahren - уже много лет
+
 heute früh - сегодня утром
 heute Vormittag - сегодня до полудня
 heute Mittag - сегодня в полдень
@@ -132,6 +136,7 @@ morgen Vormittag - завтра до полудня
 morgen Mittag - завтра в полдень
 morgen Nachmittag - завтра после полудня
 morgen Abend - завтра вечером
+
 letzten Montag $ am letzten Montag - в прошлый понедельник
 diesen Montag $ an diesem Montag - в этот понедельник
 nächsten Montag $ am nächsten Montag - в следующий понедельник
@@ -153,6 +158,7 @@ nächsten Samstag $ am nächsten Samstag - в следующую субботу
 letzten Sonntag $ am letzten Sonntag - в прошлое воскресенье
 diesen Sonntag $ an diesem Sonntag - в это воскресенье
 нächsten Sonntag $ am nächsten Sonntag - в следующее воскресенье
+
 letztes Mal - в прошлый раз
 dieses Mal - в этот раз
 nächstes Mal - в следующий раз
@@ -162,12 +168,13 @@ nächstes Wochenende - в следующие выходные
 letzte Woche - на прошлой неделе
 diese Woche - на этой неделе
 nächste Woche - на следующей неделе
-letzten Monat - в прошлом месяце
-diesen Monat - в этом месяце
-nächsten Monat - в следующем месяце
-letztes Jahr - в прошлом году
-dieses Jahr - в этом году
-nächstes Jahr - в следующем году
+letzten Monat $ im letzten Monat - в прошлом месяце
+diesen Monat $ in diesem Monat - в этом месяце
+nächsten Monat $ im nächsten Monat - в следующем месяце
+letztes Jahr $ im letzten Jahr - в прошлом году
+dieses Jahr $ in diesem Jahr - в этом году
+nächstes Jahr $ im nächsten Jahr - в следующем году
+
 am Morgen - утром
 am Vormittag - до полудня
 am Mittag - в полдень
@@ -197,6 +204,7 @@ im Winter - зимой
 im Frühling - весной
 im Sommer - летом
 im Herbst - осенью
+
 von 9 bis 14 Uhr - с 9 до 14 часов
 von 8 bis 11:30 Uhr - с 8 до 11:30 часов
 von 12:30 bis 17 Uhr - с 12:30 до 17 часов
