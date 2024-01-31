@@ -1,3 +1,4 @@
+fahren - ехать
 ich fahre - я еду
 du fährst - ты едешь
 er fährt - он едет
@@ -6,6 +7,8 @@ wir fahren - мы едем
 ihr fahrt - вы, ребята, едете
 sie fahren - они едут
 Sie fahren - Вы едете
+
+laufen - бежать
 ich laufe - я бегу
 du läufst - ты бежишь
 er läuft - он бежит
@@ -14,6 +17,8 @@ wir laufen - мы бежим
 ihr lauft - вы, ребята, бежите
 sie laufen - они бегут
 Sie laufen - Вы бежите
+
+schlafen - спать
 ich schlafe - я сплю
 du schläfst - ты спишь
 er schläft - он спит
@@ -22,14 +27,18 @@ wir schlafen - мы спим
 ihr schlaft - вы, ребята, спите
 sie schlafen - они спят
 Sie schlafen - Вы спите
-ich spreche - я говорю
-du sprichst - ты говоришь
-er spricht - он говорит
-sie spricht - она говорит
-wir sprechen - мы говорим
-ihr sprecht - вы, ребята, говорите
-sie sprechen - они говорят
-Sie sprechen - Вы говорите
+
+sprechen - разговаривать, говорить
+ich spreche - я разговариваю
+du sprichst - ты разговариваешь
+er spricht - он разговаривает
+sie spricht - она разговаривает
+wir sprechen - мы разговариваем
+ihr sprecht - вы, ребята, разговариваете
+sie sprechen - они разговаривают
+Sie sprechen - Вы разговариваете
+
+essen - есть, кушать
 ich esse - я ем
 du isst - ты ешь
 er isst - он ест
@@ -38,6 +47,8 @@ wir essen - мы едим
 ihr esst - вы, ребята, едите
 sie essen - они едят
 Sie essen - Вы едите
+
+helfen - помогать
 ich helfe - я помогаю
 du hilfst - ты помогаешь
 er hilft - он помогает
@@ -46,6 +57,8 @@ wir helfen - мы помогаем
 ihr helft - вы, ребята, помогаете
 sie helfen - они помогают
 Sie helfen - Вы помогаете
+
+geben - давать
 ich gebe - я даю
 du gibst - ты даешь
 er gibt - он даёт
@@ -54,6 +67,8 @@ wir geben - мы даём
 ihr gebt - вы, ребята, даёте
 sie geben - они дают
 Sie geben - Вы даёте
+
+nehmen - брать
 ich nehme - я беру
 du nimmst - ты берёшь
 er nimmt - он берёт
@@ -63,6 +78,8 @@ ihr nehmt - вы, ребята, берёте
 sie nehmen - они берут
 Sie nehmen - Вы берёте
 ich werde - я становлюсь/буду
+
+werden - становиться
 du wirst - ты становишься/будешь
 er wird - он становится/будет
 sie wird - она становится/будет
@@ -70,6 +87,8 @@ wir werden - мы становимся/будем
 ihr werdet - вы, ребята, становитесь/будете
 sie werden - они становятся/будут
 Sie werden - Вы становитесь/будете
+
+lesen - читать
 ich lese - я читаю
 du liest - ты читаешь
 er liest - он читает
@@ -78,6 +97,8 @@ wir lesen - мы читаем
 ihr lest - вы, ребята, читаете
 sie lesen - они читают
 Sie lesen - Вы читаете
+
+empfehlen - рекомендовать
 ich empfehle - я рекомендую
 du empfiehlst - ты рекомендуешь
 er empfiehlt - он рекомендует
