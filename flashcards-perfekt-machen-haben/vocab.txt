@@ -69,7 +69,7 @@ hat er nicht genug Zeit gehabt? - у него было недостаточно 
 hat sie nicht genug Zeit gehabt? - у нее было недостаточно времени?
 habt ihr nicht genug Zeit gehabt? - у вас, ребята, было недостаточно времени?
 haben sie nicht genug Zeit gehabt? - у них было недостаточно времени?
-haben Sie nicht genug Zeit gehabt? - у вас было недостаточно времени?
+haben Sie nicht genug Zeit gehabt? - у Вас было недостаточно времени?
 
 ich habe viele Probleme gehabt - у меня было много проблем
 er hat viele Probleme gehabt - у него было много проблем
@@ -86,4 +86,4 @@ hat er nicht genug Geld gehabt? - у него было недостаточно 
 hat sie nicht genug Geld gehabt? - у нее было недостаточно денег?
 habt ihr nicht genug Geld gehabt? - у вас, ребята, было недостаточно денег?
 haben sie nicht genug Geld gehabt? - у них было недостаточно денег?
-haben Sie nicht genug Geld gehabt? - у вас было недостаточно денег?
+haben Sie nicht genug Geld gehabt? - у Вас было недостаточно денег?
