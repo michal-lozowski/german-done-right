@@ -11,8 +11,8 @@ er hat ja gesagt - он сказал да
 sie hat ja gesagt - она сказала да
 sie haben ja gesagt - они сказали да
 
-hast du es gelesen? - ты это прочитал?
-hat er es gelesen? - он это прочитал?
-hat sie es gelesen? - она это прочитала?
-habt ihr es gelesen? - вы, ребята, это прочитали?
-haben Sie es gelesen? - вы это прочитали?
+hast du es gelesen? $ hast du das gelesen? - ты это прочитал?
+hat er es gelesen? $ hat er das gelesen? - он это прочитал?
+hat sie es gelesen? $ hat sie das gelesen? - она это прочитала?
+habt ihr es gelesen? $ habt ihr das gelesen? - вы, ребята, это прочитали?
+haben Sie es gelesen? $ haben Sie das gelesen? - вы это прочитали?
