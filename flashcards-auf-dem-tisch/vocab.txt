@@ -1,6 +1,6 @@
 auf dem Tisch - на столе
 auf den Tisch - на стол
-von dem Tisch - со стола, от стола
+von dem Tisch $ vom Tisch - со стола, от стола
 mit dem Tisch - со столом
 unter dem Tisch - под столом
 vor dem Tisch - перед столом
@@ -13,7 +13,7 @@ durch das Haus - через дом, сквозь дом
 neben dem Haus - рядом с домом
 hinter dem Haus - за домом
 vor dem Haus - перед домом
-zu dem Haus - к дому
+zu dem Haus $ zum Haus - к дому
 
 in der Waschmaschine - в стиральной машине
 in die Waschmaschine - в стиральную машину
