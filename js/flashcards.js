@@ -177,16 +177,15 @@ function checkAnswer() {
       let umlautInput = originalInput.replace("ae", "ä").replace("oe", "ö").replace("ue", "ü")
       let eszetInput = umlautInput.replace("ss", "ß")
       if (event.key === "Enter") {
-        attemptsCounter++
         if (originalInput === answer || umlautInput === answer || eszetInput === answer) {
           isCorrect = true
-        }
+        } else attemptsCounter++
       }
-      if (isCorrect) {
-        event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
-        setTimer()
-      } else addTip()
     })
+    if (isCorrect) {
+      event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
+      setTimer()
+    } else addTip()
   })
 }
 

@@ -1,0 +1,62 @@
+für mich - для меня
+für dich - для тебя
+für ihn - для него
+für sie - для неё
+für uns - для нас
+für euch - для вас, ребята
+für sie - для них
+für Sie - для Вас
+
+ohne mich - без меня
+ohne dich - без тебя
+ohne ihn - без него
+ohne sie - без неё
+ohne uns - без нас
+ohne euch - без вас, ребята
+ohne sie - без них
+ohne Sie - без Вас
+
+gegen mich - против меня
+gegen dich - против тебя
+gegen ihn - против него
+gegen sie - против неё
+gegen uns - против нас
+gegen euch - против вас, ребята
+gegen sie - против них
+gegen Sie - против Вас
+
+mit mir - со мной
+mit dir - с тобой
+mit ihm - с ним
+mit ihr - с ней
+mit uns - с нами
+mit euch - с вами, ребята
+mit ihnen - с ними
+mit Ihnen - с Вами
+
+zu mir - ко мне
+zu dir - к тебе
+zu ihm - к нему
+zu ihr - к ней
+zu uns - к нам
+zu euch - к вам, ребята
+zu ihnen - к ним
+zu Ihnen - к Вам
+
+von mir - от меня
+von dir - от тебя
+von ihm - от него
+von ihr - от неё
+von uns - от нас
+von euch - от вас, ребята
+von ihnen - от них
+von Ihnen - от Вас
+
+bei mir - у меня
+bei dir - у тебя
+bei ihm - у него
+bei ihr - у неё
+bei uns - у нас
+bei euch - у вас, ребята
+bei ihnen - у них
+bei Ihnen - у Вас

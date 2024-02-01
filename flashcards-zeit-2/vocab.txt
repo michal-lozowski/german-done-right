@@ -121,6 +121,27 @@ seit vielen Wochen - уже много недель
 seit vielen Monaten - уже много месяцев
 seit vielen Jahren - уже много лет
 
+ab April - с апреля (о будущем)
+ab Mai - с мая (о будущем)
+ab Juni - с июня (о будущем)
+ab Juli - с июля (о будущем)
+ab August - с августа (о будущем)
+ab September - с сентября (о будущем)
+ab Oktober - с октября (о будущем)
+ab November - с ноября (о будущем)
+ab Dezember - с декабря (о будущем)
+ab 2034 - с 2034
+ab 2035 - с 2035
+ab 2036 - с 2036
+ab 2042 - с 2042
+ab 2077 - с 2077
+ab morgen - с завтра
+ab nächster Woche - со следующей недели
+ab nächstem Monat - со следующего месяца
+ab nächstem Jahr - со следующего года
+ab nächstem Montag - со следующего понедельника
+ab nächstem Mittwoch - со следующей среды
+
 heute früh - сегодня утром
 heute Vormittag - сегодня до полудня
 heute Mittag - сегодня в полдень
@@ -215,3 +236,24 @@ von 1 bis 12 Prozent - от 1 до 12 процентов
 von 22 bis 35 Prozent - от 22 до 35 процентов
 von September bis Dezember - с сентября по декабрь
 von Juni bis August - с июня по август
+
+erstes Mal $ das erste Mal $ zum ersten Mal - в первый раз
+letztes Mal $ das letzte Mal $ zum letzten Mal - в прошлый раз
+dieses Mal - в этот раз
+nächstes Mal $ das nächste Mal $ zum nächsten Mal - в следующий раз
+
+jedes Mal - каждый раз
+jede Sekunde - каждую секунду
+jede Minute - каждую минуту
+jede Stunde - каждый час
+jeden Tag - каждый день
+jede Woche - каждую неделю
+jeden Monat - каждый месяц
+jedes Jahr - каждый год
+
+die ganze Stunde - целый час, весь час
+den ganzen Tag - целый день, весь день
+die ganze Woche - целую неделю, всю неделю
+den ganzen Monat - целый месяц, весь месяц
+das ganze Jahr - целый год, весь год
+die ganze Zeit - всё время

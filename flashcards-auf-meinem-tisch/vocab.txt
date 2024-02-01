@@ -1,0 +1,93 @@
+auf meinem Tisch - на моем столе
+auf deinem Tisch - на твоем столе
+auf seinem Tisch - на его столе
+auf ihrem Tisch - на её столе
+auf Ihrem Tisch - на Вашем столе
+
+von meinem Tisch - с моего стола
+von deinem Tisch - с твоего стола
+von seinem Tisch - с его стола
+von ihrem Tisch - с её стола
+von Ihrem Tisch - с Вашего стола
+
+mit meinem Tisch - с моим столом
+mit deinem Tisch - с твоим столом
+mit seinem Tisch - с его столом
+mit ihrem Tisch - с её столом
+mit Ihrem Tisch - с Вашим столом
+
+unter meinem Tisch - под моим столом
+unter deinem Tisch - под твоим столом
+unter seinem Tisch - под его столом
+unter ihrem Tisch - под её столом
+unter Ihrem Tisch - под Вашим столом
+
+vor meinem Tisch - перед моим столом
+vor deinem Tisch - перед твоим столом
+vor seinem Tisch - перед его столом
+vor ihrem Tisch - перед её столом
+vor Ihrem Tisch - перед Вашим столом
+
+in meiner Wohnung - в моей квартире
+in deiner Wohnung - в твоей квартире
+in seiner Wohnung - в его квартире
+in ihrer Wohnung - в её квартире
+in unserer Wohnung - в нашей квартире
+in eurer Wohnung - в ваше, ребята, квартире
+in ihrer Wohnung - в их квартире
+in Ihrer Wohnung - в Вашей квартире
+
+in meine Wohnung - в мою квартиру
+in deine Wohnung - в твою квартиру
+in seine Wohnung - в его квартиру
+in ihre Wohnung - в её квартиру
+in unsere Wohnung - в нашу квартиру
+in eure Wohnung - в вашу, ребята, квартиру
+in ihre Wohnung - в их квартиру
+in Ihre Wohnung - в Вашу квартиру
+
+für meine Wohnung - для моей квартиры
+für deine Wohnung - для твоей квартиры
+für seine Wohnung - для его квартиры
+für ihre Wohnung - для её квартиры
+für unsere Wohnung - для нашей квартиры
+für eure Wohnung - для вашей, ребята, квартиры
+für ihre Wohnung - для их квартиры
+für Ihre Wohnung - для Вашей квартиры
+
+mit meiner Wohnung - с моей квартирой
+mit deiner Wohnung - с твоей квартирой
+mit seiner Wohnung - с его квартирой
+mit ihrer Wohnung - с её квартирой
+mit unserer Wohnung - с нашей квартирой
+mit eurer Wohnung - с вашей, ребята, квартирой
+mit ihrer Wohnung - с их квартирой
+mit Ihrer Wohnung - с Вашей квартирой
+
+in meiner Tasche - в моей сумке
+in deiner Tasche - в твоей сумке
+in seiner Tasche - в его сумке
+in ihrer Tasche - в её сумке
+in unserer Tasche - в нашей сумке
+in eurer Tasche - в вашей, ребята, сумке
+in ihrer Tasche - в их сумке
+in Ihrer Tasche - в Вашей сумке
+
+in meine Tasche - в мою сумку
+in deine Tasche - в твою сумку
+in seine Tasche - в его сумку
+in ihre Tasche - в её сумку
+in unsere Tasche - в нашу сумку
+in eure Tasche - в вашу, ребята, сумку
+in ihre Tasche - в их сумку
+in Ihre Tasche - в Вашу сумку
+
+mit meiner Tasche - с моей сумкой
+mit deiner Tasche - с твоей сумкой
+mit seiner Tasche - с его сумкой
+mit ihrer Tasche - с её сумкой
+mit unserer Tasche - с нашей сумкой
+mit eurer Tasche - с вашей, ребята, сумкой
+mit ihrer Tasche - с их сумкой
+mit Ihrer Tasche - с Вашей сумкой
+

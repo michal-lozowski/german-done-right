@@ -13,6 +13,7 @@ morgen Vormittag - завтра до полудня
 morgen Mittag - завтра в полдень
 morgen Nachmittag - завтра после полудня
 morgen Abend - завтра вечером
+
 am Morgen - утром
 am Vormittag - до полудня
 am Mittag - в полдень
@@ -26,6 +27,7 @@ am Freitag - в пятницу
 am Samstag - в субботу
 am Sonntag - в воскресенье
 am Wochenende - в выходные
+
 im Januar - в январе
 im Februar - в феврале
 im März - в марте
@@ -42,6 +44,7 @@ im Winter - зимой
 im Frühling - весной
 im Sommer - летом
 im Herbst - осенью
+
 von 9 bis 14 Uhr - с 9 до 14 часов
 von 8 bis 11:30 Uhr - с 8 до 11:30 часов
 von 12:30 bis 17 Uhr - с 12:30 до 17 часов
