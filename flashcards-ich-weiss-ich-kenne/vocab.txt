@@ -1,7 +1,7 @@
 ich kenne ihn - я его знаю
 ich kenne sie - я её знаю
-ich glaube, du kennst ihn - я думаю, ты его знаешь
-ich glaube, du kennst sie - я думаю, ты её знаешь
+ich glaube, du kennst ihn $ ich denke, du kennst ihn - я думаю, ты его знаешь
+ich glaube, du kennst sie $ ich denke, du kennst sie - я думаю, ты её знаешь
 
 kennst du dieses Buch? - ты знаешь эту книгу?
 kennst du diese Straße? - ты знаешь эту улицу?
@@ -13,8 +13,8 @@ weißt du etwas über diese Marke? - ты знаешь что-то об этой
 wissen Sie etwas über diese Firma? - Вы знаете что-то об этой фирме?
 wissen Sie etwas über diese Marke? - Вы знаете что-то об этом бренде?
 
-ich glaube, er weiß mehr über die Situation - я думаю, он знает больше о ситуации
-ich glaube, sie weiß mehr über die Situation - я думаю, она знает больше о ситуации
+ich glaube, er weiß mehr über die Situation $ ich denke, er weiß mehr über die Situation - я думаю, он знает больше о ситуации
+ich glaube, sie weiß mehr über die Situation $ ich denke, sie weiß mehr über die Situation - я думаю, она знает больше о ситуации
 
 weißt du, wo das ist? $ weißt du, wo es ist? - ты знаешь, где это?
 weißt du, warum er heute nicht gekommen ist? - ты знаешь, почему он сегодня не пришел?
