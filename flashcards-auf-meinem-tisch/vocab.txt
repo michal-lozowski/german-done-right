@@ -4,6 +4,12 @@ auf seinem Tisch - на его столе
 auf ihrem Tisch - на её столе
 auf Ihrem Tisch - на Вашем столе
 
+auf meinen Tisch - на мой стол
+auf deinen Tisch - на твой стол
+auf seinen Tisch - на его стол
+auf ihren Tisch - на её стол
+auf Ihren Tisch - на Ваш стол
+
 von meinem Tisch - с моего стола
 von deinem Tisch - с твоего стола
 von seinem Tisch - с его стола
@@ -91,3 +97,12 @@ mit eurer Tasche - с вашей, ребята, сумкой
 mit ihrer Tasche - с их сумкой
 mit Ihrer Tasche - с Вашей сумкой
 
+in meinem Zimmer - в моей комнате
+in deinem Zimmer - в твоей комнате
+in seinem Zimmer - в его комнате
+in ihrem Zimmer - в её комнате
+
+in mein Zimmer - в мою комнату
+in dein Zimmer - в твою комнату
+in sein Zimmer - в его комнату
+in ihr Zimmer - в её комнату

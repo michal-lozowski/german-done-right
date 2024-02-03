@@ -25,9 +25,10 @@ function sortQandA() {
     return (question.slice(separatorIndex + 2))
   })
 
-  answers = answers.map(answer => [answer.trim()])
+  answers = answers.map(answer => [answer])
   answers = answers.map(answer => {
     let bufferArray = answer[0].split(" $ ")
+    bufferArray = bufferArray.map(element => element.trim())
     return bufferArray
   })
 }
@@ -189,6 +190,14 @@ function checkAnswer() {
   })
 }
 
+function scaleInputField() {
+  document.getElementById(randomNumber).addEventListener("input", event => {
+    if (event.target.value.length > 20 && event.target.value.length < 60) event.target.style.width = event.target.value.length * 8 + "px"
+    if (event.target.value.length < 20) event.target.style.width = ""
+    if (event.target.value.length > 60) event.target.style.width = 60 * 9 + px
+  })
+}
+
 function checkTimerCheckbox() {
   document.getElementById("timerCheckbox").addEventListener("change", event => {
     if (event.target.checked) timerActivated = true
@@ -203,6 +212,7 @@ function nextFlashcard() {
   answeredQuestionsCounter++
   getRandomQuestionNumber()
   manipulateHtml()
+  scaleInputField()
   checkAnswer()
   checkTimerCheckbox()
 }
@@ -212,6 +222,7 @@ async function starter() {
   sortQandA()
   getRandomQuestionNumber()
   manipulateHtml()
+  scaleInputField()
   checkAnswer()
   checkTimerCheckbox()
 }
