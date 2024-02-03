@@ -6,7 +6,7 @@ zum Beispiel - например
 
 etwas - что-то
 etwas neues $ etwas Neues - что-то новое
-etwas interessantes $ etwas Interessantes
+etwas interessantes $ etwas Interessantes - что-то интересное
 etwas gutes $ etwas Gutes - что-то хорошее
 etwas schönes $ etwas Schönes - что-то красивое
 etwas kleines $ etwas Kleines - что-то маленькое
@@ -107,7 +107,7 @@ fast vergessen - почти забыл(а)
 fast fertig - почти готово
 fast alle - почти все
 fast alles - почти всё
-fast perfekt - почти идеально
+fast perfekt $ fast ideal - почти идеально
 fast jeden Tag - почти каждый день
 fast immer - почти всегда
 fast leer - почти пустой
@@ -129,6 +129,9 @@ noch etwas - ещё что-то
 noch eine Frage - ещё один вопрос
 noch ein Problem - ещё одна проблема
 noch ein Buch - ещё одна книга
+
+schon fertig - уже готово
+schon da $ schon hier - уже здесь
 
 wieder - снова
 wieder zu spät - снова опоздал(а) / снова слишком поздно
