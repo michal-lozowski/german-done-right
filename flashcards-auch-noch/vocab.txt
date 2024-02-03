@@ -76,12 +76,12 @@ besser spät als nie - лучше поздно чем никогда
 Spanien ist natürlich größer als Portugal - Испания конечно больше Португалии
 Portugal ist natürlich kleiner als Spanien - Португалия конечно меньше Испании
 
-blau wie der Himmel - синий как небо
-blau wie der Ozean - синий как океан
-blau wie das Meer - синий как море
-rot wie Blut - красный как кровь
-weiß wie Schnee - белый как снег
-teuer wie ein Porsche - дорогой как Porsche
+blau wie der Himmel $ blau wie Himmel - синий как небо
+blau wie der Ozean $ blau wie Ozean - синий как океан
+blau wie das Meer $ blau wie Meer - синий как море
+rot wie das Blut $ rot wie Blut - красный как кровь
+weiß wie der Schnee $ weiß wie Schnee - белый как снег
+teuer wie ein Porsche $ teuer wie Porsche - дорогой как Porsche
 schnell wie ein Flugzeug $ schnell wie Flugzeug - быстрый как самолет
 
 so - так
