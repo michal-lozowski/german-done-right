@@ -16,10 +16,14 @@ dürft ihr das machen? - вам, ребята, можно это делать? /
 dürfen sie das machen? - им можно это делать? / им разрешено это делать?
 dürfen Sie das machen? - Вам можно это делать? / Вам разрешено это делать?
 
-ich darf das nicht machen $ ich darf es nicht machen
-du darfst das nicht machen $ du darfst es nicht machen
-er darf das nicht machen $ er darf es nicht machen
-sie darf das nicht machen $ sie darf es nicht machen
+ich darf das nicht machen $ ich darf es nicht machen - мне нельзя этого делать
+du darfst das nicht machen $ du darfst es nicht machen - тебе нельзя этого делать
+er darf das nicht machen $ er darf es nicht machen - ему нельзя этого делать
+sie darf das nicht machen $ sie darf es nicht machen - ей нельзя этого делать
+wir dürfen das nicht machen $ wir dürfen es nicht machen - нам нельзя этого делать
+ihr dürft das nicht machen $ ihr dürft es nicht machen - вам, ребята, нельзя этого делать
+sie dürfen das nicht machen $ sie dürfen es nicht machen - им нельзя этого делать
+Sie dürfen das nicht machen $ Sie dürfen es nicht machen - Вам нельзя этого делать
 
 ich kann leider nicht kommen - я к сожалению не смогу прийти
 er kann leider nicht kommen - он к сожалению не сможет прийти
@@ -37,13 +41,13 @@ wann können Sie kommen? - когда Вы можете прийти?
 
 soll ich die Tür schließen? $ soll ich die Tür zumachen?
 soll ich später noch einmal anrufen? $ soll ich später nochmal anrufen?
-wohin soll ich jetzt gehen?
-wohin sollen wir jetzt gehen?
-zu wem soll ich gehen?
-zu wem sollen wir jetzt gehen?
-was soll ich jetzt machen?
-was sollen wir jetzt machen?
-was soll er jetzt machen?
-was soll sie jetzt machen?
-was sollen sie jetzt machen?
+wohin soll ich jetzt gehen? - куда мне теперь идти?
+wohin sollen wir jetzt gehen? - куда нам теперь идти?
+zu wem soll ich gehen? - к кому мне идти?
+zu wem sollen wir jetzt gehen? - к кому нам теперь идти?
+was soll ich jetzt machen? - что мне теперь делать?
+was sollen wir jetzt machen? - что нам теперь делать?
+was soll er jetzt machen? - что ему теперь делать?
+was soll sie jetzt machen? - что ей теперь делать?
+was sollen sie jetzt machen? - что им теперь делать?
 
