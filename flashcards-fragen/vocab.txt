@@ -1,25 +1,25 @@
 wie geht es? - как дела?
-wie funktioniert das? - как это работает?
+wie funktioniert [das | es]? - как это работает?
 wie heißt du? - как тебя зовут?
 wie heißt er? - как его зовут?
 wie heißt sie? - как её зовут?
 wie heißt ihr? - как вас, ребята, зовут?
 wie heißen sie? - как их зовут?
 wie heißen Sie? - как Вас зовут?
-wie machst du das? - как ты это делаешь?
-wie macht er das? - как он это делает?
-wie macht sie das? - как она это делает?
-wie macht ihr das? - как вы, ребята, это делаете?
-wie machen sie das? - как они это делают?
-wie machen Sie das? - как Вы это делаете?
+wie machst du [das | es]? - как ты это делаешь?
+wie macht er [das | es]? - как он это делает?
+wie macht sie [das | es]? - как она это делает?
+wie macht ihr [das | es]? - как вы, ребята, это делаете?
+wie machen sie [das | es]? - как они это делают?
+wie machen Sie [das | es]? - как Вы это делаете?
 wie ist dein Name? - как твоё имя?
 wie ist sein Name? - как его имя?
 wie ist ihr Name? - как её имя?
-wie ist Ihr Name? - как ваше имя?
+wie ist Ihr Name? - как Ваше имя?
 
 wo ist er? - где он?
 wo ist sie? - где она?
-wo ist das? $ wo ist es? - где это?
+wo ist [das | es]? - где это?
 wo sind sie? - где они?
 wo sind Sie? - где Вы?
 wo ist der Zug? - где поезд?
@@ -43,7 +43,7 @@ woher kommt er? - откуда он?
 woher kommt sie? - откуда она?
 woher kommen sie? - откуда они?
 woher kommen Sie? - откуда Вы?
-woher kommt es? $ woher kommt das? - откуда это?
+woher kommt [das | es]? - откуда это?
 kommst du? - ты идешь? / ты придешь?
 kommt er? - он идет? / он придет?
 kommt sie? - она идет? / она придет?
@@ -86,23 +86,23 @@ wann macht ihr das? - когда вы, ребята, это сделаете?
 wann machen sie das? - когда они это сделают?
 wann machen Sie das? - когда Вы это сделаете?
 
-warum machst du das? - почему ты это делаешь?
-warum macht er das? - почему он это делает?
-warum macht sie das? - почему она это делает?
-warum machen wir das? - почему мы это делаем?
-warum macht ihr das? - почему вы, ребята, это делаете?
-warum machen sie das? - почему они это делают?
-warum machen Sie das? - почему Вы это делаете?
-warum machst du das so? - почему ты делаешь это так?
-warum macht er das so? - почему он делает это так?
-warum macht sie das so? - почему она делает это так?
-warum machen wir das so? - почему мы делаем это так?
-warum macht ihr das so? - почему вы, ребята, делаете это так?
-warum machen sie das so? - почему они это делают так?
-warum machen Sie das so? - почему Вы это делаете так?
-warum lernen wir das? - почему мы это учим?
-warum ist das so schwer? - почему это так сложно?
-warum kostet das so viel? - почему это так много стóит?
+warum machst du [das | es]? - почему ты это делаешь?
+warum macht er [das | es]? - почему он это делает?
+warum macht sie [das | es]? - почему она это делает?
+warum machen wir [das | es]? - почему мы это делаем?
+warum macht ihr [das | es]? - почему вы, ребята, это делаете?
+warum machen sie [das | es]? - почему они это делают?
+warum machen Sie [das | es]? - почему Вы это делаете?
+warum machst du [das | es] so? - почему ты делаешь это так?
+warum macht er [das | es] so? - почему он делает это так?
+warum macht sie [das | es] so? - почему она делает это так?
+warum machen wir [das | es] so? - почему мы делаем это так?
+warum macht ihr [das | es] so? - почему вы, ребята, делаете это так?
+warum machen sie [das | es] so? - почему они это делают так?
+warum machen Sie [das | es] so? - почему Вы это делаете так?
+warum lernen wir [das | es]? - почему мы это учим?
+warum ist [das | es] so schwer? - почему это так сложно?
+warum kostet [das | es] so viel? - почему это так много стóит?
 
 was machst du? - что ты делаешь?
 was macht er? - что он делает?
@@ -120,7 +120,7 @@ was sagen Sie? - что Вы говорите? / что Вы скажете?
 was kostet das? - че это стóит?
 was ist das? - что это?
 
-wie viel kostet das? $ wie viel kostet es? - сколько это стоит?
+wie viel kostet [das | es]? - сколько это стоит?
 wie viel Zeit habe ich? - сколько у меня времени?
 wie viel Zeit hast du? - сколько у тебя времени?
 wie viel Zeit hat er? - сколько у него времени?

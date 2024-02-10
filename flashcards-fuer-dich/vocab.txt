@@ -60,3 +60,51 @@ bei uns - у нас
 bei euch - у вас, ребята
 bei ihnen - у них
 bei Ihnen - у Вас
+
+mir - мне
+dir - тебе
+ihm - ему
+ihr - ей
+uns - нам
+euch - вам, ребята
+ihnen - им
+Ihnen - Вам
+
+ich sehe dich - я вижу тебя
+ich sehe ihn - я вижу его
+ich sehe sie - я вижу её
+ich sehe [es | das] - я вижу это
+ich sehe euch - я вижу вас, ребята
+ich sehe sie - я вижу их
+ich sehe Sie - я вижу Вас 
+
+siehst du mich? - ты меня видишь?
+seht ihr mich? - вы, ребята, видите меня? 
+sehen Sie mich? - Вы видите меня?
+
+ich höre dich - я слышу тебя
+ich höre ihn - я слышу его
+ich höre sie - я слышу её
+ich höre [es | das] - я слышу это
+ich höre euch - я слышу вас, ребята
+ich höre sie - я слышу их
+ich höre Sie - я слышу Вас
+
+hörst du mich? - ты меня слышишь?
+hört ihr mich? - вы, ребята, слышите меня?
+hören Sie mich? - Вы слышите меня?
+
+ich erkläre es dir später - я это тебе позже объясню
+ich sage es ihm später - я скажу ему это позже
+ich sage es ihr später - я скажу ей это позже
+ich erkläre es euch später - я это вам, ребята, позже объясню
+ich sage es ihnen später - я скажу им это позже
+ich erkläre es Ihnen später - я это Вам позже объясню
+
+ich darf es dir nicht sagen - мне не разрешено тебе это говорить
+ich darf es ihm nicht sagen - мне не разрешено ему это говорить
+ich darf es ihr nicht sagen - мне не разрешено ей это говорить
+ich darf es euch nicht sagen - мне не разрешено вам, ребята, это говорить
+ich darf es ihnen nicht sagen - мне не разрешено им это говорить
+ich darf es Ihnen nicht sagen - мне не разрешено Вам это говорить
+

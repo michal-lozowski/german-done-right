@@ -15,6 +15,103 @@ async function mainclown() {
   vocabText = await responseVocab.text()
 }
 
+function trueFactorialPermutations(arr) {
+  let permArr = []
+  for (let i = 0; i < arr.length; i++) {
+      permArr.push([arr[i]])
+  }
+
+  for (let i = 1; i < arr.length; i++) {
+      let auxArr = []
+      for (let j = 0; j < arr.length; j++) {
+          permArr.forEach(subArr => {
+              if (!subArr.some(element => element === arr[j])) {
+                  auxArr.push(subArr.concat(arr[j]))
+              }
+          })
+      }
+      permArr = auxArr
+  }
+  return permArr
+}
+
+function answerPermutations(toBePermutated) {
+
+  let permutations = [toBePermutated]
+
+  if (!toBePermutated.includes("(") && !toBePermutated.includes("[")) return permutations
+
+  if (toBePermutated.includes("(")) {
+      let insertionsAnd = toBePermutated.match(/\([^|]+?\&[^|]+?\)/g)
+      insertionsAnd = insertionsAnd.map(insertionsGroup => insertionsGroup.slice(1, -1))
+      insertionsAnd = insertionsAnd.map(insertionsGroup => insertionsGroup = insertionsGroup.split(" & "))
+
+      trueFactorialPermutationsArr = []
+      insertionsAnd.forEach(subArr => trueFactorialPermutationsArr.push(trueFactorialPermutations(subArr)))
+
+
+      trueFactorialPermutationsArr = trueFactorialPermutationsArr.map(subArr => subArr = subArr.map(subSubArr => {
+          let auxString = ""
+          subSubArr.forEach(element => auxString = auxString + element + " ")
+          return auxString.trim()
+      })
+      )
+
+      insertionsAnd = trueFactorialPermutationsArr
+
+      let counter = 0
+      permutations = permutations.map(element => element = " " + element)
+      while (permutations[permutations.length - 1].includes("(")) {
+          let newPermutationsArray = []
+
+          insertionsAnd[counter].forEach(insertion => {
+              permutations.forEach(perm => {
+                  let insertionPoint = perm.indexOf("(")
+                  newPermutationsArray.push(
+                      perm.slice(0, insertionPoint - 1)
+                      + " "
+                      + insertion
+                      + perm.slice(insertionPoint)
+                  )
+              })
+          })
+
+          newPermutationsArray = newPermutationsArray.map(element => element = element.replace(/\(.+?\)/, "").trim())
+          counter++
+          permutations = newPermutationsArray
+      }
+
+  }
+
+  if (toBePermutated.includes("[")) {
+      let insertionsOr = toBePermutated.match(/\[[^&]+?\|[^&]+?\]/g)
+      insertionsOr = insertionsOr.map(insertionsGroup => insertionsGroup.slice(1, -1))
+      insertionsOr = insertionsOr.map(insertionsGroup => insertionsGroup = insertionsGroup.split(" | "))
+      
+      let counter = 0
+      permutations = permutations.map(element => element = " " + element)
+      while (permutations[permutations.length - 1].includes("[")) {
+          let newPermutationsArray = []
+          insertionsOr[counter].forEach(insertion => {
+              permutations.forEach(perm => {
+                  let insertionPoint = perm.indexOf("[")
+                  newPermutationsArray.push(
+                      perm.slice(0, insertionPoint - 1)
+                      + " "
+                      + insertion
+                      + perm.slice(insertionPoint)
+                  )
+              })
+          })
+
+          newPermutationsArray = newPermutationsArray.map(element => element = element.replace(/\[.+?\]/, "").trim())
+          counter++
+          permutations = newPermutationsArray
+      }
+  }
+  return permutations
+}
+
 function sortQandA() {
   questions = vocabText.split("\n")
   questions = questions.filter(question => question.length > 4)
@@ -27,9 +124,12 @@ function sortQandA() {
 
   answers = answers.map(answer => [answer])
   answers = answers.map(answer => {
-    let bufferArray = answer[0].split(" $ ")
-    bufferArray = bufferArray.map(element => element.trim())
-    return bufferArray
+    let bufferArrayA = answer[0].split(" $ ")
+    bufferArrayA = bufferArrayA.map(element => element.trim())
+    bufferArrayA = bufferArrayA.map(element => element = answerPermutations(element))
+    bufferArrayB = [] 
+    bufferArrayA.forEach(subarray => subarray.forEach(element => bufferArrayB.push(element)))
+    return bufferArrayB
   })
 }
 
