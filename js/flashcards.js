@@ -18,19 +18,19 @@ async function mainclown() {
 function trueFactorialPermutations(arr) {
   let permArr = []
   for (let i = 0; i < arr.length; i++) {
-      permArr.push([arr[i]])
+    permArr.push([arr[i]])
   }
 
   for (let i = 1; i < arr.length; i++) {
-      let auxArr = []
-      for (let j = 0; j < arr.length; j++) {
-          permArr.forEach(subArr => {
-              if (!subArr.some(element => element === arr[j])) {
-                  auxArr.push(subArr.concat(arr[j]))
-              }
-          })
-      }
-      permArr = auxArr
+    let auxArr = []
+    for (let j = 0; j < arr.length; j++) {
+      permArr.forEach(subArr => {
+        if (!subArr.some(element => element === arr[j])) {
+          auxArr.push(subArr.concat(arr[j]))
+        }
+      })
+    }
+    permArr = auxArr
   }
   return permArr
 }
@@ -42,72 +42,72 @@ function answerPermutations(toBePermutated) {
   if (!toBePermutated.includes("(") && !toBePermutated.includes("[")) return permutations
 
   if (toBePermutated.includes("(")) {
-      let insertionsAnd = toBePermutated.match(/\([^|]+?\&[^|]+?\)/g)
-      insertionsAnd = insertionsAnd.map(insertionsGroup => insertionsGroup.slice(1, -1))
-      insertionsAnd = insertionsAnd.map(insertionsGroup => insertionsGroup = insertionsGroup.split(" & "))
+    let insertionsAnd = toBePermutated.match(/\([^|]+?\&[^|]+?\)/g)
+    insertionsAnd = insertionsAnd.map(insertionsGroup => insertionsGroup.slice(1, -1))
+    insertionsAnd = insertionsAnd.map(insertionsGroup => insertionsGroup = insertionsGroup.split(" & "))
 
-      trueFactorialPermutationsArr = []
-      insertionsAnd.forEach(subArr => trueFactorialPermutationsArr.push(trueFactorialPermutations(subArr)))
+    trueFactorialPermutationsArr = []
+    insertionsAnd.forEach(subArr => trueFactorialPermutationsArr.push(trueFactorialPermutations(subArr)))
 
 
-      trueFactorialPermutationsArr = trueFactorialPermutationsArr.map(subArr => subArr = subArr.map(subSubArr => {
-          let auxString = ""
-          subSubArr.forEach(element => auxString = auxString + element + " ")
-          return auxString.trim()
+    trueFactorialPermutationsArr = trueFactorialPermutationsArr.map(subArr => subArr = subArr.map(subSubArr => {
+      let auxString = ""
+      subSubArr.forEach(element => auxString = auxString + element + " ")
+      return auxString.trim()
+    })
+    )
+
+    insertionsAnd = trueFactorialPermutationsArr
+
+    let counter = 0
+    permutations = permutations.map(element => element = " " + element)
+    while (permutations[permutations.length - 1].includes("(")) {
+      let newPermutationsArray = []
+
+      insertionsAnd[counter].forEach(insertion => {
+        permutations.forEach(perm => {
+          let insertionPoint = perm.indexOf("(")
+          newPermutationsArray.push(
+            perm.slice(0, insertionPoint - 1)
+            + " "
+            + insertion
+            + perm.slice(insertionPoint)
+          )
+        })
       })
-      )
 
-      insertionsAnd = trueFactorialPermutationsArr
-
-      let counter = 0
-      permutations = permutations.map(element => element = " " + element)
-      while (permutations[permutations.length - 1].includes("(")) {
-          let newPermutationsArray = []
-
-          insertionsAnd[counter].forEach(insertion => {
-              permutations.forEach(perm => {
-                  let insertionPoint = perm.indexOf("(")
-                  newPermutationsArray.push(
-                      perm.slice(0, insertionPoint - 1)
-                      + " "
-                      + insertion
-                      + perm.slice(insertionPoint)
-                  )
-              })
-          })
-
-          newPermutationsArray = newPermutationsArray.map(element => element = element.replace(/\(.+?\)/, "").trim())
-          counter++
-          permutations = newPermutationsArray
-      }
+      newPermutationsArray = newPermutationsArray.map(element => element = element.replace(/\(.+?\)/, "").replace("  ", " ").trim())
+      counter++
+      permutations = newPermutationsArray
+    }
 
   }
 
   if (toBePermutated.includes("[")) {
-      let insertionsOr = toBePermutated.match(/\[[^&]+?\|[^&]+?\]/g)
-      insertionsOr = insertionsOr.map(insertionsGroup => insertionsGroup.slice(1, -1))
-      insertionsOr = insertionsOr.map(insertionsGroup => insertionsGroup = insertionsGroup.split(" | "))
-      
-      let counter = 0
-      permutations = permutations.map(element => element = " " + element)
-      while (permutations[permutations.length - 1].includes("[")) {
-          let newPermutationsArray = []
-          insertionsOr[counter].forEach(insertion => {
-              permutations.forEach(perm => {
-                  let insertionPoint = perm.indexOf("[")
-                  newPermutationsArray.push(
-                      perm.slice(0, insertionPoint - 1)
-                      + " "
-                      + insertion
-                      + perm.slice(insertionPoint)
-                  )
-              })
-          })
+    let insertionsOr = toBePermutated.match(/\[[^&]+?\|[^&]+?\]/g)
+    insertionsOr = insertionsOr.map(insertionsGroup => insertionsGroup.slice(1, -1))
+    insertionsOr = insertionsOr.map(insertionsGroup => insertionsGroup = insertionsGroup.split(" | "))
 
-          newPermutationsArray = newPermutationsArray.map(element => element = element.replace(/\[.+?\]/, "").trim())
-          counter++
-          permutations = newPermutationsArray
-      }
+    let counter = 0
+    permutations = permutations.map(element => element = " " + element)
+    while (permutations[permutations.length - 1].includes("[")) {
+      let newPermutationsArray = []
+      insertionsOr[counter].forEach(insertion => {
+        permutations.forEach(perm => {
+          let insertionPoint = perm.indexOf("[")
+          newPermutationsArray.push(
+            perm.slice(0, insertionPoint - 1)
+            + " "
+            + insertion
+            + perm.slice(insertionPoint)
+          )
+        })
+      })
+
+      newPermutationsArray = newPermutationsArray.map(element => element = element.replace(/\[.+?\]/, "").replace("  ", " ").trim())
+      counter++
+      permutations = newPermutationsArray
+    }
   }
   return permutations
 }
@@ -116,10 +116,10 @@ function sortQandA() {
   questions = vocabText.split("\n")
   questions = questions.filter(question => question.length > 4)
   questions = questions.map(question => {
-    let separatorIndex = question.search(/-/)
-    let answer = question.slice(0, separatorIndex - 1)
+    let separatorIndex = question.search(" - ")
+    let answer = question.slice(0, separatorIndex)
     answers.push(answer)
-    return (question.slice(separatorIndex + 2))
+    return (question.slice(separatorIndex + 3))
   })
 
   answers = answers.map(answer => [answer])
@@ -127,7 +127,7 @@ function sortQandA() {
     let bufferArrayA = answer[0].split(" $ ")
     bufferArrayA = bufferArrayA.map(element => element.trim())
     bufferArrayA = bufferArrayA.map(element => element = answerPermutations(element))
-    bufferArrayB = [] 
+    bufferArrayB = []
     bufferArrayA.forEach(subarray => subarray.forEach(element => bufferArrayB.push(element)))
     return bufferArrayB
   })
@@ -207,8 +207,9 @@ function addTip() {
 
     const tip = document.createElement("span")
     tip.setAttribute("id", "tip")
-    let tipAnswer = answers[randomNumber].map(answer => answer = " " + answer)
-    tip.innerHTML = tipAnswer
+    let tipText = answers[randomNumber].reduce((accumulator, currentValue) => accumulator + " / " + currentValue, "")
+    tipText = tipText.slice(2)
+    tip.innerHTML = tipText
     tip.style.visibility = "hidden"
 
     const linebreakB = document.createElement('p')
@@ -280,13 +281,18 @@ function checkAnswer() {
       if (event.key === "Enter") {
         if (originalInput === answer || umlautInput === answer || eszetInput === answer) {
           isCorrect = true
-        } else attemptsCounter++
+        }
       }
     })
     if (isCorrect) {
       event.target.style.backgroundColor = "rgba(0, 128, 0, 0.5)"
       setTimer()
-    } else addTip()
+    } else {
+      if (event.key === "Enter") {
+        attemptsCounter++
+        addTip()
+      }
+    }
   })
 }
 
