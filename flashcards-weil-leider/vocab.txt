@@ -62,7 +62,7 @@ aber es gibt noch eine Option - но есть еще один вариант
 aber es gibt noch eine andere Option - но есть еще один другой вариант
 
 und ich verstehe [es | das] nicht - и я этого не понимаю
-und ich kann [es | das] nicht verstehen - и я не могу этого объяснить
+und ich kann [es | das] nicht erklären - и я не могу этого объяснить
 und er versteht [es | das] nicht - и он этого не понимает
 und sie versteht [es | das] nicht - и она этого не понимает 
 und [es | das] war richtig - и это было правильно
