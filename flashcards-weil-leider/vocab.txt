@@ -141,15 +141,15 @@ wenn Sie mehr wissen möchten - если Вы хотите знать больш
 wenn du mehr wissen möchtest - если ты хочешь знать больше / если ты хочешь узнать больше
 wenn Sie alles gemacht haben - когда Вы всё сделаете / если Вы всё сделали
 wenn du alles gemacht hast - когда ты все сделаешь / если ты всё сделал
-wenn es keine andere Optionen gibt - если нет других вариантов
+wenn es keine anderen Optionen gibt - если нет других вариантов
 wenn du [die | diese] Idee gut findest - если ты считаешь эту идею хорошей
 wenn du [die | diese] Idee interessant findest - если ты считаешь эту идею интересной
 wenn du Zeit hast - если у тебя есть время
-wenn Sie Zeit haben - если у Вас есть время
+wenn Sie Zeit haben - если у Вас есть время 
 wenn ich bereit bin - когда буду готов
 wenn du bereit bist - когда будешь готов
 wenn wir bereit sind - когда мы будем готовы
 wenn [es | das] nicht genug ist - если этого недостаточно
-wenn du mir helfen möchtest - если ты хочешь мне помочь
-wenn du uns helfen möchtest - если ты хочешь нам помочь
-wenn Sie uns helfen möchten - если Вы хотите нам помочь
+wenn du mir helfen [möchtest | willst] - если ты хочешь мне помочь
+wenn du uns helfen [möchtest | willst] - если ты хочешь нам помочь
+wenn Sie uns helfen [möchten | wollen] - если Вы хотите нам помочь
