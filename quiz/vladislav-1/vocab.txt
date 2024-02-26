@@ -131,5 +131,5 @@ Werktage - Mo Di Mi Do Fr
 der Kasten - ящик
 die Kästen - ящики
 
-die Speise - еда, блюдо
+die Speise - еда, блюдо (но не суд)
 das Gericht - 1. еда, блюдо 2. суд
