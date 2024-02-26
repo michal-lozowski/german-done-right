@@ -52,7 +52,7 @@ function getQandA() {
     do {
         randomQuestionId = floor(random(questions.length))
     } while (shownQuestions.includes(randomQuestionId))
-    shownQuestions.push(randomQuestionId)
+
 
     do {
         randomAnswerIdA = floor(random(randomQuestionId - 3, randomQuestionId + 3))
@@ -125,20 +125,23 @@ async function draw() {
         if (won === true) {
             background(0, 200, 0)
             textSize(20)
-            text("Erfolg...", canvasW / 3, canvasH / 6)
+            if (score < questions.length) text("Erfolg...", canvasW / 3, canvasH / 6)
+            else text("alles geschafft!", canvasW / 3, canvasH / 6)
         }
         delayCounter--
         if (delayCounter === 0) {
             if (won === true) score++
-            lost = false
-            won = false
-            q = null
-            aCorrect = null
-            a1 = null
-            a2 = null
-            positions = []
-            delayCounter = 180
-            getQandA()
+            if (score < questions.length) {
+                lost = false
+                won = false
+                q = null
+                aCorrect = null
+                a1 = null
+                a2 = null
+                positions = []
+                delayCounter = 180
+                getQandA()
+            }
         }
     }
 
@@ -165,7 +168,10 @@ async function draw() {
         pop();
     }
 
-    if (collision(q, aCorrect)) won = true
+    if (collision(q, aCorrect)) {
+        shownQuestions.push(randomQuestionId)
+        won = true
+    }
     if (collision(q, a1) || collision(q, a2)) lost = true
 
 }

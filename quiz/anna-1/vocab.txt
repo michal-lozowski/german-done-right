@@ -1,0 +1,102 @@
+die Verbindung - соединение
+verbinden - соединять
+ich verbinde - я соединяю
+du verbindest - ты соединяешь
+er verbindet - он соединяет
+sie verbindet - она соединяет
+wir verbinden - мы соединяем
+ihr verbindet - вы, ребята, соединяете
+sie verbinden - они соединяют
+Sie verbinden - Вы соединяете
+
+ich habe verbunden - я соединил(а)
+du hast verbunden - ты соединил(а)
+er hat verbunden - он соединил
+sie hat verbunden - она соединила
+wir haben verbunden - мы соединили
+ihr habt verbunden - вы, ребята, соединили
+sie haben verbunden - они соединили
+Sie haben verbunden - Вы соединили
+
+ich rufe an - я звоню
+du rufst an - ты звонишь
+er ruft an - он звонит
+sie ruft an - она звонит
+wir rufen an - мы звоним
+ihr ruft an - вы, ребята, звоните
+sie rufen an - они звонят
+Sie rufen an - Вы звоните
+
+ich habe angerufen - я позвонил(а)
+du hast angerufen - ты позвонил(а)
+er hat angerufen - он позвонил
+sie hat angerufen - она позвонила
+wir haben angerufen - мы позвонили
+ihr habt angerufen - вы, ребята, позвонили
+sie haben angerufen - они позвонили
+Sie haben angerufen - Вы позвонили
+
+die Notiz - записка, заметка
+die Notizen - записки, заметки
+
+der Inhalt - содержание ед.ч.
+die Inhalte - содержание мн.ч.
+
+die Haltestelle - остановка
+halten - 1. держать 2. останавливать(ся)
+
+im Computer - в компьютере
+im Handy - в моб. телефоне
+per Hand - от руки
+
+ich habe gesprochen/geredet - я говорил(а)
+du hast gesprochen/geredet - ты говорил(а)
+er hat gesprochen/geredet - он говорил
+sie hat gesprochen/geredet - она говорила
+wir haben gesprochen/geredet - мы говорили
+ihr habt gesprochen/geredet - вы, ребята, говорили
+sie haben gesprochen/geredet - они говорили
+Sie haben gesprochen/geredet - Вы говорили
+
+du hast gesagt - ты сказал
+er hat gesagt - он сказал
+sie hat gesagt - она сказала
+wir haben gesagt - мы сказали
+ihr habt gesagt - вы, ребята, сказали
+sie haben gesagt - они сказали
+Sie haben gesagt - Вы сказали
+
+wichtig - важный
+wichtiger - важнее
+das Wichtigste - самый важный
+
+normalerweise - обычно
+in der Regel - как правило
+die Regel - правило
+die Regeln - правила
+
+du erinnerst dich - ты помнишь
+er erinnert sich - он помнит
+sie erinnert sich - она помнит
+wir erinnern uns - мы помним
+ihr erinnert euch - вы, ребята, помните
+sie erinnern sich - они помнят
+Sie erinnern sich - Вы помните
+
+du merkst dir - ты запоминаешь
+er merkt sich - он запоминает
+sie merkt sich - она запоминает
+wir merken uns - мы запоминаем
+ihr merkt euch - вы, ребята, запоминаете
+sie merken sich - они запоминают
+Sie merken sich - Вы запоминаете
+
+speichern - сохранить
+abbrechen - отменить, сбросить
+Bookmarks - избранное 
+
+fast - почти
+
+über die Straße gehen - перейти через дорогу 
+übersetzen - переводить
+Überweisung - денежный перевод
