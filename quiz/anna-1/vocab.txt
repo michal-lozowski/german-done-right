@@ -49,16 +49,17 @@ im Computer - в компьютере
 im Handy - в моб. телефоне
 per Hand - от руки
 
-ich habe gesprochen/geredet - я говорил(а)
-du hast gesprochen/geredet - ты говорил(а)
-er hat gesprochen/geredet - он говорил
-sie hat gesprochen/geredet - она говорила
-wir haben gesprochen/geredet - мы говорили
-ihr habt gesprochen/geredet - вы, ребята, говорили
-sie haben gesprochen/geredet - они говорили
-Sie haben gesprochen/geredet - Вы говорили
+ich habe gesprochen/geredet - я разговаривал/говорил(а)
+du hast gesprochen/geredet - ты разговаривал/говорил(а)
+er hat gesprochen/geredet - он разговаривал/говорил
+sie hat gesprochen/geredet - она разговаривала/говорила
+wir haben gesprochen/geredet - мы говорили/разговаривали
+ihr habt gesprochen/geredet - вы, ребята, говорили/разговаривали
+sie haben gesprochen/geredet - они говорили/разговаривали
+Sie haben gesprochen/geredet - Вы говорили/разговаривали
 
-du hast gesagt - ты сказал
+ich habe gesagt - я сказал(а)
+du hast gesagt - ты сказал(а)
 er hat gesagt - он сказал
 sie hat gesagt - она сказала
 wir haben gesagt - мы сказали

@@ -114,17 +114,20 @@ async function draw() {
     background(230)
 
     textSize(18)
+    if (window.screen.width * window.screen.height < 700000) textSize(12)
     text("Fragen erfolgreich beantwortet: " + score + " von insgesamt " + questions.length, 20, canvasH - 20)
 
     if (lost === true || won === true) {
         if (lost === true) {
             background(200, 0, 0)
             textSize(20)
+            if (window.screen.width * window.screen.height < 700000) textSize(12)
             text("Pech gehabt...", canvasW / 3, canvasH / 6)
         }
         if (won === true) {
             background(0, 200, 0)
             textSize(20)
+            if (window.screen.width * window.screen.height < 700000) textSize(12)
             if (score < questions.length) text("Erfolg...", canvasW / 3, canvasH / 6)
             else text("alles geschafft!", canvasW / 3, canvasH / 6)
         }
@@ -244,6 +247,7 @@ function Question(textToShow) {
     this.show = function () {
         textSize(24)
         if (textToShow.length > 18) textSize(20)
+        if (window.screen.width * window.screen.height < 700000) textSize(12)
         fill(0)
         text(textToShow, this.x, this.y)
         this.bl = [this.x, this.y + textDescent()];
@@ -265,6 +269,7 @@ function Answer(textToShow) {
         fill(0)
         textSize(24)
         if (textToShow.length > 18) textSize(20)
+        if (window.screen.width * window.screen.height < 700000) textSize(12)
         text(textToShow, this.x, this.y)
         this.bl = [this.x, this.y + textDescent()];
         this.br = [this.x + textWidth(textToShow), this.y + textDescent()];
