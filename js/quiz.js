@@ -97,6 +97,10 @@ function getQandA() {
 async function setup() {
     await mainclown()
 
+    document.addEventListener('touchmove', function(event) {
+        event.preventDefault();
+      }, { passive: false });
+      
 
     canvasW = windowWidth / 1.5
     canvasH = windowHeight / 1.5
