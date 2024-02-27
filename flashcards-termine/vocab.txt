@@ -102,7 +102,16 @@ am Donnerstag oder am Freitag? - в четверг или в пятницу?
 am Donnerstag oder vielleicht am Freitag? - в четверг или может быть в пятницу?
 
 arbeiten Sie auch [samstags | am Samstag]? - по субботам вы тоже работаете?
-[haben | sind] Sie auch [samstags | am Samstag] [geöffnet | offen]? $ haben Sie auch [samstags | am Samstag] auf? - по субботам вы тоже открыты?
+[haben | sind] Sie auch [samstags | am Samstag] [geöffnet | offen]? - по субботам вы тоже открыты?
+heute [haben | sind] wir [geöffnet | offen] - сегодня мы открыты
+morgen [haben | sind] wir [geöffnet | offen] - завтра мы открыты
+nächste Woche [haben | sind] wir [geöffnet | offen] - на следующей неделе мы открыты
+morgen [haben | sind] wir geschlossen - завтра мы закрыты
+nächste Woche [haben | sind] wir geschlossen - на следующей неделе мы закрыты
+die Praxis [hat | ist] [geöffnet | offen] - кабинет врача открыт / праксис открыта
+die Praxis [hat | ist] geschlossen - кабинет врача закрыт / праксис закрыта
+das Büro [hat | ist] [geöffnet | offen] - офис открыт
+das Büro [hat | ist] geschlossen - офис закрыт
 
 ja, das [geht | passt | ist gut] - да, это подходит
 nein, [das | es] [geht | passt] nicht - нет, это не подходит
@@ -110,3 +119,6 @@ nein, [das | es] [geht | passt] leider nicht $ nein, leider [geht | passt] [das 
 
 nächste Woche kann ich nicht $ ich kann nächste Woche nicht - на следующей неделе я не могу
 diese Woche kann ich nicht $ ich kann diese Woche nicht - на этой неделе я не могу
+
+wir [schicken | senden] [Ihnen | die Rechnung | per Post] - мы отправим вам счёт по почте
+wir [schicken | senden] [Ihnen | die Rechnung | per E-Mail] - мы отправим вам счёт по емейлу
