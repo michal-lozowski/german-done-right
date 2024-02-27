@@ -18,7 +18,7 @@ wundert das dich? - это удивляет тебя?
 wundert das sie? - это удивляет её?
 wundert das ihn? - это удивляет его?
 wundert das euch? - это удивляет вас, ребята?
-wundert das Sie? - это удивляет вас? 
+wundert das Sie? - это удивляет Вас? 
 wundert das sie? - это удивляет их?
 
 die Frage
@@ -36,7 +36,7 @@ sie bittet - она просит
 wir bitten - мы просим
 ihr bittet - вы, ребята, просите
 sie bitten - они просят
-Sie bitten - вы просите (формальное обращение)
+Sie bitten - Вы просите
 
 ich habe gebeten - я просил
 du hast gebeten - ты просил
@@ -45,7 +45,7 @@ sie hat gebeten - она просила
 wir haben gebeten - мы просили
 ihr habt gebeten - вы, ребята, просили
 sie haben gebeten - они просили
-Sie haben gebeten - вы просили (формальное обращение)
+Sie haben gebeten - Вы просили
 
 (an*)bieten - предлагать
 ich biete - я предлагаю
