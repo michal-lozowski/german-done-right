@@ -1,0 +1,155 @@
+weil [es | das] zu teuer ist - потому что это слишком дорого
+weil [es | das] zu teuer war - потому что это было слишком дорого
+weil ich keine Zeit habe - потому что у меня нет времени
+weil er keine Zeit hat - потому что у него нет времени
+weil sie keine Zeit hat - потому что у нее нет времени
+weil sie keine Zeit haben - потому что у них нет времени
+weil ich keine Zeit [hatte | gehabt habe] - потому что у меня не было времени
+weil er keine Zeit [hatte | gehabt hat] - потому что у него не было времени
+weil sie keine Zeit [hatte | gehabt hat] - потому что у нее не было времени
+weil sie keine Zeit [hatten | gehabt haben] - потому что у них не было времени
+weil sie nicht genug Geld haben - потому что у них недостаточно денег
+weil [es | das] sehr wichtig ist - потому что это очень важно
+weil das Wetter schlecht [war | gewesen ist] - потому что погода была плохая
+weil er sehr krank [war | gewesen ist] - потому что он был очень болен
+weil sie sehr krank [war | gewesen ist] - потому что она была очень больна
+weil ich keine anderen Ideen [hatte | gehabt habe] - потому что у меня не было других идей
+weil mein Auto kaputt war - потому что моя машина была сломана
+weil sein Auto kaputt war - потому что его машина была сломана
+weil ihr Auto kaputt war - потому что её машина была сломана
+weil unser Auto kaputt war - потому что наша машина была сломана
+weil ihr Auto kaputt war - потому что их машина была сломана
+weil ich [es | das] einfach nicht [gewusst habe | wusste] - потому что я этого просто не знал
+weil du [es | das] nicht [gewusst hast | wusstest]? - потому что ты этого не знал?
+weil wir [es | das] einfach nicht [gewusst haben | wussten] - потому что мы этого просто не знали
+weil wir in Deutschland sind - потому что мы в Германии
+weil er kein Deutsch [spricht | kann | sprechen kann] - потому что он не говорит по немецки
+weil sie kein Deutsch [spricht | kann | sprechen kann] - потому что она не говорит по немецки
+
+als wir [es | das] gesehen haben - когда мы это увидели
+als ich [es | das] gesehen habe - когда я это увидел
+aber als wir ihn gesehen haben... - но когда мы его увидели...
+aber als wir sie gesehen haben... - но когда мы её увидели...
+aber als ich ihn gesehen habe... - но когда я его увидел...
+aber als ich sie gesehen habe... - но когда я её увидел...
+als wir [es | das] gehört haben - когда мы это услышали
+als ich [es | das] gehört habe - когда я это услышал
+als ich Corona [hatte | gehabt habe] - когда у меня была корона
+als wir uns kennengelernt haben - когда мы познакомились
+als ich ihn kennengelernt habe - когда я с ним познакомился
+als ich sie kennengelernt habe - когда я с ней познакомился
+als ich deine E-Mail gelesen habe - когда я прочитал твой емейл
+als ich seine E-Mail gelesen habe - когда я прочитал его емейл
+als ich ihre E-Mail gelesen habe - когда я прочитал её емейл
+als ich Ihre E-Mail gelesen habe - когда я прочитал Ваш емейл
+als ich (hier & gestern) war - когда я был здесь вчера
+als wir (hier & gestern) waren - когда мы были здесь вчера
+als Sie [es | das] gesagt haben - когда Вы это сказали
+als du [es | das] gesagt hast - когда ты это сказал
+
+ich [glaube | denke] nicht, dass es schon zu spät ist - я не думаю, что уже слишком поздно
+wir [glauben | denken] nicht, dass es schon zu spät ist - мы не думаем, что уже слишком поздно
+
+aber ich sehe (hier & kein Problem) - но я не вижу здесь проблемы
+aber er sieht (hier & kein Problem) - но он не видит здесь проблемы
+aber sie sieht (hier & kein Problem) - но она не видит здесь проблемы
+aber wir sehen (hier & kein Problem) - но мы не видим здесь проблемы
+aber wir können [es | das] nicht erklären - но мы не можем этого объяснить
+aber [es | das] ist nicht ganz sicher - но это не вполне безопасно
+aber es war schon zu spät - но было уже слишком поздно
+aber ich war zu spät - но я опоздал
+aber es gibt noch eine Option - но есть еще один вариант
+aber es gibt noch eine andere Option - но есть еще один другой вариант
+
+und ich verstehe [es | das] nicht - и я этого не понимаю
+und ich kann [es | das] nicht erklären - и я не могу этого объяснить
+und er versteht [es | das] nicht - и он этого не понимает
+und sie versteht [es | das] nicht - и она этого не понимает 
+und [es | das] war richtig - и это было правильно
+und [es | das] war [eine | die] richtige Entscheidung - и это было правильным решением
+und [es | das] war leider falsch $ und leider war [es | das] falsch - и это к сожалению было неправильно
+und wir waren leider zu spät $ und leider waren wir zu spät - и мы к сожалению опоздали 
+und [es | das] war [eine | die] richtige Idee - и это была правильная идея
+und sie hat "ja" gesagt - и она сказала "да"
+und er hat "ja" gesagt - и он сказал "да"
+und er ist auch krank geworden - и он тоже заболел 
+und sie ist auch krank geworden - и она тоже заболела
+
+am Wochenende habe ich einen Film [gesehen | geschaut] $ am Wochenende habe ich mir einen Film angeschaut - на выходных я посмотрел фильм
+am Wochenende haben wir einen Film [gesehen | geschaut] $ am Wochenende haben wir uns einen Film angeschaut - на выходных мы посмотрели фильм
+am Wochenende habe ich keine Zeit, [Sorry | sorry] - на выходных у меня нет времени, сорри
+am Wochenende hatte ich keine Zeit $ am Wochenende habe ich keine Zeit gehabt - на выходных у меня не было времени
+am Wochenende habe ich normalerweise keine Zeit für Deutsch - на выходных у меня обычно нет времени на немецкий
+am Wochenende habe ich normalerweise keine Zeit für Sport - на выходных у меня обычно нет времени на спорт
+
+leider ist es schon zu spät - к сожалению уже слишком поздно
+natürlich ist [es | das] kein Problem! - разумеется это не проблема! / конечно же это не проблема!
+leider habe ich keine Zeit - к сожалению у меня нет времени
+leider hat er (keine Zeit & diese Woche) - к сожалению у него нет времени на этой неделе
+leider hat sie (keine Zeit & diese Woche) - к сожалению у неё нет времени на этой неделе
+leider haben wir (keine Zeit & diese Woche) - к сожалению у нас нет времени на этой неделе
+leider haben sie (keine Zeit & diese Woche) - к сожалению у них нет времени на этой неделе
+leider habe ich keine Antwort bekommen - к сожалению я не получил ответа
+leider haben wir keine Antwort bekommen - к сожалению мы не получили ответа
+
+im Winter habe ich leider keinen Sport gemacht - зимой я к сожалению не занимался спортом
+im Winter haben wir leider keinen Sport gemacht - зимой мы к сожалению не занимались спортом
+im Winter waren wir in den Alpen - зимой мы были в Альпах
+im Winter waren wir in Österreich - зимой мы были в Австрии
+im Sommer waren wir in Italien - летом мы были в Италии
+
+heute [sind | haben] die Supermärkte geschlossen - сегодня супермаркеты закрыты
+morgen ist [ | ein] Feiertag - завтра выходной
+heute ist Freitag! - сегодня пятница!
+gestern war [ | ein] guter Tag - вчера был хороший день
+gestern war kein guter Tag - вчера не был хороший день
+gestern war [ | ein] schlechter Tag - вчера был плохой день
+
+früher war [es | das] anders - раньше это было по-другому
+früher hat [es | das] anders funktioniert - раньше это работало по-другому
+früher gab es diese Regel nicht - раньше этого правила не было
+früher gab es diese Regeln nicht - раньше этих правил не было
+
+vielleicht habe ich eine Idee - возможно у меня есть идея
+vielleicht hat er eine Idee - возможно у него есть идея / может быть у него есть идея
+vielleicht hat sie eine Idee - возможно у нее есть идея / может быть у нее есть идея
+vielleicht gibt es eine andere Option? - возможно есть другой вариант? / может быть есть другой вариант?
+vielleicht ist [es | das] noch nicht alles? - возможно это ещё не всё? / может быть это еще не всё?
+vielleicht können wir [es | das] anders machen? - возможно мы можем сделать это иначе? / может быть мы можем сделать это иначе?
+vielleicht hast du [es | das] falsch verstanden? - возможно ты это неправильно понял? / может быть ты это неправильно понял?
+vielleicht habe ich [es | das] falsch verstanden - возможно я это неправильно понял / может быть я это неправильно понял
+vielleicht haben Sie [es | das] falsch verstanden - возможно Вы это неправильно поняли / может быть Вы это неправильно поняли 
+vielleicht kommt er später - возможно он придет позже / может быть он придет позже
+vielleicht kommt sie später - позможно она придет позже / может быть она придет позже
+vielleicht rufen wir sie an? - может позвоним им?
+vielleicht rufe ich ihn später an - возможно я позвоню ему позже / может быть я позвоню ему позже
+vielleicht rufe ich sie später an - возможно я позвоню ей позже / может быть я позвоню ей позже
+vielleicht schreibe ich ihm später - возможно я напишу ему позже / может быть я напишу ему позже
+vielleicht schreibe ich ihr später - возможно я напишу ей позже / может быть я напишу ей позже 
+vielleicht schreibe ich ihnen später - возможно я напишу им позже / может быть я напишу им позже
+vielleicht kostet [es | das] nicht so viel... - может это не так много стоит...
+vielleicht finden wir eine andere Lösung - может быть мы найдем другое решение
+
+aber wenn [es | das] ein Problem ist... - но если это проблема...
+wenn [es | das] möglich ist - если это возможно
+wenn alles fertig [ist | sein wird] - когда всё будет готово
+wenn Sie keine Fragen mehr haben - если у Вас больше нет вопросов
+wenn Sie ein Problem haben - если у Вас есть проблема
+wenn Sie eine Frage haben - если у Вас есть вопрос
+wenn Sie Fragen haben - если у Вас есть вопросы
+wenn Sie mehr wissen möchten - если Вы хотите знать больше / если Вы хотите узнать больше
+wenn du mehr wissen möchtest - если ты хочешь знать больше / если ты хочешь узнать больше
+wenn Sie alles gemacht haben - когда Вы всё сделаете / если Вы всё сделали
+wenn du alles gemacht hast - когда ты все сделаешь / если ты всё сделал
+wenn es keine anderen Optionen gibt - если нет других вариантов
+wenn du [die | diese] Idee gut findest - если ты считаешь эту идею хорошей
+wenn du [die | diese] Idee interessant findest - если ты считаешь эту идею интересной
+wenn du Zeit hast - если у тебя есть время
+wenn Sie Zeit haben - если у Вас есть время 
+wenn ich bereit bin - когда буду готов
+wenn du bereit bist - когда будешь готов
+wenn wir bereit sind - когда мы будем готовы
+wenn [es | das] nicht genug ist - если этого недостаточно
+wenn du mir helfen [möchtest | willst] - если ты хочешь мне помочь
+wenn du uns helfen [möchtest | willst] - если ты хочешь нам помочь
+wenn Sie uns helfen [möchten | wollen] - если Вы хотите нам помочь

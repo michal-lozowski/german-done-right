@@ -1,0 +1,34 @@
+was hast du gesagt? - что ты сказал?
+was hat er gesagt? - что он сказал?
+was hat sie gesagt? - что она сказала?
+was habt ihr gesagt? - что вы, ребята, сказали?
+was haben Sie gesagt? - что Вы сказали?
+
+er hat nein gesagt - он сказал нет
+sie hat nein gesagt - она сказала нет
+sie haben nein gesagt - они сказали нет
+er hat ja gesagt - он сказал да
+sie hat ja gesagt - она сказала да
+sie haben ja gesagt - они сказали да
+
+hast du [es | das] gelesen? - ты это прочитал?
+hat er [es | das] gelesen? - он это прочитал?
+hat sie [es | das] gelesen? - она это прочитала?
+habt ihr [es | das] gelesen? - вы, ребята, это прочитали?
+haben Sie [es | das] gelesen? - Вы это прочитали?
+
+wo hast du [es | das] gekauft? - где ты это купил?
+wo hat er [es | das] gekauft? - где он это купил?
+wo hat sie [es | das] gekauft? - где она это купила?
+wo habt ihr [es | das] gekauft? - где вы, ребята, это купили?
+wo haben sie [es | das] gekauft? - где они это купили?
+wo haben Sie [es | das] gekauft? - где Вы это купили?
+
+hast du mit Herrn Schiller gesprochen? - ты говорил с Herrn Schiller? / ты поговорил с Herrn Schiller?
+hast du mit Herrn Neumann gesprochen? - ты говорил с Herrn Neumann? / ты поговорил с Herrn Neumann?
+hast du mit Frau Lehmann gesprochen? - ты говорил с Frau Lehmann? / ты поговорил с Frau Lehmann?
+hast du mit Frau Fuchs gesprochen? - ты говорил с Frau Fuchs? / ты поговорил с Frau Fuchs?
+haben Sie mit Herrn Braun gesprochen? - Вы говорили в Herrn Braun? / Вы поговорили с Herrn Braun?
+haben Sie mit Herrn Hofmann gesprochen? - Вы говорили в Herrn Hofmann? / Вы поговорили с Herrn Hofmann?
+haben Sie mit Frau Sommer gesprochen? - Вы говорили в Frau Sommer? / Вы поговорили с Frau Sommer?
+haben Sie mit Frau Haas gesprochen? - Вы говорили в Frau Haas? / Вы поговорили с Frau Haas?

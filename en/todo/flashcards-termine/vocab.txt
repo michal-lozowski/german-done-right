@@ -1,0 +1,124 @@
+vereinbaren - договариваться
+verschieben - переносить
+absagen - отменять
+stornieren - отменять
+bekommen - получать
+
+ich habe gestern angerufen - я звонил(а) вчера
+ich habe am Montag angerufen - я звонил(а) в понедельник
+früher - раньше
+später - позже
+
+er hat seinen Termin [abgesagt | storniert] - он отменил свой термин
+sie hat ihren Termin [abgesagt | storniert] - она отменила свой термин
+
+ich habe einen Termin - у меня есть термин
+ich habe keinen Termin - у меня нет термина
+wir haben einen Termin - у нас есть термин
+wir haben keinen Termin - у нее нет термина
+haben Sie einen Termin? - у Вас есть термин?
+
+möchten Sie Ihren Termin verschieben? - вы хотели бы перенести ваш термин?
+möchten Sie Ihren Termin [absagen | stornieren]? - вы хотели бы отменить ваш термин?
+
+[dort | da] bekomme ich leider keinen Termin $ [dort | da] kann ich leider keinen Termin bekommen $ leider bekomme ich [dort | da] keinen Termin $ ich bekomme [dort | da] leider keinen Termin $ ich bekomme leider keinen Termin [dort | da] - там мне к сожалению не получить термин
+er versteht mich nicht - он не понимает меня
+sie versteht mich nicht - она не понимает меня
+er versteht uns nicht - он не понимает нас
+sie versteht uns nicht - она не понимает нас
+
+mein Geburtsdatum - моя дата рождения
+sein Geburtsdatum - его дата рождения
+ihr Geburtsdatum - её дата рождения
+Ihr Geburtsdatum - ваша дата рождения
+
+mein Vorname - моё имя
+sein Vorname - его имя
+ihr Vorname - её имя
+Ihr Vorname - ваше имя
+
+mein [Nachname | Familienname] - моя фамилия
+sein [Nachname | Familienname] - его фамилия
+ihr [Nachname | Familienname] - её фамилия
+Ihr [Nachname | Familienname] - ваша фамилия
+
+meine [Adresse | Anschrift | Wohnadresse] - мой адрес
+seine [Adresse | Anschrift | Wohnadresse] - его адрес
+ihre [Adresse | Anschrift | Wohnadresse] - её адрес
+unsere [Adresse | Anschrift | Wohnadresse] - нас адрес
+Ihre [Adresse | Anschrift | Wohnadresse] - ваш адрес
+
+meine [Nummer | Handynummer | Telefonnummer | Rufnummer] - мой номер телефона
+seine [Nummer | Handynummer | Telefonnummer | Rufnummer] - его номер телефона
+ihre [Nummer | Handynummer | Telefonnummer | Rufnummer] - её номер телефона
+Ihre [Nummer | Handynummer | Telefonnummer | Rufnummer] - ваш номер телефона
+
+meine Kundennummer - мой номер клиента
+seine Kundennummer - его номер клиента
+ihre Kundennummer - её номер клиента
+Ihre Kundennummer - ваш номер клиента
+
+meine [Versichertenkarte | Gesundheitskarte] - моя карта мед. страхования
+seine [Versichertenkarte | Gesundheitskarte] - его карта мед. страхования
+ihre [Versichertenkarte | Gesundheitskarte] - её карта мед. страхования
+Ihre [Versichertenkarte | Gesundheitskarte] - ваша карта мед. страхования
+
+ich muss [den | meinen] Termin leider [absagen | stornieren] $ leider muss ich [den | meinen] Termin [absagen | stornieren] - к сожалению мне нужно отменить термин
+wir müssen [den | unseren] Termin leider [absagen | stornieren] $ leider müssen wir [den | unseren] Termin [absagen | stornieren] - к сожалению нам нужно отменить термин
+ich kann (heute & leider) nicht kommen $ heute kann ich leider nicht kommen $ leider kann ich heute nicht kommen - к сожалению я не могу сегодня прийти
+wir können (heute & leider) nicht kommen $ heute können wir leider nicht kommen $ leider können wir heute nicht kommen - к сожалению мы не можем сегодня прийти
+
+können wir den Termin verschieben? - мы можем перенести термин?
+können wir den Termin auf [  | die] nächste Woche verschieben? - мы можем перенести термин на следующую неделю?
+können wir den Termin auf März verschieben? - мы можем перенести термин на март?
+
+kann ich mit Herrn Steiner sprechen? - я могу поговорить с Herrn Steiner?
+kann ich mit Herrn Müller sprechen? - я могу поговорить с Herrn Müller? 
+kann ich mit Frau Holz sprechen? - я могу поговорить с Frau Holz?
+kann ich mit Frau Grube sprechen? - я могу поговорить с Frau Grube?
+
+ich brauche einen Termin - мне нужен термин
+wir brauchen einen Termin - нам нужен термин
+können wir einen Termin vereinbaren? - мы можем договориться на термин?
+können wir einen Termin bekommen? - мы можем получить термин?
+kann ich einen Termin bekommen? - я могу получить термин?
+
+wir können Ihnen leider keinen Termin geben $ leider können wir Ihnen keinen Termin geben - к сожалению мы не можем дать вам термин
+wir können Ihnen leider keinen Termin anbieten $ leider können wir Ihnen keinen Termin anbieten - к сожалению мы не можем предложить вам термин
+wir haben leider keine Termine $ leider haben wir keine Termine - к сожалению у нас нет терминов
+sie haben keine Termine - у них нет терминов
+in diesem Jahr haben wir keine Termine mehr $ wir haben (in diesem Jahr & keine Termine mehr) - в этом году у нас больше нет терминов
+in den nächsten 5 Monaten haben wir keine Termine [  | frei] $ wir haben in den nächsten 5 Monaten keine Termine [  | frei] - в ближайшие 5 месяцев у нас нет терминов
+
+nehmen Sie Neupatienten auf? $ akzeptieren Sie Neupatienten? - вы принимаете новых пациентов?
+
+vormittags oder nachmittags? $ am Vormittag oder am Nachmittag? - до полудня или после полудня?
+wann haben Sie Zeit? - когда у Вас есть время?
+am Montag oder am Dienstag? - в понедельник или во вторник?
+am Montag oder vielleicht am Dienstag? - в понедельник или может быть во вторник?
+am Mittwoch oder am Donnerstag? - в среду или в четверг?
+am Mittwoch oder vielleicht am Donnerstag? - в среду или может быть в четверг?
+am Donnerstag oder am Freitag? - в четверг или в пятницу?
+am Donnerstag oder vielleicht am Freitag? - в четверг или может быть в пятницу?
+
+arbeiten Sie auch [samstags | am Samstag]? - по субботам вы тоже работаете?
+[haben | sind] Sie auch [samstags | am Samstag] [geöffnet | offen]? - по субботам вы тоже открыты?
+heute [haben | sind] wir [geöffnet | offen] - сегодня мы открыты
+morgen [haben | sind] wir [geöffnet | offen] - завтра мы открыты
+nächste Woche [haben | sind] wir [geöffnet | offen] - на следующей неделе мы открыты
+morgen [haben | sind] wir geschlossen - завтра мы закрыты
+nächste Woche [haben | sind] wir geschlossen - на следующей неделе мы закрыты
+die Praxis [hat | ist] [geöffnet | offen] - кабинет врача открыт / праксис открыта
+die Praxis [hat | ist] geschlossen - кабинет врача закрыт / праксис закрыта
+das Büro [hat | ist] [geöffnet | offen] - офис открыт
+das Büro [hat | ist] geschlossen - офис закрыт
+
+ja, das [geht | passt | ist gut] - да, это подходит
+nein, [das | es] [geht | passt] nicht - нет, это не подходит
+nein, [das | es] [geht | passt] leider nicht $ nein, leider [geht | passt] [das | es] nicht - нет, к сожалению это не подходит
+
+nächste Woche kann ich nicht $ ich kann nächste Woche nicht - на следующей неделе я не могу
+diese Woche kann ich nicht $ ich kann diese Woche nicht - на этой неделе я не могу
+
+wir [schicken | senden] (Ihnen & die Rechnung & per Post) - мы отправим вам счёт по почте
+wir [schicken | senden] (Ihnen & die Rechnung & per E-Mail) - мы отправим вам счёт по емейлу

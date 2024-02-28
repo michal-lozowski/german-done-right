@@ -1,0 +1,35 @@
+ich musste - я должен был
+du musstest - ты должен был
+er musste - он должен был
+sie musste - она должна была
+wir mussten - мы должны были
+ihr musstet - вы, ребята, должны были
+sie mussten - они должны были
+Sie mussten - Вы должны были
+
+ich konnte - я мог
+du konntest - ты мог
+er konnte - он мог
+sie konnte - она могла
+wir konnten - мы могли
+ihr konntet - вы, ребята, могли
+sie konnten - они могли
+Sie konnten - Вы могли
+
+ich durfte - я имел право, разрешение
+du durftest - ты имел право, разрешение
+er durfte - он имел право, разрешение
+sie durfte - она имела право, разрешение
+wir durften - мы имели право, разрешение
+ihr durftet - вы, ребята, имели право, разрешение
+sie durften - они имели право, разрешение
+Sie durften - Вы имели право, разрешение
+
+ich wollte - я хотел
+du wolltest - ты хотел
+er wollte - он хотел
+sie wollte - она хотела
+wir wollten - мы хотели
+ihr wolltet - вы, ребята, хотели
+sie wollten - они хотели
+Sie wollten - Вы хотели

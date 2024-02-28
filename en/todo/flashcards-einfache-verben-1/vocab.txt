@@ -1,0 +1,155 @@
+machen - делать
+ich mache - я делаю
+du machst - ты делаешь
+er macht - он делает
+sie macht - она делает
+es macht - оно делает
+wir machen - мы делаем
+ihr macht - вы, ребята, делаете
+sie machen - они делают
+Sie machen - Вы делаете
+
+sein - быть
+ich bin - я есть/являюсь/нахожусь
+du bist - ты есть/являешься/находишься
+er ist - он есть/является/находится
+sie ist - она есть/является/находится
+es ist - оно есть/является/находится
+wir sind - мы есть/являемся/находимся
+ihr seid - вы, ребята есть/являетесь/находитесь
+sie sind - они есть/являются/находятся
+Sie sind - Вы есть/являетесь/находитесь
+
+haben - иметь
+ich habe - я имею
+du hast - ты имеешь
+er hat - он имеет
+sie hat - она имеет
+es hat - оно имеет
+wir haben - мы имеем
+ihr habt - вы, ребята, имеете
+sie haben - они имеют
+Sie haben - Вы имеете
+
+ich heiße - я зовусь
+du heißt - ты зовешься
+er heißt - он зовется
+sie heißt - она зовется
+wir heißen - мы зовемся
+ihr heißt - вы, ребята, зоветесь
+sie heißen - они зовутся
+Sie heißen - Вы зоветесь
+das heißt $ es heißt - это значит
+
+wohnen - проживать
+ich wohne - я проживаю
+du wohnst - ты проживаешь
+er wohnt - он проживает
+sie wohnt - она проживает
+wir wohnen - мы проживаем
+ihr wohnt - вы, ребята, проживаете
+sie wohnen - они проживают
+Sie wohnen - Вы проживаете
+
+fragen - спрашивать
+ich frage - я спрашиваю
+du fragst - ты спрашиваешь
+er fragt - он спрашивает
+sie fragt - она спрашивает
+wir fragen - мы спрашиваем
+ihr fragt - вы, ребята, спрашиваете
+sie fragen - они спрашивают
+Sie fragen - Вы спрашиваете
+
+gehen - идти
+ich gehe - я иду
+du gehst - ты идешь
+er geht - он идет
+sie geht - она идет
+wir gehen - мы идем
+ihr geht - вы, ребята, идете
+sie gehen - они идут
+Sie gehen - Вы идете
+
+kommen - 1. приходить/приезжать/прибывать 2. быть откуда то родом 
+ich komme - я 1. прихожу/приезжаю/прибываю 2. родом из
+du kommst - ты 1. приходишь/приезжаешь/прибываешь 2. родом из
+er kommt - он 1. приходит/приезжает/прибывает 2. родом из
+sie kommt - она 1. приходит/приезжает/прибывает 2. родом из
+wir kommen - мы 1. приходим/приезжаем/прибываем 2. родом из
+ihr kommt - вы, ребята, 1. приходите/приезжаете/прибываете 2. родом из
+sie kommen - они 1. приходят/приезжают/прибывают 2. родом из
+Sie kommen - Вы 1. приходите/приезжаете/прибываете 2. родом из
+
+das kostet $ es kostet - это стóит
+sie kosten - они стóят
+
+kaufen - покупать
+ich kaufe - я покупаю
+du kaufst - ты покупаешь
+er kauft - он покупает
+sie kauft - она покупает
+wir kaufen - мы покупаем
+ihr kauft - вы, ребята, покупаете
+sie kaufen - они покупают
+Sie kaufen - Вы покупаете
+
+lernen - изучать, учиться
+ich lerne - я изучаю/учусь
+du lernst - ты изучаешь/учишься
+er lernt - он изучает/учится
+sie lernt - она изучает/учится
+wir lernen - мы изучаем/учимся
+ihr lernt - вы, ребята, изучаете/учитесь
+sie lernen - они изучают/учатся
+Sie lernen - Вы изучаете/учитесь
+
+kochen - готовить
+ich koche - я готовлю
+du kochst - ты готовишь
+er kocht - он готовит
+sie kocht - она готовит
+wir kochen - мы готовим
+ihr kocht - вы, ребята, готовите
+sie kochen - они готовят
+Sie kochen - Вы готовите
+
+hören - слушать
+ich höre - я слушаю
+du hörst - ты слушаешь
+er hört - он слушает
+sie hört - она слушает
+wir hören - мы слушаем
+ihr hört - вы, ребята, слушаете
+sie hören - они слушают
+Sie hören - Вы слушаете
+
+denken - думать
+ich denke - я думаю
+du denkst - ты думаешь
+er denkt - он думает
+sie denkt - она думает
+wir denken - мы думаем
+ihr denkt - вы, ребята, думаете
+sie denken - они думают
+Sie denken - Вы думаете
+
+verstehen - понимать
+ich verstehe - я понимаю
+du verstehst - ты понимаешь
+er versteht - он понимает
+sie versteht - она понимает
+wir verstehen - мы понимаем
+ihr versteht - вы, ребята, понимаете
+sie verstehen - они понимают
+Sie verstehen - Вы понимаете
+
+brauchen - нуждаться
+ich brauche - я нуждаюсь
+du brauchst - ты нуждаешься
+er braucht - он нуждается
+sie braucht - она нуждается
+wir brauchen - мы нуждаемся
+ihr braucht - вы, ребята, нуждаетесь
+sie brauchen - они нуждаются
+Sie brauchen - Вы нуждаетесь
