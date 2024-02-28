@@ -27,7 +27,7 @@ egal - всё равно
 gleich - 1. одинаковый 2. сразу, сейчас же
 vergleichen - сравнивать
 der Vergleich - сравнение
-der Unterschid - разница
+der Unterschied - разница
 unterscheiden - различать
 unterschiedliche - разные
 
