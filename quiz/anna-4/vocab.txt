@@ -1,0 +1,71 @@
+abnehmbar - снимаемый
+unabnehmbar - неснимаемый
+machbar - осуществимый
+unmachbar - неосуществимый
+lesbar - читабельный
+unlesbar - нечитабельный
+reparierbar - чинибельный
+unreparierbar - нечинибельный
+erklärbar - объяснимый
+unerklärbar - необъяснимый
+akzeptierbar - приемлемый
+akzeptierbar - неприемлемый
+
+Mütze - шапка
+Jacke - куртка
+Kaputze - капюшон
+Schuhe - ботинки
+Hose - штаны
+
+wenn Sie darauf klicken... - когда/если вы на это кликнете
+
+es freut mich - это радует меня 
+es freut uns - это радует нас
+freut es dich? - это радует тебя?
+es freut ihn - это радует его
+es freut sie - это радует её
+ich bin froh - я рад
+bist du jetzt froh? - теперь ты рад?
+er ist sehr froh - он очень рад
+sie ist froh - она рада
+wir sind froh - мы рады
+
+umorganisieren - переорганизовать
+
+    earth
+die Erde fliegt um die Sonne - Земля летает вокруг Солнца
+
+der Umbau des alten Gebäudes - перестройка старого здания 
+
+bauen - строить
+ich baue - я строю
+du baust - ты строишь
+ich habe gebaut - я строил(а)
+du hast gebaut - ты строил(а)
+er hat gebaut - он строил
+sie hat gebaut - она строила
+er baut - он строит
+sie baut - она строит
+wir bauen - мы строим
+ihr baut - вы, ребята, строите
+sie bauen - они строят
+Sie bauen - вы строите
+wir haben gebaut - мы строили
+ihr habt gebaut - вы, ребята, строили
+sie haben gebaut - они строили
+Sie haben gebaut - Вы строили
+
+Umbau der Sowjetunion - Perestroika
+
+der Kunde - клиент
+die Kunden - клиенты
+die Kundin - клиентка
+die Kundinnen - клиентки
+
+Straßen-Umfrage - уличный опрос
+
+Online-Umfrage - онлайн опрос
+
+der Arm - рука
+umarmen - обнимать
+die Umarmung - объятие
