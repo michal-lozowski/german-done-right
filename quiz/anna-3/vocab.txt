@@ -53,4 +53,3 @@ die Entscheidung - решение (выбор)
 
 anscheinend - apparently
 scheinen - 1. shine 2. appear
-
