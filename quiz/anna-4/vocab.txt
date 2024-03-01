@@ -9,7 +9,7 @@ unreparierbar - нечинибельный
 erklärbar - объяснимый
 unerklärbar - необъяснимый
 akzeptierbar - приемлемый
-akzeptierbar - неприемлемый
+unakzeptierbar - неприемлемый
 
 Mütze - шапка
 Jacke - куртка
