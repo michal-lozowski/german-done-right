@@ -1,0 +1,99 @@
+ich habe Tee getrunken - я пил чай
+er hat Tee getrunken - он пил чай
+sie hat Tee getrunken - она пила чай
+wir haben Tee getrunken - мы пили чай
+sie haben Tee getrunken - они пили чай
+hast du [Tee oder Kaffee | Kaffee oder Tee] getrunken? - ты пил чай или кофе?
+hat er [Tee oder Kaffee | Kaffee oder Tee] getrunken? - он пил чай или кофе?
+hat sie [Tee oder Kaffee | Kaffee oder Tee] getrunken? - она пила чай или кофе?
+habt ihr [Tee oder Kaffee | Kaffee oder Tee] getrunken? - вы, ребята, пили чай или кофе?
+haben sie [Tee oder Kaffee | Kaffee oder Tee] getrunken? - они пили чай или кофе?
+haben Sie [Tee oder Kaffee | Kaffee oder Tee] getrunken? - Вы пили чай или кофе?
+
+ich habe viel gearbeitet - я много работал(а)
+du hast viel gearbeitet... - ты много работал(а)...
+er hat viel gearbeitet - он много работал
+sie hat viel gearbeitet - она много работала
+wir haben viel gearbeitet - мы много работали
+ihr habt viel gearbeitet... - вы, ребята, много работали...
+sie haben viel gearbeitet - они много работали
+Sie haben viel gearbeitet... - Вы много работали...
+
+ich bin zu Hause geblieben - я остался(ась) дома
+er ist zu Hause geblieben - он остался дома
+sie ist zu Hause geblieben - она осталась дома
+wir sind zu Hause geblieben - мы остались дома
+seid ihr zu Hause geblieben? - вы, ребята, остались дома?
+sie sind zu Hause geblieben - они остались дома
+
+ich habe [3 Monate | in Köln] gewohnt - я прожил(а) в Кёльне три месяца
+er hat [3 Monate | in Köln] gewohnt - он прожил в Кёльне три месяца
+sie hat [3 Monate | in Köln] gewohnt - она прожила в Кёльне три месяца
+wir haben [3 Monate | in Köln] gewohnt - мы прожили в Кёльне три месяца
+
+ich habe schlecht geschlafen - я плохо спал(а)
+hast du schlecht geschlafen? - ты плохо спал(а)?
+hast du gut geschlafen? - ты хорошо поспал(а)?
+haben Sie schlecht geschlafen? - Вы плохо спали?
+haben Sie gut geschlafen? - Вы хорошо спали?
+habt ihr gut geschlafen? - вы, ребята, хорошо поспали?
+
+ich bin [pünktlich | rechtzeitig] gekommen - я пришел(а) вовремя
+er ist [pünktlich | rechtzeitig] gekommen - он пришел вовремя
+sie ist [pünktlich | rechtzeitig] gekommen - она пришла вовремя
+wir sind [pünktlich | rechtzeitig] gekommen - мы пришли вовремя
+sie sind [pünktlich | rechtzeitig] gekommen - они пришли вовремя
+bist du [pünktlich | rechtzeitig] gekommen? - ты пришел(а) вовремя?
+
+ich bin nicht gekommen - я не пришел(а)
+er ist nicht gekommen - он не пришел
+sie ist nicht gekommen - она не пришла
+sie sind nicht gekommen - они не пришли
+
+ich bin mit [  | dem] Taxi gefahren - я поехал(а) на такси
+er ist mit [  | dem] Taxi gefahren - он поехал на такси
+sie ist mit [  | dem] Taxi gefahren - она поехала на такси
+wir sind mit [  | dem] Taxi gefahren - мы поехали на такси
+sie sind mit [  | dem] Taxi gefahren - они поехали на такси
+bist du mit [  | dem] Taxi gefahren? - ты поехал на такси?
+
+ich bin nicht zum Arzt gegangen - я не пошел к врачу / я не пошла к врачу
+er ist nicht zum Arzt gegangen - он не пошел к врачу
+sie ist nicht zum Arzt gegangen - она не пошла к врачу
+
+es ist schlecht [gegangen | gelaufen] - прошло плохо
+es ist gut [gegangen | gelaufen] - прошло хорошо
+es ist sehr schnell [gegangen | gelaufen] - прошло очень быстро
+
+bist du zu Fuß [gegangen | gelaufen]? - ты шел пешком? / ты шла пешком?
+seid ihr zu Fuß [gegangen | gelaufen]? - вы, ребята, шли пешком? 
+sind Sie zu Fuß [gegangen | gelaufen]? - Вы шли пешком?
+
+der Bus ist sehr langsam gefahren - автобус ехал очень медленно
+der Bus ist zu früh gekommen - автобус приехал слишком рано
+der Bus ist zu spät gekommen - автобус опоздал / автобус приехал слишком поздно
+der Bus ist nicht gekommen - автобус не пришел
+
+mein Taxi ist nicht gekommen - моё такси не пришло
+sein Taxi ist nicht gekommen - его такси не пришло
+ihr Taxi ist nicht gekommen - её такси не пришло
+unser Taxi ist nicht gekommen - наше такси не пришло
+
+[die | diese] Idee ist leider zu spät gekommen - эта идея к сожалению пришла слишком поздно
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -72,6 +72,7 @@ zum Meer $ ans Meer $ an das Meer - к морю
 zum Strand $ an den Strand - к пляжу
 zum Bahnhof - к вокзалу
 zum Flughafen - к аэропорту
+an die Wand - на стену
 
 auf dem Bild - на изображении, на картинке
 aus dem Bild - из изображения, из картинки
