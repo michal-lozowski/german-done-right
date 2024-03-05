@@ -251,7 +251,7 @@ function Question(textToShow) {
     this.show = function () {
         textSize(24)
         if (textToShow.length > 18) textSize(20)
-        if (textToShow.length > 26) textSize(16)
+        if (textToShow.length > 26) textSize(14)
         if (window.screen.width * window.screen.height < 700000) textSize(12)
         fill(0)
         text(textToShow, this.x, this.y)
@@ -274,7 +274,7 @@ function Answer(textToShow) {
         fill(0)
         textSize(24)
         if (textToShow.length > 18) textSize(20)
-        if (textToShow.length > 26) textSize(16)
+        if (textToShow.length > 26) textSize(14)
         if (window.screen.width * window.screen.height < 700000) textSize(12)
         text(textToShow, this.x, this.y)
         this.bl = [this.x, this.y + textDescent()];
