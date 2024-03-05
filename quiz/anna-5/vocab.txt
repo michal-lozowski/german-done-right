@@ -89,7 +89,7 @@ die Essgewohnheiten - привычки питания
 gleiche Essgewohnheiten - такие же привычки питания
 er hat seine Essgewohnheiten nicht geändert - он не поменял свои привычки питания
 
-wann haben Sie Zeit - когда у вас есть время?
+wann haben Sie Zeit? - когда у вас есть время?
 wann hast du Zeit? - когда у тебя есть время?
 wenn die Zeit kommt - когда придет время
 als ich jünger war - когда я была моложе
