@@ -47,6 +47,9 @@ sich entspannen - расслабляться
 entmutigen - деморализовать
 entgleisen - сходить с путей
 
+der Gleis - путь, платформа, рельсы
+der Schalter - окошко, стойка
+
 die Decke - 1. одеяло 2. потолок
 der Flaschendeckel - крышка
 decken - покрывать
