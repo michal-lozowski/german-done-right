@@ -2,7 +2,7 @@ das Buch - книга
 die Bücher - книги
 
 das Haus - дом
-die Häuser - дом
+die Häuser - дома
 
 das Ei - яйцо
 die Eier - яйца
