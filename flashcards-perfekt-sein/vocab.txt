@@ -26,10 +26,10 @@ wir sind zu Hause geblieben - мы остались дома
 seid ihr zu Hause geblieben? - вы, ребята, остались дома?
 sie sind zu Hause geblieben - они остались дома
 
-ich habe [3 Monate | in Köln] gewohnt - я прожил(а) в Кёльне три месяца
-er hat [3 Monate | in Köln] gewohnt - он прожил в Кёльне три месяца
-sie hat [3 Monate | in Köln] gewohnt - она прожила в Кёльне три месяца
-wir haben [3 Monate | in Köln] gewohnt - мы прожили в Кёльне три месяца
+ich habe (3 Monate & in Köln) gewohnt - я прожил(а) в Кёльне три месяца
+er hat (3 Monate & in Köln) gewohnt - он прожил в Кёльне три месяца
+sie hat (3 Monate & in Köln) gewohnt - она прожила в Кёльне три месяца
+wir haben (3 Monate & in Köln) gewohnt - мы прожили в Кёльне три месяца
 
 ich habe schlecht geschlafen - я плохо спал(а)
 hast du schlecht geschlafen? - ты плохо спал(а)?
