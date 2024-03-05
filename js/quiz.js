@@ -251,6 +251,7 @@ function Question(textToShow) {
     this.show = function () {
         textSize(24)
         if (textToShow.length > 18) textSize(20)
+        if (textToShow.length > 26) textSize(16)
         if (window.screen.width * window.screen.height < 700000) textSize(12)
         fill(0)
         text(textToShow, this.x, this.y)
