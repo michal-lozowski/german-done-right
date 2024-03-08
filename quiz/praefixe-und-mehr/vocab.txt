@@ -116,7 +116,6 @@ rein*gehen - заходить (внутрь)
 rein*kommen - входить (внутрь)
 raus*gehen - выходить (наружу)
 rein*fahren - въезжать (внутрь)
-rein*legen - класть (внутрь)
 raus*kommen - выходить (наружу)
 raus*fahren - выезжать (наружу)
 
