@@ -1,0 +1,47 @@
+abnehmbar - снимаемый
+unabnehmbar - неснимаемый
+machbar - осуществимый
+unmachbar - неосуществимый
+lesbar - читабельный
+unlesbar - нечитабельный
+reparierbar - чинибельный
+unreparierbar - нечинибельный
+erklärbar - объяснимый
+unerklärbar - необъяснимый
+akzeptierbar - приемлемый
+unakzeptierbar - неприемлемый
+
+der Notausgang - экстренный выход
+der Notfall - экстренный случай
+der Notdienst - экстренная служба
+der Nothahn - экстренный кран
+in der Not - в нужде, в беде
+
+nötig - нужный
+unnötig - ненужный
+benötigen - нуждаться
+
+notwendig - необходимый
+
+untersuchen - обследовать, исследовать
+
+Schwein - Sau
+
+saumüde - "pig-tired"
+
+gemeinsam - common
+
+pauschal - alles zusammen
+
+
+
+
+
+
+
+
+
+
+
+
+
