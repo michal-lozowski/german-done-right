@@ -67,8 +67,8 @@ um die Sonne - вокруг Солнца
 um die Erde - вокруг Земли
 um die Welt - вокруг света
 um die Ecke - за углом
-der Dreieck - треугольник
-der Rechteck - прямоугольник
+das Dreieck - треугольник
+das Rechteck - прямоугольник
 die Umgebung - окружение
 der Umbau des alten Gebäudes - перестройка старого здания
 der Umweg - обходной путь
