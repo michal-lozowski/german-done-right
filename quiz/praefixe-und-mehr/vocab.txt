@@ -115,7 +115,6 @@ aus*schalten - выключать
 rein*gehen - заходить (внутрь)
 rein*kommen - входить (внутрь)
 raus*gehen - выходить (наружу)
-raus*legen - выкладывать (наружу)
 rein*fahren - въезжать (внутрь)
 rein*legen - класть (внутрь)
 raus*kommen - выходить (наружу)
