@@ -1,9 +1,19 @@
 der Hinweis - указание, подсказка
 hin*weisen - указывать
+die Überweisung - денежный перевод / направление к врачу
 der Wegweiser - путеуказатель
 der Beweis / der Nachweis - доказательство
-beweisen / nach*weisen - доказывать
-Sprachniveau nachweisen - доказать языковой уровень
+beweisen / nach*weisen - доказывать, подтверждать
+Sprachniveau nachweisen - доказать/подтвердить языковой уровень
+Sprachkenntnisse nachweisen - доказать/подтвердить языковые знания
+Richtigkeit nachweisen - доказать правильность
+Umweltfreundlichkeit nachweisen - доказать/подтвердить экологичность
+bewiesene Effizienz - доказанная эффективность
+unbewiesene Effizienz - недоказанная эффективность
+Theorem beweisen - доказать теорему
+ich kann es beweisen - я могу это доказать
+ich kann es nicht beweisen - я не могу этого доказать
+können Sie es beweisen? - вы можете это доказать?
 
 die Überweisung - денежный перевод / направление к врачу
 die Übersetzung - перевод
@@ -16,9 +26,14 @@ die Schlüsselübergabe - передача ключей
 überreden - переубедить, уговорить
 Geld überweisen - перевести деньги
 auf das Konto überweisen - перевести на счёт
+über Katzen - о котах
+über Fastfood - о фастфуде
 über 2 Mio. Menschen - более 2 млн людей
 über 30 Grad - больше 30 градусов
 über 900 Euro - более 900 евро
+über Gesundheit - о здоровье
+über alltägliche Themen - про повседневные темы
+über uns - о нас
 
 abnehmbar - снимаемый
 unabnehmbar - неснимаемый
@@ -32,6 +47,14 @@ erklärbar - объяснимый
 unerklärbar - необъяснимый
 akzeptierbar - приемлемый
 unakzeptierbar - неприемлемый
+sichtbar - видимый
+unsichtbar - невидимый
+kontrollierbar - контролируемый
+unkontrollierbar - неконтролируемый
+lösbar - решаемый, решабельный
+unlösbar - нерешаемый, нерешабельный
+realisierbar - реализуемо
+unrealisierbar - нереализуемо
 
 der Eingang - вход
 der Ausgang - выход
@@ -41,6 +64,11 @@ der Notausgang - экстренный выход
 der Notfall - экстренный случай
 der Notdienst - экстренная служба
 der Nothahn - экстренный кран
+die Notaufnahme - экстренная приемная в больнице
+der Notarzt - врач скорой помощи
+der Notruf - экстренный вызов, звонок SOS
+die Notpumpe - аварийный насос
+die Notausschaltung - аварийное отключение
 in der Not - в нужде, в беде
 nötig - нужный
 unnötig - ненужный
@@ -49,6 +77,7 @@ notwendig - необходимый
 
 weg*fahren - уезжать прочь
 weg*laufen - убегать прочь
+weg*werfen - выбрасывать
 weg*gehen - уходить прочь
 der Umweg - обходной путь
 los*fahren - начинать ехать
@@ -58,15 +87,25 @@ los*fliegen - начинать лететь, взлетать
 weg*fliegen - улетать прочь
 weg*machen - убирать прочь
 
+um*bauen - перестроить, переделать
 um*organisieren - переорганизовать
 um*stellen - переставить
 um*ziehen - переезжать
+um*formulieren - переформулировать, сформулировать иначе
+die Umschulung - переквалификация, переобучение
 der Umzug - переезд
+um*formen - переобразовать, преобразовывать
 die Zeitumstellung - перевод часов
+die Umstrukturierung - реструктуризация
+der Umbau - перестройка
+die Umplanung - перепланировка, изменение плана
 um die Sonne - вокруг Солнца
 um die Erde - вокруг Земли
 um die Welt - вокруг света
 um die Ecke - за углом
+um den Tisch - вокруг стола
+um den Park - вокруг парка
+um den Berg - вокруг горы
 das Dreieck - треугольник
 das Rechteck - прямоугольник
 die Umgebung - окружение
@@ -119,13 +158,19 @@ rein*fahren - въезжать (внутрь)
 raus*kommen - выходить (наружу)
 raus*fahren - выезжать (наружу)
 
+auf*steigen - подниматься
 auf dem Sofa - на диване
 auf dem Bett - на кровати
-auf*stehen - вставать
 auf*wachen - просыпаться
+auf*stehen - вставать
 die Aufnahme - 1. прием 2. запись (например видео)
+auf*rufen - призывать, взывать
 die Notaufnahme - экстренная приемная в больнице
 der Aufzug - лифт
+auf*ziehen - поднимать, тянуть наверх (z.B. шторы)
+auf*springen - вскакивать
+auf*klettern - карабкаться наверх
+auf*tauchen - выныривать из воды
 die Aufgabe - задание
 auf dem Tisch - на столе
 auf dem Bild - на картинке
