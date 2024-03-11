@@ -177,11 +177,15 @@ auf dem Bild - на картинке
 
 aus*ziehen - выезжать из квартиры
 der Auszug - выезд из квартиры
+die Umzugsfirma - транспортная компания (переезд, перевозка вещей)
 der Kontoauszug - банковская выписка по счёту
 ein*ziehen - въезжать в квартиру
 der Einzug - въезд в квартиру
 um*ziehen - переезжать
 der Umzug - переезд
+der Abzug - вытяжка (в кухне)
+der Umzugswagen - грузовик для переезда
+das Umzugsunternehmen - транспортная компания (переезд, перевозка вещей)
 an*ziehen - надевать
 ziehen - тянуть
 der Zug - 1. поезд 2. затяжка 3. ход в игре
