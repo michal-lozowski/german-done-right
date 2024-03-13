@@ -1,16 +1,23 @@
 der Hinweis - указание, подсказка
 hin*weisen - указывать
 die Überweisung - денежный перевод / направление к врачу
+Geld überweisen - перевести деньги
 der Wegweiser - путеуказатель
 der Beweis / der Nachweis - доказательство
 beweisen / nach*weisen - доказывать, подтверждать
 Sprachniveau nachweisen - доказать/подтвердить языковой уровень
 Sprachkenntnisse nachweisen - доказать/подтвердить языковые знания
+Überweisung zum Physiotherapeuten - направление к физиотерапевту
+Überweisung zum Hautarzt - направление к кожному врачу
+Überweisung zum Endokrinologen - направление к эндкринологу
 Richtigkeit nachweisen - доказать правильность
 Umweltfreundlichkeit nachweisen - доказать/подтвердить экологичность
 bewiesene Effizienz - доказанная эффективность
 unbewiesene Effizienz - недоказанная эффективность
+auf das Bankkonto überweisen - перевести на банковский счёт
 Theorem beweisen - доказать теорему
+Überweisung zum Kardiologen - направление к кардиологу
+Überweisung zum Augenarzt - направление к глазному врачу
 ich kann es beweisen - я могу это доказать
 ich kann es nicht beweisen - я не могу этого доказать
 können Sie es beweisen? - вы можете это доказать?
@@ -29,6 +36,7 @@ auf das Konto überweisen - перевести на счёт
 über Katzen - о котах
 über Fastfood - о фастфуде
 über 2 Mio. Menschen - более 2 млн людей
+über 3 Mio. Menschen - более 3 млн людей
 über 30 Grad - больше 30 градусов
 über 900 Euro - более 900 евро
 über Gesundheit - о здоровье
@@ -70,8 +78,9 @@ der Notruf - экстренный вызов, звонок SOS
 die Notpumpe - аварийный насос
 die Notausschaltung - аварийное отключение
 in der Not - в нужде, в беде
-nötig - нужный
 unnötig - ненужный
+wir benötigen - нам нужно
+nötig - нужный
 benötigen - нуждаться
 notwendig - необходимый
 
@@ -91,6 +100,7 @@ um*bauen - перестроить, переделать
 um*organisieren - переорганизовать
 um*stellen - переставить
 um*ziehen - переезжать
+der Umstieg - пересадка (z.B. Zug → Bus)
 um*formulieren - переформулировать, сформулировать иначе
 die Umschulung - переквалификация, переобучение
 der Umzug - переезд
@@ -151,12 +161,18 @@ beachten - обращать внимание на
 ein*schalten - включать
 aus*schalten - выключать
 
-rein*gehen - заходить (внутрь)
-rein*kommen - входить (внутрь)
+rein*gehen - входить (внутрь)
 raus*gehen - выходить (наружу)
+ein*steigen - садиться в транспорт
+aus*steigen - выходить из транспорта
 rein*fahren - въезжать (внутрь)
 raus*kommen - выходить (наружу)
 raus*fahren - выезжать (наружу)
+rein*kommen - входить (внутрь)
+der Eingang - вход
+der Ausgang - выход
+die Einfahrt - въезд
+die Ausfahrt - выезд
 
 auf*steigen - подниматься
 auf dem Sofa - на диване
