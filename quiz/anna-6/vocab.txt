@@ -48,6 +48,11 @@ um*steigen - пересаживаться (например из поезда в
 im Durchschnitt - в среднем
 durch ganz Deutschland - через всю Германию
 ein*schlafen - засыпать
+in/nach 2 Wochen - через 2 недели
+in/nach 5 Minuten - через 5 минут
+in/nach einer Stunde - через час
+in/nach 5 Monaten - через 5 месяцев
+in/nach einem Jahr - через год
 durch*schlafen - проспать (всю ночь)
 die Seine fließt durch Paris - Сена течёт через Париж
 durch den Wald - через лес, сквозь лес
