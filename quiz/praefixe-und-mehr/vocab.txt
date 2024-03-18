@@ -29,7 +29,7 @@ die Übersicht - обзор, overview
 die Schlüsselübergabe - передача ключей
 über die Straße - через дорогу
 übernachten - переночевать
-übernehmen - принимать на себя
+übernehmen - перенимать
 überreden - переубедить, уговорить
 Geld überweisen - перевести деньги
 auf das Konto überweisen - перевести на счёт
