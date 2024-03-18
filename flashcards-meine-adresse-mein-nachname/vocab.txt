@@ -1,0 +1,77 @@
+mein Auto - моя машина
+dein Auto - твоя машина
+sein Auto - его машина
+ihr Auto - её машина
+unser Auto - наша машина
+euer Auto - ваша, ребята, машина
+ihr Auto - их машина
+Ihr Auto - Ваша машина
+
+mein Leben - моя жизнь
+dein Leben - твоя жизнь
+sein Leben - его жизнь
+ihr Leben - её жизнь
+unser Leben - наша жизнь
+euer Leben - ваша, ребята, жизнь
+ihr Leben - их жизнь
+Ihr Leben - Ваша жизнь
+
+mein Geburtsdatum - моя дата рождения
+dein Geburtsdatum - твоя дата рождения
+sein Geburtsdatum - его дата рождения
+ihr Geburtsdatum - её дата рождения
+unser Geburtsdatum - наша дата рождения
+euer Geburtsdatum - ваша, ребята, дата рождения
+ihr Geburtsdatum - их дата рождения
+Ihr Geburtsdatum - Ваша дата рождения
+
+meine Adresse - мой адрес
+deine Adresse - твой адрес
+seine Adresse - его адрес
+ihre Adresse - её адрес
+unsere Adresse - наш адрес
+eure Adresse - ваш адрес, ваш, ребята, адрес
+ihre Adresse - их адрес
+Ihre Adresse - Ваш адрес
+
+meine Telefonnummer - мой номер телефона
+deine Telefonnummer - твой номер телефона
+seine Telefonnummer - его номер телефона
+ihre Telefonnummer - её номер телефона
+Ihre Telefonnummer - Ваш номер телефона
+
+meine Wohnung - моя квартира
+deine Wohnung - твоя квартира
+seine Wohnung - его квартира
+ihre Wohnung - её квартира
+unsere Wohnung - наша квартира
+eure Wohnung - ваша, ребята, квартира
+ihre Wohnung - их квартира
+Ihre Wohnung - Ваша квартира
+
+meine Frage - мой вопрос
+deine Frage - твой вопрос
+seine Frage - его вопрос
+ihre Frage - её вопрос
+unsere Frage - наш вопрос
+eure Frage - ваш, ребята, вопрос
+ihre Frage - их вопрос
+Ihre Frage - Ваш вопрос
+
+mein Vorname - моё имя
+dein Vorname - твоё имя
+sein Vorname - его имя
+ihr Vorname - её имя
+unser Vorname - наше имя
+ihr Vorname - их имя
+Ihr Vorname - Ваше имя
+
+mein Nachname - моя фамилия
+dein Nachname - твоя фамилия
+sein Nachname - его фамилия
+ihr Nachname - её фамилия
+unser Nachname - наша фамилия
+euer Nachname - ваша, ребята, фамилия
+ihr Nachname - их фамилия
+Ihr Nachname - Ваша фамилия
+
