@@ -78,14 +78,14 @@ unser Koffer - наш чемодан
 ihr Koffer - их чемодан
 Ihr Koffer - Ваш чемодан
 
-meine Sachen - мои вещи
-deine Sachen - твои вещи
-seine Sachen - его вещи
-ihre Sachen - её вещи
-unsere Sachen - наши вещи
-eure Sachen - ваши, ребята, вещи
-ihre Sachen - их вещи
-Ihre Sachen - Ваши вещи
+meine [Sachen | Dinge] - мои вещи
+deine [Sachen | Dinge] - твои вещи
+seine [Sachen | Dinge] - его вещи
+ihre [Sachen | Dinge] - её вещи
+unsere [Sachen | Dinge] - наши вещи
+eure [Sachen | Dinge] - ваши, ребята, вещи
+ihre [Sachen | Dinge] - их вещи
+Ihre [Sachen | Dinge] - Ваши вещи
 
 meine Freunde - мои друзья
 deine Freunde - твои друзья
