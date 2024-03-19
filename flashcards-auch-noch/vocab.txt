@@ -23,6 +23,11 @@ nichts komisches $ nichts Komisches - ничего смешного
 nichts schlechtes $ nichts Schlechtes $ nichts schlimmes $ nichts Schlimmes - ничего плохого
 
 aber - но
+aber [ok | okay | OK] - но ок
+aber warum? - но почему?
+aber wie? - но как?
+aber ich kann nicht - но я не могу
+aber sie wollen nicht - но они не хотят
 aber es war falsch - но это было неправильно
 aber ich war zu spät - но я опоздал
 aber er war zu spät - но он опоздал
@@ -124,29 +129,80 @@ noch kleiner - ещё меньше (о размере)
 noch teurer - ещё дороже
 noch mehr - ещё больше (о количестве)
 noch weniger - ещё меньше (о количестве)
-noch eine Sache $ noch ein Ding- ещё одна вещь
+noch eine Sache $ noch ein Ding - ещё одна вещь
 noch etwas - ещё что-то
 noch eine Frage - ещё один вопрос
 noch ein Problem - ещё одна проблема
 noch ein Buch - ещё одна книга
+noch ein bisschen - еще немного
 
 schon fertig - уже готово
 schon da $ schon hier - уже здесь
 
 wieder - снова
 wieder zu spät - снова опоздал(а) / снова слишком поздно
-wieder da $ wieder hier- снова здесь
+wieder da $ wieder hier - снова здесь
 wieder gesund - снова здоров
+wieder krank - снова болен, снова заболел(а)
 wieder wie neu - снова как новый
 wieder vergessen - снова забыл
+wieder arbeiten - снова работать
+wieder nach Berlin - снова в Берлин
+wieder nach München - снова в Мюнхен
+wieder das! - снова это!
+wieder Montag... - снова понедельник...
+wieder Wochenende! - снова выходные!
 
 weiter - дальше
+wir gehen weiter - мы идем дальше
+das Leben geht weiter - жизнь идет дальше
+die Proteste gehen weiter - протесты идут дальше / протесты продолжаются дальше
+wir müssen weiter arbeiten - мы должны работать дальше / нам нужно работать дальше
+ein bisschen weiter - немного дальше / чуть дальше
+nicht so weit - не так далеко
+< zurück | weiter > - < назад | далее >
 
 nur - только, лишь
 nur 5 Euro - всего лишь 5 евро
 nur hier - только здесь
 nur heute - только сегодня
 nur jetzt - только сейчас
-nur 1 Ticket - только один билет
+nur [1 | ein] Ticket - только один билет
 nur 1 Person $ nur eine Person $ nur 1 Mensch $ nur ein Mensch - только один человек
+
+ich komme gleich! - я сейчас приду!
+er kommt gleich - он сейчас придет
+sie kommt gleich - она сейчас придет
+wir kommen gleich - мы сейчас придем
+mein Zug kommt gleich - мой поезд сейчас придет
+mein Bus kommt gleich - мой автобус сейчас придет
+unser Zug kommt gleich - наш поезд сейчас придет
+unser Bus kommt gleich - наш автобус сейчас придет
+ich erkläre es dir gleich $ gleich erkläre ich es dir - сейчас я тебе это объясню
+ich mache es gleich - сейчас я это сделаю / я сделаю это сейчас же
+
+schon heute?! $ schon heute!? - уже сегодня?!
+schon jetzt[?! | !?] - уже сейчас?!
+schon zu spät - уже слишком поздно
+schon nächste Woche - уже на следующей неделе
+schon morgen[?! | !?] - уже завтра?!
+schon [nächstes Jahr | im nächsten Jahr] - уже в следующем году
+schon wieder - уже опять / уже снова
+schon nicht [  | mehr] heute - уже не сегодня
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
