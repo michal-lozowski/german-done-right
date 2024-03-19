@@ -20,9 +20,6 @@ mein Geburtsdatum - моя дата рождения
 dein Geburtsdatum - твоя дата рождения
 sein Geburtsdatum - его дата рождения
 ihr Geburtsdatum - её дата рождения
-unser Geburtsdatum - наша дата рождения
-euer Geburtsdatum - ваша, ребята, дата рождения
-ihr Geburtsdatum - их дата рождения
 Ihr Geburtsdatum - Ваша дата рождения
 
 meine Adresse - мой адрес
@@ -62,8 +59,6 @@ mein Vorname - моё имя
 dein Vorname - твоё имя
 sein Vorname - его имя
 ihr Vorname - её имя
-unser Vorname - наше имя
-ihr Vorname - их имя
 Ihr Vorname - Ваше имя
 
 mein Nachname - моя фамилия
@@ -75,3 +70,37 @@ euer Nachname - ваша, ребята, фамилия
 ihr Nachname - их фамилия
 Ihr Nachname - Ваша фамилия
 
+mein Koffer - мой чемодан
+dein Koffer - твой чемодан
+sein Koffer - его чемодан
+ihr Koffer - её чемодан
+unser Koffer - наш чемодан
+ihr Koffer - их чемодан
+Ihr Koffer - Ваш чемодан
+
+meine Sachen - мои вещи
+deine Sachen - твои вещи
+seine Sachen - его вещи
+ihre Sachen - её вещи
+unsere Sachen - наши вещи
+eure Sachen - ваши, ребята, вещи
+ihre Sachen - их вещи
+Ihre Sachen - Ваши вещи
+
+meine Freunde - мои друзья
+deine Freunde - твои друзья
+seine Freunde - его друзья
+ihre Freunde - её друзья
+unsere Freunde - наши друзья
+eure Freunde - ваши, ребята, друзья
+ihre Freunde - их друзья
+Ihre Freunde - Ваши друзья
+
+meine Ideen - мои идеи
+deine Ideen - твои идеи
+seine Ideen - его идеи
+ihre Ideen - её идеи
+unsere Ideen - наши идеи
+eure Ideen - ваши, ребята, идеи
+ihre Ideen - их идеи
+Ihre Ideen - Ваши идеи
