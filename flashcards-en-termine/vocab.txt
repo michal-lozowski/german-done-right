@@ -1,0 +1,122 @@
+vereinbaren - to arrange
+verschieben - to move, to reschedule
+absagen - to cancel
+stornieren - to cancel
+bekommen - to receive
+
+ich habe gestern angerufen - I called yesterday
+ich habe am Montag angerufen - I called on Monday
+früher - earlier
+später - later
+
+er hat seinen Termin [abgesagt | storniert] - he cancelled his appointment
+sie hat ihren Termin [abgesagt | storniert] - she cancelled her appointment
+
+ich habe einen Termin - I have an appointment
+ich habe keinen Termin - I don't have an appointment
+wir haben einen Termin - we have an appointment
+wir haben keinen Termin - we don't have an appointment
+haben Sie einen Termin? - do you have an appointment? (formal tone)
+
+möchten Sie Ihren Termin verschieben? - would you like to reschedule your appointment? (formal tone)
+möchten Sie Ihren Termin [absagen | stornieren]? - would you like to cancel your appointment? (formal tone)
+
+er versteht mich nicht - he doesn't understand me
+sie versteht mich nicht - she doesn't understand me
+er versteht uns nicht - he doesn't understand us
+sie versteht uns nicht - she doesn't understand us
+
+mein Geburtsdatum - my date of birth
+sein Geburtsdatum - his date of birth
+ihr Geburtsdatum - her date of birth
+Ihr Geburtsdatum - your date of birth (formal tone)
+
+mein Vorname - my first name
+sein Vorname - his first name
+ihr Vorname - her first name
+Ihr Vorname - your first name (formal tone)
+
+mein [Nachname | Familienname] - my last name
+sein [Nachname | Familienname] - his last name
+ihr [Nachname | Familienname] - her last name
+Ihr [Nachname | Familienname] - your last name (formal tone)
+
+meine [Adresse | Anschrift | Wohnadresse] - my address
+seine [Adresse | Anschrift | Wohnadresse] - his address
+ihre [Adresse | Anschrift | Wohnadresse] - her address
+unsere [Adresse | Anschrift | Wohnadresse] - our address
+Ihre [Adresse | Anschrift | Wohnadresse] - your address (formal tone)
+
+meine [Nummer | Handynummer | Telefonnummer | Rufnummer] - my telephone number
+seine [Nummer | Handynummer | Telefonnummer | Rufnummer] - his telephone number
+ihre [Nummer | Handynummer | Telefonnummer | Rufnummer] - her telephone number
+Ihre [Nummer | Handynummer | Telefonnummer | Rufnummer] - your telephone number (formal tone)
+
+meine Kundennummer - my customer number
+seine Kundennummer - his customer number
+ihre Kundennummer - her customer number
+Ihre Kundennummer - your customer number (formal tone)
+
+meine [Versichertenkarte | Gesundheitskarte] - my health insurance card
+seine [Versichertenkarte | Gesundheitskarte] - his health insurance card
+ihre [Versichertenkarte | Gesundheitskarte] - her health insurance card
+Ihre [Versichertenkarte | Gesundheitskarte] - your health insurance card (formal tone)
+
+ich muss [den | meinen] Termin leider [absagen | stornieren] $ leider muss ich [den | meinen] Termin [absagen | stornieren] - unfortunately I have to cancel the appointment
+wir müssen [den | unseren] Termin leider [absagen | stornieren] $ leider müssen wir [den | unseren] Termin [absagen | stornieren] - unfortunately we have to cancel the appointment
+ich kann (heute & leider) nicht kommen $ heute kann ich leider nicht kommen $ leider kann ich heute nicht kommen - unfortunately I can't come today
+wir können (heute & leider) nicht kommen $ heute können wir leider nicht kommen $ leider können wir heute nicht kommen - unfortunately we can't come today
+
+können wir den Termin verschieben? - can we reschedule the appointment?
+können wir den Termin auf [  | die] nächste Woche verschieben? - can we reschedule the appointment for the next week?
+können wir den Termin auf März verschieben? - can we reschedule the appontment for March?
+
+kann ich mit Herrn Steiner sprechen? - can I speak with Herrn Schneider?
+kann ich mit Herrn Müller sprechen? - can I speak with Herrn Müller? 
+kann ich mit Frau Holz sprechen? - can I speak with Frau Holz?
+kann ich mit Frau Grube sprechen? - can I speak with Frau Grube?
+
+ich brauche einen Termin - I need an appointment
+wir brauchen einen Termin - we need an appointment
+können wir einen Termin vereinbaren? - can we arrange an appointment?
+können wir einen Termin bekommen? - can we get an appointment?
+kann ich einen Termin bekommen? - can I get an appointment?
+
+wir können Ihnen leider keinen Termin geben $ leider können wir Ihnen keinen Termin geben - unfortunately we can't give you an appointment (formal tone)
+wir können Ihnen leider keinen Termin anbieten $ leider können wir Ihnen keinen Termin anbieten - unfortunately we can't offer you an appointment (formal tone)
+wir haben leider keine Termine [  | frei] $ leider haben wir keine Termine [  | frei] - unfortunately we don't have any appointments (available)
+sie haben keine Termine [  | frei] - they have no appointments (available)
+in den nächsten 5 Monaten haben wir keine Termine [  | frei] $ wir haben in den nächsten 5 Monaten keine Termine [  | frei] - in the next 5 months we don't have any appointments (available)
+
+nehmen Sie Neupatienten auf? $ akzeptieren Sie Neupatienten? - do you accept new patients? (formal tone)
+
+vormittags oder nachmittags? $ am Vormittag oder am Nachmittag? - in the morning or afternoon?
+wann haben Sie Zeit? - when do you have time? (formal tone)
+[ | am] Montag oder [ | am] Dienstag? - Monday or Tuesday?
+[ | am] Montag oder vielleicht [ | am] Dienstag? - Monday or maybe Tuesday?
+[ | am] Mittwoch oder [ | am] Donnerstag? - Wednesday or Thursday?
+[ | am] Mittwoch oder vielleicht [ | am] Donnerstag? - Wednesday or maybe Thursday?
+[ | am] Donnerstag oder [ | am] Freitag? - Thursday or Friday?
+[ | am] Donnerstag oder vielleicht [ | am] Freitag? - Thursday or maybe Friday?
+
+arbeiten Sie auch [samstags | am Samstag]? - do you work on Saturdays as well?
+[haben | sind] Sie auch [samstags | am Samstag] [geöffnet | offen]? - are you open on Saturdays as well?
+heute [haben | sind] wir [geöffnet | offen] - today we're open
+morgen [haben | sind] wir [geöffnet | offen] - tomorrow we're open
+nächste Woche [haben | sind] wir [geöffnet | offen] - next week we're open
+morgen [haben | sind] wir geschlossen - tomorrow we're closed
+nächste Woche [haben | sind] wir geschlossen - next week we're closed
+die Praxis [hat | ist] [geöffnet | offen] - the doctor's office is open
+die Praxis [hat | ist] geschlossen - the doctor's office is closed
+das Büro [hat | ist] [geöffnet | offen] - the office is open
+das Büro [hat | ist] geschlossen - the office is closed
+
+ja, Montag Nachmittag [geht | passt | ist gut] - yes, Monday afternoon works well (e.g. regarding an appointment)
+nein, Dienstag Vormittag [geht | passt] nicht - no, Tuesday morning won't work (e.g. regarding an appointment)
+nein, Mittwoch Nachmittag [geht | passt] leider nicht $ nein, leider [geht | passt] Mittwoch Nachmittag nicht - no, Wednesday afternoon unfortunately won't work
+
+nächste Woche kann ich nicht $ ich kann nächste Woche nicht - next week I can't
+diese Woche kann ich nicht $ ich kann diese Woche nicht - this week I can't
+
+wir [schicken | senden] (Ihnen & die Rechnung & per Post) - we'll send you the invoice by mail
+wir [schicken | senden] (Ihnen & die Rechnung & per E-Mail) - we'll send you the invoice by e-mail

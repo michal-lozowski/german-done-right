@@ -15,7 +15,7 @@ sie hat ihren Termin [abgesagt | storniert] - она отменила свой �
 ich habe einen Termin - у меня есть термин
 ich habe keinen Termin - у меня нет термина
 wir haben einen Termin - у нас есть термин
-wir haben keinen Termin - у нее нет термина
+wir haben keinen Termin - у нас нет термина
 haben Sie einen Termin? - у Вас есть термин?
 
 möchten Sie Ihren Termin verschieben? - вы хотели бы перенести ваш термин?
