@@ -190,8 +190,20 @@ schon [nächstes Jahr | im nächsten Jahr] - уже в следующем год
 schon wieder - уже опять / уже снова
 schon nicht [ | mehr] heute - уже не сегодня
 
+erst morgen - ещё только завтра
+erst nächste Woche - ещё только на следующей неделе
+erst in 2 Wochen - ещё только через 2 недели
+erst in 2 Monaten - ещё только через 2 месяца
+erst [nächstes Jahr | im nächsten Jahr] - ещё только в следующем году
+erst in 3 Wochen - ещё только через 3 недели
+erst in 3 Monaten - ещё только через 3 месяца
 
-
-
-
+er ist gerade gekommen - он только что пришел
+sie ist gerade gekommen - она только что пришла
+ich habe [es | das] gerade gesagt - я это только что сказал
+ich habe [es | das] gerade gesehen - я это только что видел
+Sie haben [es | das] gerade gesagt - Вы это только что сказали
+ich habe Sie gerade angerufen - я только что звонил вам
+er hat gerade angerufen - он только что звонил
+sie hat gerade angerufen - она только что звонила
 
