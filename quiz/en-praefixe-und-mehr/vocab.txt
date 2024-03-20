@@ -1,0 +1,252 @@
+der Hinweis - note, indication
+hin*weisen - point out, indicate
+die Überweisung - money transfer / referral, transfer to another doctor
+Geld überweisen - to transfer money
+der Wegweiser - signpost, guide
+der Beweis / der Nachweis - proof, indication
+beweisen / nach*weisen - to prove
+Sprachniveau nachweisen - to prove the language level
+Sprachkenntnisse nachweisen - to prove the language skills
+Überweisung zum Physiotherapeuten - referral to a physical therapist
+Überweisung zum Hautarzt - referral to a dermatologist
+Überweisung zum Endokrinologen - referral to an endocrinologist
+Richtigkeit nachweisen - to prove correctness
+Umweltfreundlichkeit nachweisen - to prove environmental friendliness
+bewiesene Effizienz - proven efficiency
+unbewiesene Effizienz - unproven efficiency
+auf das Bankkonto überweisen - transfer to a bank account
+Theorem beweisen - prove a theorem
+Überweisung zum Kardiologen - referral to a cardiologist
+Überweisung zum Augenarzt - referral to an eye doctor
+ich kann es beweisen - I can prove it
+ich kann es nicht beweisen - I can't prove it
+können Sie es beweisen? - can you prove it?
+
+die Überweisung - money transfer / referral, transfer to another doctor
+die Übersetzung - translation
+Überstunden - overtime
+die Übersicht - overview
+die Schlüsselübergabe - key handover
+über die Straße - across/over the street
+übernachten - sleep over
+übernehmen - take over
+überreden - persuade
+Geld überweisen - to tranfer money
+auf das Konto überweisen - to transfer to a bank account
+über Katzen - about cats
+über Fastfood - about fastfood
+über 2 Mio. Menschen - over 2 million people 
+über 3 Mio. Menschen - over 2 million people 
+über 30 Grad - over 30 degrees
+über 900 Euro - over 900 euros
+über Gesundheit - about health
+über alltägliche Themen - about everyday topics
+über uns - о нас
+
+abnehmbar - removable
+unabnehmbar - non-removable
+machbar - doable
+unmachbar - not doable
+lesbar - readable
+unlesbar - unreadable
+reparierbar - repairable
+unreparierbar - irreparable
+erklärbar - explainable
+unerklärbar - inexplicable
+akzeptierbar - acceptable
+unakzeptierbar - unacceptable
+sichtbar - visible
+unsichtbar - invisible
+kontrollierbar - controllable
+unkontrollierbar - uncontrollable
+lösbar - solvable
+unlösbar - unsolvable
+
+der Eingang - entrance (pedestrians)
+der Ausgang - exit (pedestrians)
+die Einfahrt - entrance (cars)
+die Ausfahrt - exit (cars)
+der Notausgang - emergency exit
+der Notfall - emergency situation
+der Notdienst - emergency service
+der Nothahn - emergency valve
+die Notaufnahme - emergency room
+der Notarzt - emergency doctor
+der Notruf - emergency call
+die Notpumpe - emergency pump
+die Notausschaltung - emergency stop
+nötig - necessary
+unnötig - unnecessary
+wir benötigen - we need
+benötigen - need
+notwendig - necessary
+
+weg*fahren - drive away 
+weg*laufen - run away 
+weg*werfen - throw away 
+weg*gehen - go away 
+der Umweg - the detour 
+los*fahren - drive off 
+los*laufen - to start running
+los*gehen - to get going
+los*fliegen - take off, start flying
+weg*fliegen - fly away 
+weg*machen - make go away
+
+um*bauen - rebuild 
+um*organisieren - reorganize 
+um*stellen - rearrange 
+um*ziehen - move, relocate 
+der Umstieg - the change (bus, train, etc)
+um*formulieren - reformulate 
+die Umschulung - retraining
+der Umzug - the move, relocation
+um*formen - reshape 
+die Zeitumstellung - time change 
+die Umstrukturierung - restructuring 
+der Umbau - reconstruction 
+die Umplanung - re-planning 
+um die Sonne - around the sun 
+um die Erde - around the earth 
+um die Welt - around the world 
+um die Ecke - around the corner 
+um den Tisch - around the table 
+um den Park - around the park 
+um den Berg - around the mountain 
+das Dreieck - triangle 
+das Rechteck - rectangle 
+die Umgebung - surroundings 
+der Umbau des alten Gebäudes - reconstruction of the old building 
+der Umweg - detour
+Umbau der Sowjetunion - restructuring of the Soviet Union 
+Straßenumfrage - street survey
+Online-Umfrage - online survey
+die Umwelt - environment 
+die Umleitung - redirection, detour 
+die Leitung - direction, management 
+die Geschäftsleitung - management 
+der Leiter - manager (male) 
+die Leiterin - manager (female)
+
+an*machen - turn on
+aus*machen - turn off
+auf*machen - to open
+zu*machen - to close
+
+sprechen - to speak
+besprechen - to discuss
+die Besprechung - the discussion
+die Beschreibung - the description
+schreiben - write
+beschreiben - describe
+arbeiten - to work
+bearbeiten - to edit
+lieben - to love
+die Liebe - the love
+leben - to live
+das Leben - life
+wohnen - to reside
+die Wohnung - apartment
+bewohnen - inhabit
+das Ende - the end
+das Wochenende - weekend
+beenden - finish
+
+ein*schalten - turn on
+aus*schalten - turn off
+
+rein*gehen - go in
+raus*gehen - go out
+ein*steigen - to board, to embark
+aus*steigen - get off, disembark
+rein*fahren - to drive in
+raus*kommen - to come out
+raus*fahren - to drive out
+rein*kommen - come inside
+der Eingang - the entrance (pedestrians)
+der Ausgang - the exit (pedestrians)
+die Einfahrt - the entrance (pedestrians)
+die Ausfahrt - the exit (pedestrians)
+
+auf*steigen - to rise
+auf dem Sofa - on the sofa 
+auf dem Bett - on the bed 
+auf*wachen - wake up 
+auf*stehen - stand up 
+die Aufnahme - recording / reception
+auf*rufen - to call (up)
+die Notaufnahme - emergency room
+der Aufzug - elevator
+auf*ziehen - pull up 
+auf*springen - jump up 
+auf*klettern - climb up 
+auf*tauchen - to pop up
+die Aufgabe - task 
+auf dem Tisch - on the table 
+auf dem Bild - on the picture
+
+aus*ziehen - to move out 
+der Auszug - moving out / excerpt
+die Umzugsfirma - moving company 
+der Kontoauszug - bank statement
+ein*ziehen - move in
+der Einzug - the moving in 
+um*ziehen - to move, to relocate
+der Umzug - the move, relocation
+der Abzug - deduction 
+der Umzugswagen - moving van 
+das Umzugsunternehmen - moving company
+an*ziehen - to put on
+ziehen - pull
+der Zug - the train / drag / pull
+aus*ziehen - to take clothes off / to move out
+drücken - to push
+der Druck - the pressure
+der Drucker - printer 
+der Ausdruck - expression
+der Eindruck - impression 
+großen Eindruck gemacht - made a great impression 
+interessanter Ausdruck - interesting expression
+
+mit*kommen - come along  
+mit*fahren - ride along  
+mit*nehmen - take along  
+mit*spielen - play along  
+mit*singen - sing along  
+mit*essen - eat along  
+mit*machen - join in  
+mit*bringen - bring along
+
+ab*holen - to pick up  
+die Abholung - the pickup, collection  
+ab*geben - hand over, give away
+ab*sagen - to cancel  
+die Absage - cancellation  
+die Terminabsage - appointment cancellation  
+ab*bauen - dismantle
+ab*laufen - expire
+die Ablauffrist - deadline  
+ab*brechen - cancel  
+speichern - save
+
+nehmen - take
+entnehmen - extract
+die Blutentnahme - blood collection
+sperren - to block
+die Sperre/Sperrung - the ban, lock
+entsperren - unblock
+die Spannung - the tension
+entspannen - to relax
+entdecken - discover
+decken - cover
+
+die Zustimmung - consent
+der Zufall - coincidence
+zufällig - coincidently
+zusammen - together
+sammeln - to gather
+die Zusage - confirmation
+der Zugang - access
+die Zukunft - future
+der Zusatz - additive
+zusätzlich - additionally
