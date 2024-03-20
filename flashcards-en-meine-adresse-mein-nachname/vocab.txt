@@ -31,11 +31,11 @@ eure [Adresse | Anschrift | Wohnadresse] - your address guys
 ihre [Adresse | Anschrift | Wohnadresse] - their address 
 Ihre [Adresse | Anschrift | Wohnadresse] - your address (formal tone)  
 
-meine Telefonnummer - my phone number  
-deine Telefonnummer - your phone number (singular, informal tone)  
-seine Telefonnummer - his phone number  
-ihre Telefonnummer - her phone number  
-Ihre Telefonnummer - your phone number (formal tone)  
+meine [Telefonnummer | Rufnummer] - my phone number  
+deine [Telefonnummer | Rufnummer] - your phone number (singular, informal tone)  
+seine [Telefonnummer | Rufnummer] - his phone number  
+ihre [Telefonnummer | Rufnummer] - her phone number  
+Ihre [Telefonnummer | Rufnummer] - your phone number (formal tone)  
 
 meine Wohnung - my apartment  
 deine Wohnung - your apartment (singular, informal tone)  
