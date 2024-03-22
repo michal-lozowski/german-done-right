@@ -33,6 +33,9 @@ das Zimmer, in dem wir geschlafen haben - комната, в которой мы
 die Wohnung, in der ich in Berlin gewohnt habe - квартира, в которой я жил в Берлине
 die Wohnung, in der er in Frankfurt gewohnt hat - квартира, в которой он жил во Франкфурте
 die Wohnung, in der sie in München gewohnt hat - квартира, в которой она жила в Мюнхене
+das Hotel, in dem wir in Paris gewohnt haben - отель, в котором мы жили в Париже
+das Hotel, das wir auf der Karte gesehen haben - тот отель, который мы видели на карте
+die Wohnung, in der sie in New York gewohnt haben - квартира, в которой они жили в Нью Йорке
 
 die E-Mail, die ich Ihnen gestern [gesendet | geschickt] habe - емейл, который я Вам вчера отправил
 die E-Mail, die Sie mir gestern [gesendet | geschickt] haben - емейл, который Вы мне вчера послали
@@ -91,4 +94,19 @@ der Stadtteil, in dem wir wohnen - та часть города, в которо
 
 das Land, in dem ich lebe - страна, в которой я живу
 das Land, in dem wir leben - страна, в которой мы живем
+
+der Grund, warum ich [letztes | das letzte] Mal angerufen habe - причина, по которой я звонил в прошлый раз / причина, почему я звонил в прошлый раз
+der Grund, warum sie heute angerufen hat - причина, по которой она сегодня звонила / причина, почему она сегодня звонила
+der Grund, warum wir ein Auto gekauft haben - причина, почему мы купили машину
+der Grund, warum wir eine größere Wohnung brauchen - причина, почему нам нужна квартира больше
+
+der [Platz | Parkplatz], auf dem unser Auto [gestanden hat | stand | war] - место, на котором стояла наша машина
+die Stadt, in der wir gestern [waren | gewesen sind] - город, в котором мы были вчера
+
+die Sachen, die wir gestern besprochen haben - вещи, который мы обсудили вчера
+
+das, was sie gemacht haben - то, что они сделали
+das, was du gemacht hast - то, что ты сделал
+das, was er gemacht hat - то, что он сделал
+das, was sie gemacht hat - то, что она сделала
 
