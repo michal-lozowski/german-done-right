@@ -81,6 +81,15 @@ als Beispiel - в качестве примера, как пример
 besser spät als nie - лучше поздно чем никогда
 Spanien ist natürlich größer als Portugal - Испания конечно больше Португалии
 Portugal ist natürlich kleiner als Spanien - Португалия конечно меньше Испании
+Deutschland ist größer als Österreich - Германия больше Австрии
+Österreich ist kleiner als Österreich - Австрия меньше Германии
+Stahl ist teurer als Aluminium - сталь дороже алюминия
+Aluminium ist [günstiger | billiger] als Stahl - алюминий дешевле стали
+sein Auto ist teurer als mein Haus! - его машина дороже чем мой дом!
+ihr Motorrad ist teurer als mein Auto - её мотоцикл дороже моей машины
+[ | die] [Flugtickets | Flugkarten] sind jetzt [günstiger | billiger] als [ | die] [Zugtickets | Bahntickets] - авиабилеты сейчас дешевле чем билеты на поезд
+[ | die] [Zugtickets | Bahntickets] sind jetzt teurer als [ | die] [Flugtickets | Flugkarten] - билеты на поезд сейчас дороже чем авиабилеты
+[ | die] [Mieten | Mietpreise] in München sind [höher | teurer] als in Dresden - цены на аренду в Мюнхене выше чем в Дрездене
 
 blau wie der Himmel $ blau wie Himmel - синий как небо
 blau wie der Ozean $ blau wie Ozean - синий как океан
