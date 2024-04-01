@@ -5,3 +5,12 @@ ul {
 #pdf-link {
     text-decoration: underline;
 }
+
+.en {
+    font-weight: bold;
+    font-size: 80%;
+}
+
+.heading {
+    font-weight: bold;
+}
