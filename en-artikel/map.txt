@@ -14,6 +14,7 @@
 !den akk-def-m akk-local
 !die nom-def-f nom-main
 !den akk-def-m akk-local
+!Sie nom-sie nom-main
 !dem dat-def-n dat-local
 !der dat-def-f dat-local
 !das akk-def-n akk-local
