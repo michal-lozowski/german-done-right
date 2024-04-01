@@ -4,10 +4,7 @@ body {
 }
 
 a {
-    /* Remove text decoration (underline) */
     text-decoration: none;
-  
-    /* Remove default link color */
     color: inherit;
   }
   

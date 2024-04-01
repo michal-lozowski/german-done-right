@@ -1,0 +1,56 @@
+ich muss - I have to / I need to
+du musst - you have to / you need to (informal tone)
+er muss - he has to / he needs to
+sie muss - she has to / she needs to
+wir müssen - we have to / we need to
+ihr müsst - you guys have to / you guys need to
+sie müssen - they have to / they need to
+Sie müssen - you have to / you need to (formal tone)
+man muss - one has to
+
+ich kann - I can
+du kannst - you can (informal tone)
+er kann - he can
+sie kann - she can
+wir können - we can
+ihr könnt - you guys can
+sie können - they can
+Sie können - you can (formal tone)
+man kann - one can
+
+ich darf - I am allowed to
+du darfst - you are allowed to (informal tone)
+er darf - he is allowed to
+sie darf - she is allowed to
+wir dürfen - we are allowed to
+ihr dürft - you guys are allowed to
+sie dürfen - they are allowed to
+Sie dürfen - you are allowed to (formal tone)
+man darf - one may
+
+ich will - I want
+du willst - you want (informal tone)
+er will - he wants
+sie will - she wants
+wir wollen - we want
+ihr wollt - you guys want
+sie wollen - they want
+Sie wollen - you want (formal tone)
+
+ich möchte - I'd like to
+du möchtest - you'd like to (informal tone)
+er möchte - he'd like to
+sie möchte - she'd like to
+wir möchten - we'd like to
+ihr möchtet - you guys would like to
+sie möchten - they'd like to
+Sie möchten - you'd like to (formal tone)
+
+ich soll - I am supposed to
+du sollst - you're supposed to
+er soll - he's supposed to
+sie soll - she's supposed to
+wir sollen - we're supposed to
+ihr sollt - you guys are supposed to
+sie sollen - they are supposed to
+Sie sollen - you're supposed to (formal tone)
