@@ -71,7 +71,7 @@ können wir den Termin verschieben? - can we reschedule the appointment?
 können wir den Termin auf [  | die] nächste Woche verschieben? - can we reschedule the appointment for the next week?
 können wir den Termin auf März verschieben? - can we reschedule the appontment for March?
 
-kann ich mit Herrn Steiner sprechen? - can I speak with Herrn Schneider?
+kann ich mit Herrn Steiner sprechen? - can I speak with Herrn Steiner?
 kann ich mit Herrn Müller sprechen? - can I speak with Herrn Müller? 
 kann ich mit Frau Holz sprechen? - can I speak with Frau Holz?
 kann ich mit Frau Grube sprechen? - can I speak with Frau Grube?
