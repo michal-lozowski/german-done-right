@@ -120,5 +120,5 @@ nein, [das | es] [geht | passt] leider nicht $ nein, leider [geht | passt] [das 
 nächste Woche kann ich nicht $ ich kann nächste Woche nicht - на следующей неделе я не могу
 diese Woche kann ich nicht $ ich kann diese Woche nicht - на этой неделе я не могу
 
-wir [schicken | senden] (Ihnen & die Rechnung & per Post) - мы отправим вам счёт по почте
-wir [schicken | senden] (Ihnen & die Rechnung & per E-Mail) - мы отправим вам счёт по емейлу
+wir [schicken | senden] (Ihnen & die Rechnung & per Post) - мы отправим Вам счёт по почте
+wir [schicken | senden] (Ihnen & die Rechnung & per E-Mail) - мы отправим Вам счёт по емейлу
