@@ -3,43 +3,78 @@
 !seine akk-pos-pl akk-main basic-sein
 !Er nom-er nom-main
 !seinem dat-pos-n dat-prep basic-sein
-!einem dat-indef-n dat-prep
+!zum dat-def-m dat-prep
 !er nom-er nom-main
-!der dat-def-f dat-local
-!der dat-def-f dat-time
+!der dat-def-f dat-local ///Kasse
+!Die nom-def-f nom-main
+!ihm dat-ihm dat-main
+!er nom-er nom-main
+!ihr dat-ihm dat-main
+!seinem dat-pos-n dat-local basic-sein ///seinem Auto
+!dem dat-def-m dat-local ///Parkplatz
+!er nom-er nom-main
+!er nom-er nom-main
+!er nom-er nom-main
+!ein akk-indef-n akk-time
+!den akk-def-m akk-local
+!den dat-def-pl dat-prep ///Einkäufe
+!dem dat-def-m dat-time ///Abend
 !er nom-er nom-main
 !die akk-def-pl akk-main
 !den akk-def-m akk-local
 !Die nom-def-f nom-main
 !den akk-def-m akk-local
-!die nom-def-f nom-main
+!die nom-def-f nom-main ///die Pizza
 !den akk-def-m akk-local
+!den akk-def-m akk-main ///Boden
+!der dat-def-f dat-local ///Wohnung
+!den akk-def-m akk-main
+!die akk-def-pl akk-main
+!der dat-def-f dat-local
+!Der nom-def-m nom-main ///Ofen
+!die nom-def-f nom-main
+!das akk-def-n akk-local
+!Eine akk-indef-f akk-time
+!er nom-er nom-main
+!die nom-def-pl nom-main ///Gäste
 !dem dat-def-n dat-local
 !Sie nom-sie nom-main
-!der dat-def-f dat-local
-!das akk-def-n akk-prep
+!sie akk-sie akk-main
+!das akk-def-n akk-local
 !die akk-def-f akk-main
 !seine akk-pos-pl akk-main basic-sein
-!ins akk-def-n akk-local
+!ins akk-def-n akk-local ///ins Haus
 !Die nom-def-f nom-main
 !die akk-def-f akk-main
-!allen dat-def-pl dat-main
-!eine akk-indef-f akk-main
+!dem dat-def-m dat-prep
+!die akk-def-pl akk-main
+!wir nom-wir nom-main
+!Die nom-def-pl nom-main
+!ein akk-indef-n akk-prep
 !Sie nom-sie nom-main
+!zur dat-def-f dat-prep
+!ihm dat-ihm dat-main
 !Er nom-er nom-main
 !seinen dat-pos-pl dat-prep basic-sein
-!eine akk-indef-f akk-main
+!beim dat-def-n dat-prep
+!einen akk-indef-m akk-main
 !sie nom-sie nom-main
-!die akk-def-f akk-main
+!seine nom-pos-pl nom-main basic-sein
+!er nom-er nom-main
+!ihnen dat-ihnen dat-prep
+!er nom-er nom-main
+!im dat-def-m dat-local
+!er nom-er nom-main
+!die nom-sie nom-main
+!die akk-def-f akk-local
 !Es nom-er nom-main
 !Seine nom-pos-pl nom-main basic-sein
 !einer dat-indef-f dat-time
-!sie? nom-sie nom-main
-!Er nom-er nom-main
+!sie nom-sie nom-main
 !im dat-def-n dat-local
-!die akk-def-f akk-main
+!die akk-def-f akk-local
 !es nom-er nom-main
-!Er nom-er nom-main
+!er nom-er nom-main
 !die akk-def-f akk-local
 !der dat-def-f dat-prep
 !Sie nom-er nom-main
@@ -49,3 +84,5 @@
 !seine akk-pos-pl akk-main basic-sein
 !ihnen dat-ihnen dat-prep
 !er nom-er nom-main
+!seine akk-pos-f akk-main basic-sein
+!einen akk-indef-m akk-prep
