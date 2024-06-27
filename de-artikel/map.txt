@@ -1,4 +1,4 @@
-!eine akk-indef-f akk-main
+!einen akk-indef-m akk-main
 !Er nom-er nom-main
 !seine akk-pos-pl akk-main basic-sein
 !Er nom-er nom-main
