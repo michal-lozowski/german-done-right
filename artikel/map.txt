@@ -9,12 +9,13 @@
 !Die nom-def-f nom-main
 !ihm dat-ihm dat-main
 !er nom-er nom-main
-!ihr dat-ihr dat-main
+!ihr dat-ihm dat-main
 !seinem dat-pos-n dat-local basic-sein ///seinem Auto
 !dem dat-def-m dat-local ///Parkplatz
 !er nom-er nom-main
 !er nom-er nom-main
 !er nom-er nom-main
+!ein akk-indef-n akk-time
 !den akk-def-m akk-local
 !den dat-def-pl dat-prep ///Einkäufe
 !dem dat-def-m dat-time ///Abend
