@@ -37,7 +37,7 @@ async function mainclown() {
 
 
 function sortQandA() {
-    questions = vocabText.split("\r\n")
+    questions = vocabText.split("\n")
     questions = questions.filter(question => question.length > 4)
     questions = questions.map(question => {
         let separatorIndex = question.search(/\(/)
