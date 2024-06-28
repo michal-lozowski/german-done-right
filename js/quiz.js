@@ -95,6 +95,7 @@ function getQandA() {
 
 
 async function setup() {
+    pixelDensity(2)
     await mainclown()
 
     document.addEventListener('touchmove', function(event) {
