@@ -10,13 +10,11 @@ Sie dürfen hier nicht rauchen.
 
 Er hat nun keine Aufenthaltserlaubnis mehr. Er darf nicht in Deutschland bleiben. 
 
-Sie dürfen keine Handys nutzen. Aber Sie dürfen ein Wörterbuch nutzen.
+Sie dürfen keine Handys bei sich haben.
 
-Er hat keinen Führerschein. Er darf also kein Auto fahren.
+-Herr Müller, darf ich Thunderbird statt Outlook installieren?
 
--Herr Müller, darf ich Firefox statt Chrome installieren?
-
--Na klar, Sie dürfen auch Chrome installieren.
+-Na klar, Sie dürfen auch Thunderbird installieren.
 
 sollen:
 
@@ -26,7 +24,7 @@ Wen soll ich in so einer Situation anrufen?
 
 können:
 
-Lena, Peter, ihr könnt ja schwimmen, oder?
+Lena, Peter, ihr könnt ja beide schwimmen, oder?
 
 Leider können wir nicht helfen. Wir haben einfach keine Zeit.
 
