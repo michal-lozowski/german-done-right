@@ -8,13 +8,11 @@ dürfen:
 
 You're not allowed to smoke here.
 
-He's not allowed to stay in Germany.
-
 They are not allowed to have their mobile phones on them.
 
-Herr Müller, am I allowed to install Thunderbird instead of Outlook?
+-Herr Müller, am I allowed to install Thunderbird instead of Outlook?
 
-Sure, you can also install Thunderbird.
+-Sure, you can also install Thunderbird.
 
 sollen:
 
@@ -24,7 +22,7 @@ Who am I supposed to call in that kind of situaton?
 
 können:
 
-Lena, Peter, you both can swim, right?
+Lena, Peter, you both can swim well, right?
 
 Unfortunately we can't help. We simply don't have time.
 
