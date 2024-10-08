@@ -90,8 +90,8 @@ später
 
 Timo findet die Party schön in der Option 1.
 
-stimmt
-*stimmt nicht
+*stimmt
+stimmt nicht
 vielleicht
 
 Warum ist Timo sauer in der Option 2?
