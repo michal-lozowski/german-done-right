@@ -2,7 +2,7 @@ müssen:
 
 Morgen muss ich um 5:00 Uhr aufstehen, ich geh jetzt also schlafen.
 
-Mr. Ivanov, I'm sorry. Your visa is not valid anymore. You have to fly back to Istanbul.
+Herr Ivanov, es tut mir leid. Ihr Visum ist nicht mehr gültig. Sie müssen zurück nach Istanbul fliegen.
 
 dürfen:
 
@@ -10,7 +10,7 @@ Sie dürfen hier nicht rauchen.
 
 Sie dürfen keine Handys bei sich haben.
 
--Herr Müller, darf ich Thunderbird statt Outlook installieren?
+-Herr Schwarz, darf ich Thunderbird statt Outlook installieren?
 
 -Na klar, Sie dürfen auch Thunderbird installieren.
 
