@@ -106,7 +106,7 @@ Er geht einkaufen
 *Er isst etwas von der Pizza
 Er kocht etwas Neues
 
-Es ist jetzt _____ acht.
+Es ist jetzt _____ acht. Seine Freunde wollten schon vor einer Stunde hier sein.
 
 *halb
 viertel nach
