@@ -3,6 +3,10 @@ body {
     margin-bottom: 50px;
 }
 
+.underlinelink {
+    text-decoration: underline;
+}
+
 a {
     text-decoration: none;
     color: inherit;
