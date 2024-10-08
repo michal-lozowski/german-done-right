@@ -1,16 +1,22 @@
-// text-quiz.js
-
 let questions = [];
 let answers = [];
 
 async function fetchQuestionsAndAnswers() {
+    // Construct the base URL as per your method
+    const baseURL = window.location.href.endsWith('/') ? window.location.href : window.location.href + '/';
+
     // Fetch the text file containing questions
-    const response = await fetch('questions.txt');
+    const response = await fetch(baseURL + 'questions.txt');
+    if (!response.ok) {
+        console.error('Failed to fetch questions.txt:', response.statusText);
+        return;
+    }
     const questionsText = await response.text();
 
     // Parse the text into the questions and answers arrays
     processQuestionsAndAnswers(questionsText);
 }
+
 
 function processQuestionsAndAnswers(questionsText) {
     // Split the text into lines
