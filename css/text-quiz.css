@@ -1,0 +1,34 @@
+/* text-quiz.css */
+
+/* General styles */
+.question-block {
+    margin-bottom: 40px; /* Increased margin to double the space between questions */
+}
+
+.answer-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.answer-item {
+    margin-bottom: 5px;
+}
+
+.answer-text {
+    cursor: pointer;
+    display: inline-block; /* Ensures background only covers text length */
+    padding: 2px 4px; /* Optional: adds some padding around the text */
+    border-radius: 4px; /* Optional: rounds the corners of the background */
+}
+
+.answer-text:hover {
+    background-color: #eaeaea;
+}
+
+.answer-text.correct {
+    background-color: #d6f5d6; /* Pale green */
+}
+
+.answer-text.incorrect {
+    background-color: #f5d6d6; /* Pale red */
+}
