@@ -1,6 +1,6 @@
-Was möchte Timo heute Abend machen?
+Was macht Timo heute Abend?
 
-*Er möchte Eine Party machen
+*Er möchte eine Party machen
 Timo möchte mit Freunden ins Kino gehen
 Timo hat für heute Abend ein Workout geplant 
 
@@ -91,7 +91,7 @@ später
 Timo findet die Party schön in der Option 1.
 
 stimmt
-stimmt nicht
+*stimmt nicht
 vielleicht
 
 Warum ist Timo sauer in der Option 2?
@@ -105,7 +105,6 @@ Was macht Timo, als er Hunger bekommt?
 Er geht einkaufen
 *Er isst etwas von der Pizza
 Er kocht etwas Neues
-
 
 Es ist jetzt _____ acht.
 
@@ -129,4 +128,4 @@ Wie endet der Abend für Timo?
 
 Er feiert alleine
 *Er geht traurig schlafen
-Er ruft seine Freunde an
+Er ruft seine Freunde an    
