@@ -2,7 +2,7 @@ müssen:
 
 I have to get up at 5:00 tomorrow, so I'm going to sleep now.
 
-Herr Ivanov, es tut mir leid. Ihr Visum ist nicht mehr gültig. Sie müssen zurück nach Istanbul fliegen.
+Mr. Ivanov, I'm sorry. Your visa is not valid anymore. You have to fly back to Istanbul.
 
 dürfen:
 
@@ -10,9 +10,9 @@ You're not allowed to smoke here.
 
 They are not allowed to have their mobile phones on them.
 
--Herr Müller, am I allowed to install Thunderbird instead of Outlook?
+-Mr. Schwarz, am I allowed to install Thunderbird instead of Outlook?
 
--Sure, you can also install Thunderbird.
+-Sure, you may also install Thunderbird.
 
 sollen:
 

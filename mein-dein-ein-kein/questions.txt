@@ -2,57 +2,40 @@
 -_____(Mein) Deutschbuch ist hier im Regal.
 
 -Herr Krause, was macht _____(Ihre) Frau beruflich?
--Meine Frau ist Ärztin von Beruf. Aber derzeit arbeitet sie nicht.
+-Meine Frau ist Ärztin von Beruf.
 
 -Wie heißt der neue Praktikant?
 -Er heißt Max.
 -Und wie ist _____(sein) Nachname?
 -_____(Sein) Nachname ist Müller.
 
--Wie gut ist _____(dein) Computer?
--Mein Computer ist nicht sehr gut. Es ist alt und ziemlich langsam.
-
 -Wo ist _____(Ihr) Handy? Haben Sie es dabei?
--Nein, ich habe es leider nicht dabei. _____(Mein) Handy ist im Moment zu Hause. Tut mir leid.
+-Nein, ich habe es nicht dabei. Mein Handy ist in meinem Rucksack in der Umkleide.
 
 -Markus, hast du _____(eine) Gitarre?
--Nein, ich habe leider _____(keine) Gitarre.
+-Nein, ich habe _____(keine) Gitarre.
 
 -Tim und Sophie, habt ihr _____(eine) Gitarre?
 -Ja, wir haben _____(eine) Gitarre!
--Und wo ist _____(eure)(ваша) Gitarre?
--_____(Unsere)(наша) Gitarre ist im Keller. 
+-Und wo ist eu_____(re) Gitarre?
+-U_____(nsere) Gitarre ist im Keller. 
 
 -Hey Max, hast du Freunde? Du bist immer allein...
 -Nein, ich habe leider _____(keine) Freunde. Deshalb bin ich immer allein.
 
 -Hey Thomas, wo ist dein Auto?
--_____(Mein) Auto ist da auf dem Parkplatz.
-
--Wo ist d_____(ein) Autoschlüssel?
--M_____(ein) Autoschlüssel ist hier.
-
--Lisa, wo sind d_____(eine) Freunde?
--M_____(eine) Freunde sind dort.
+-Da auf dem Parkplatz ist ______(mein) Auto.
 
 -Herr Schumann, haben Sie _____(ein) Auto?
 -Nein, ich habe _____(kein) Auto.
-
--Herr Jankowski, haben Sie _____(ein) Auto?
--Ja, ich habe _____(ein) Auto. 
--Und wo steht _____(Ihr)(Ваша) Auto, Herr Jankowski?
--M_____(ein) Auto steht dort.
 
 -Wie heißt die neue Praktikantin?
 -Sie heißt Maria.
 -Und wie ist _____(ihr) Familienname?
 -_____(Ihr) Familienname ist Schulz.
 
--Hey Christian! Ich habe _____(ein) neues Handy. Aber alle Kontakten sind leider weg. Wie ist d_____(eine) Mobilnummer?
--Ach Schade. Das ist unglücklich. Also, m_____(eine) Handynummer ist: 0157...
-
--Wo ist deine Jacke?
--_____(Meine) Jacke ist hier.
+-Wie ist _____(deine) Telefonnummer?
+-_____(Meine) Nummer ist: 0157...
 
 -Wie heißt der neue Lehrer?
 -Er heißt Felix.
