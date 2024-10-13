@@ -17,3 +17,7 @@
 .artikel-span:hover {
     background-color: #eaeaea;
 }
+
+.artikel-span {
+    cursor: pointer;
+}
