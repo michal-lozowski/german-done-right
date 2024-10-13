@@ -13,3 +13,7 @@
 #big-div {
     margin-top: 50px;
 }
+
+.artikel-span:hover {
+    background-color: #eaeaea;
+}
