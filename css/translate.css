@@ -13,3 +13,8 @@
 .german-paragraph {
     visibility: hidden;
 }
+
+
+.russian-paragraph {
+    cursor: pointer;
+}
