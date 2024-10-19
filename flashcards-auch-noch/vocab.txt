@@ -12,14 +12,14 @@ etwas schönes $ etwas Schönes - что-то красивое
 etwas kleines $ etwas Kleines - что-то маленькое
 etwas anderes $ etwas Anderes - что-то другое
 etwas kaltes $ etwas Kaltes - что-то холодное
-etwas komisches $ etwas Komisches - что-то смешное
+etwas komisches $ etwas Komisches - что-то странное
 etwas schlechtes $ etwas Schlechtes $ etwas schlimmes $ etwas Schlimmes - что-то плохое
 
 nichts - ничего
 nichts neues $ nichts Neues - ничего нового
 nichts interessantes $ nichts Interessantes - ничего интересного
 nichts gutes $ nichts Gutes - ничего хорошего
-nichts komisches $ nichts Komisches - ничего смешного
+nichts komisches $ nichts Komisches - ничего странного
 nichts schlechtes $ nichts Schlechtes $ nichts schlimmes $ nichts Schlimmes - ничего плохого
 
 aber - но
