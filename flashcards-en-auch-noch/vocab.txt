@@ -74,7 +74,7 @@ besser spät als nie - better late than never
 Spanien ist natürlich größer als Portugal - Spain is surely bigger than Portugal
 Portugal ist natürlich kleiner als Spanien - Portugal is surely smaller than Spain
 Deutschland ist größer als Österreich - Germany is bigger than Austria
-Österreich ist kleiner als Österreich - Austria is smaller than Germany
+Österreich ist kleiner als Deutschland - Austria is smaller than Germany
 Stahl ist teurer als Aluminium - steel is more expensive than aluminum
 Aluminium ist [günstiger | billiger] als Stahl - aluminum is cheaper than steel
 
@@ -114,13 +114,13 @@ fast nie - almost never
 noch nicht - not yet
 noch nicht fertig - not yet done
 noch nicht klar - not yet clear
-noch besser - even better
-noch schneller - even faster
-noch größer - even bigger
-noch kleiner - even smaller
-noch teurer - even more expensive
-noch mehr - even more
-noch weniger - even less
+[noch | sogar] besser - even better
+[noch | sogar] schneller - even faster
+[noch | sogar] größer - even bigger
+[noch | sogar] kleiner - even smaller
+[noch | sogar] teurer - even more expensive
+[noch | sogar] mehr - even more
+[noch | sogar] weniger - even less
 noch eine Sache $ noch ein Ding - one more thing
 noch etwas - something else
 noch eine Frage - one more question
@@ -136,8 +136,8 @@ wieder zu spät - too late again
 wieder da $ wieder hier - here again
 wieder krank - sick again
 wieder vergessen - forgot again
-wieder nach Berlin - back to Berlin
-wieder nach München - back to Munich
+[wieder | zurück] nach Berlin - back to Berlin
+[wieder | zurück] nach München - back to Munich
 
 weiter - further
 wir gehen weiter - we continue / we go further
